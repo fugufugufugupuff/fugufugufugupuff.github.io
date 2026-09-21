@@ -1,0 +1,4147 @@
+[
+ {
+  "file": "editorial-atlas-background-v2-desktop.webp",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/08/editorial-atlas-background-v2-desktop.webp",
+  "kind": "background",
+  "group": "bg",
+  "w": 1774,
+  "h": 887,
+  "alpha": false,
+  "kb": 155,
+  "desc": "暗所に積まれた古地図・古書（PC向け横長）",
+  "tags": [
+   "dark",
+   "archive",
+   "photo"
+  ],
+  "max_css_px": 1774,
+  "wp_id": 3807
+ },
+ {
+  "file": "editorial-atlas-background-v2-mobile.webp",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/08/editorial-atlas-background-v2-mobile.webp",
+  "kind": "background",
+  "group": "bg",
+  "w": 853,
+  "h": 1844,
+  "alpha": false,
+  "kb": 119,
+  "desc": "同上の縦長版（スマホ向け）",
+  "tags": [
+   "dark",
+   "archive",
+   "photo",
+   "mobile"
+  ],
+  "max_css_px": 853,
+  "wp_id": 3808
+ },
+ {
+  "file": "wm-bg-blueprint-01.jpg",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-bg-blueprint-01.jpg",
+  "kind": "background",
+  "group": "bg",
+  "w": 1200,
+  "h": 717,
+  "alpha": false,
+  "kb": 86,
+  "desc": "青焼き図面の方眼",
+  "tags": [
+   "dark",
+   "blueprint",
+   "blue",
+   "grid"
+  ],
+  "max_css_px": 1200,
+  "wp_id": 4504
+ },
+ {
+  "file": "wm-bg-cloth-black-01.jpg",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-bg-cloth-black-01.jpg",
+  "kind": "background",
+  "group": "bg",
+  "w": 1200,
+  "h": 717,
+  "alpha": false,
+  "kb": 43,
+  "desc": "黒い布のドレープ",
+  "tags": [
+   "dark",
+   "cloth",
+   "black"
+  ],
+  "max_css_px": 1200,
+  "wp_id": 4505
+ },
+ {
+  "file": "wm-bg-deep-sea-01.jpg",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-bg-deep-sea-01.jpg",
+  "kind": "background",
+  "group": "bg",
+  "w": 1200,
+  "h": 651,
+  "alpha": false,
+  "kb": 56,
+  "desc": "深海の青。上から差す光",
+  "tags": [
+   "dark",
+   "sea",
+   "blue"
+  ],
+  "max_css_px": 1200,
+  "wp_id": 4506
+ },
+ {
+  "file": "wm-bg-fog-day-01.jpg",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-bg-fog-day-01.jpg",
+  "kind": "background",
+  "group": "bg",
+  "w": 1200,
+  "h": 651,
+  "alpha": false,
+  "kb": 60,
+  "desc": "昼の霧原と枯れ木",
+  "tags": [
+   "light",
+   "fog",
+   "day",
+   "photo"
+  ],
+  "max_css_px": 1200,
+  "wp_id": 4507
+ },
+ {
+  "file": "wm-bg-fog-night-01.jpg",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-bg-fog-night-01.jpg",
+  "kind": "background",
+  "group": "bg",
+  "w": 1200,
+  "h": 651,
+  "alpha": false,
+  "kb": 39,
+  "desc": "夜霧の中の街灯と木立",
+  "tags": [
+   "dark",
+   "fog",
+   "night",
+   "photo"
+  ],
+  "max_css_px": 1200,
+  "wp_id": 4508
+ },
+ {
+  "file": "wm-bg-halftone-01.jpg",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-bg-halftone-01.jpg",
+  "kind": "background",
+  "group": "bg",
+  "w": 1200,
+  "h": 717,
+  "alpha": false,
+  "kb": 147,
+  "desc": "網点ハーフトーン。灰",
+  "tags": [
+   "mid",
+   "halftone",
+   "print"
+  ],
+  "max_css_px": 1200,
+  "wp_id": 4509
+ },
+ {
+  "file": "wm-bg-lead-01.jpg",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-bg-lead-01.jpg",
+  "kind": "background",
+  "group": "bg",
+  "w": 1200,
+  "h": 651,
+  "alpha": false,
+  "kb": 111,
+  "desc": "鉛色の荒れた金属面",
+  "tags": [
+   "dark",
+   "metal",
+   "grey"
+  ],
+  "max_css_px": 1200,
+  "wp_id": 4510
+ },
+ {
+  "file": "wm-bg-paper-cold-01.jpg",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-bg-paper-cold-01.jpg",
+  "kind": "background",
+  "group": "bg",
+  "w": 1200,
+  "h": 651,
+  "alpha": false,
+  "kb": 81,
+  "desc": "冷たい灰白の紙",
+  "tags": [
+   "light",
+   "paper",
+   "cold"
+  ],
+  "max_css_px": 1200,
+  "wp_id": 4511
+ },
+ {
+  "file": "wm-bg-paper-warm-01.jpg",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-bg-paper-warm-01.jpg",
+  "kind": "background",
+  "group": "bg",
+  "w": 1200,
+  "h": 651,
+  "alpha": false,
+  "kb": 69,
+  "desc": "温かい生成り紙。横罫線の跡",
+  "tags": [
+   "light",
+   "paper",
+   "warm"
+  ],
+  "max_css_px": 1200,
+  "wp_id": 4512
+ },
+ {
+  "file": "wm-bg-plaster-01.jpg",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-bg-plaster-01.jpg",
+  "kind": "background",
+  "group": "bg",
+  "w": 1200,
+  "h": 717,
+  "alpha": false,
+  "kb": 94,
+  "desc": "ひび割れた白い漆喰",
+  "tags": [
+   "light",
+   "plaster",
+   "neutral"
+  ],
+  "max_css_px": 1200,
+  "wp_id": 4513
+ },
+ {
+  "file": "wm-bg-rust-01.jpg",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-bg-rust-01.jpg",
+  "kind": "background",
+  "group": "bg",
+  "w": 1200,
+  "h": 651,
+  "alpha": false,
+  "kb": 111,
+  "desc": "錆びた鉄板。茶と青灰",
+  "tags": [
+   "dark",
+   "rust",
+   "metal"
+  ],
+  "max_css_px": 1200,
+  "wp_id": 4514
+ },
+ {
+  "file": "wm-bg-sea-dark-01.jpg",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-bg-sea-dark-01.jpg",
+  "kind": "background",
+  "group": "bg",
+  "w": 1200,
+  "h": 651,
+  "alpha": false,
+  "kb": 89,
+  "desc": "暗い海面の波",
+  "tags": [
+   "dark",
+   "sea",
+   "water"
+  ],
+  "max_css_px": 1200,
+  "wp_id": 4515
+ },
+ {
+  "file": "wm-bg-sky-storm-01.jpg",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-bg-sky-storm-01.jpg",
+  "kind": "background",
+  "group": "bg",
+  "w": 1200,
+  "h": 717,
+  "alpha": false,
+  "kb": 53,
+  "desc": "灰色の嵐雲",
+  "tags": [
+   "dark",
+   "sky",
+   "storm"
+  ],
+  "max_css_px": 1200,
+  "wp_id": 4516
+ },
+ {
+  "file": "wm-bg-starfield-01.jpg",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-bg-starfield-01.jpg",
+  "kind": "background",
+  "group": "bg",
+  "w": 1200,
+  "h": 717,
+  "alpha": false,
+  "kb": 75,
+  "desc": "深い紺の星空",
+  "tags": [
+   "dark",
+   "space",
+   "night"
+  ],
+  "max_css_px": 1200,
+  "wp_id": 4517
+ },
+ {
+  "file": "wm-bg-stone-01.jpg",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-bg-stone-01.jpg",
+  "kind": "background",
+  "group": "bg",
+  "w": 1200,
+  "h": 717,
+  "alpha": false,
+  "kb": 136,
+  "desc": "灰褐色の粗い石肌",
+  "tags": [
+   "light",
+   "stone",
+   "neutral"
+  ],
+  "max_css_px": 1200,
+  "wp_id": 4518
+ },
+ {
+  "file": "wm-bg-wood-dark-01.jpg",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-bg-wood-dark-01.jpg",
+  "kind": "background",
+  "group": "bg",
+  "w": 1200,
+  "h": 717,
+  "alpha": false,
+  "kb": 97,
+  "desc": "暗い木目板。節あり",
+  "tags": [
+   "dark",
+   "wood",
+   "warm"
+  ],
+  "max_css_px": 1200,
+  "wp_id": 4519
+ },
+ {
+  "file": "wm-common-fog-ruins-background-03.jpg",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-common-fog-ruins-background-03.jpg",
+  "kind": "background",
+  "group": "common-bg",
+  "w": 1080,
+  "h": 797,
+  "alpha": false,
+  "kb": 223,
+  "desc": "霧の森と石の遺跡",
+  "tags": [
+   "dark",
+   "fog",
+   "ruins",
+   "photo"
+  ],
+  "max_css_px": 1080,
+  "wp_id": 4130
+ },
+ {
+  "file": "wm-common-ruins-background-02.jpg",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-common-ruins-background-02.jpg",
+  "kind": "background",
+  "group": "common-bg",
+  "w": 1080,
+  "h": 720,
+  "alpha": false,
+  "kb": 142,
+  "desc": "夜にライトアップされた遺跡と木",
+  "tags": [
+   "dark",
+   "ruins",
+   "night",
+   "photo"
+  ],
+  "max_css_px": 1080,
+  "wp_id": 4129
+ },
+ {
+  "file": "世界ミステリー図鑑-共通背景-01｜霧の中の古代石壁.jpg",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/世界ミステリー図鑑-共通背景-01｜霧の中の古代石壁.jpg",
+  "kind": "background",
+  "group": "common-bg",
+  "w": 1080,
+  "h": 539,
+  "alpha": false,
+  "kb": 82,
+  "desc": "霧の中の古代石壁",
+  "tags": [
+   "mid",
+   "fog",
+   "ruins",
+   "photo"
+  ],
+  "max_css_px": 1080,
+  "wp_id": 4128
+ },
+ {
+  "file": "wm-top-bg-archive.jpg",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-top-bg-archive.jpg",
+  "kind": "background",
+  "group": "top-bg",
+  "w": 1920,
+  "h": 1442,
+  "alpha": false,
+  "kb": 517,
+  "desc": "古書の背表紙の列",
+  "tags": [
+   "warm",
+   "archive",
+   "book",
+   "photo"
+  ],
+  "max_css_px": 1920,
+  "wp_id": 4297
+ },
+ {
+  "file": "wm-top-bg-aurora.jpg",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-top-bg-aurora.jpg",
+  "kind": "background",
+  "group": "top-bg",
+  "w": 1920,
+  "h": 1280,
+  "alpha": false,
+  "kb": 366,
+  "desc": "観測所とオーロラ",
+  "tags": [
+   "dark",
+   "aurora",
+   "night",
+   "photo"
+  ],
+  "max_css_px": 1920,
+  "wp_id": 4299
+ },
+ {
+  "file": "wm-top-bg-cave.jpg",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-top-bg-cave.jpg",
+  "kind": "background",
+  "group": "top-bg",
+  "w": 1920,
+  "h": 1247,
+  "alpha": false,
+  "kb": 868,
+  "desc": "石柱のある石窟寺院",
+  "tags": [
+   "warm",
+   "cave",
+   "temple",
+   "photo"
+  ],
+  "max_css_px": 1920,
+  "wp_id": 4296
+ },
+ {
+  "file": "wm-top-bg-celestial-dewit.jpg",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-top-bg-celestial-dewit.jpg",
+  "kind": "background",
+  "group": "top-bg",
+  "w": 1920,
+  "h": 1312,
+  "alpha": false,
+  "kb": 1321,
+  "desc": "デ・ウィットの天球図（17世紀）",
+  "tags": [
+   "warm",
+   "map",
+   "celestial",
+   "vintage"
+  ],
+  "max_css_px": 1920,
+  "wp_id": 4096
+ },
+ {
+  "file": "wm-top-bg-desert.jpg",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-top-bg-desert.jpg",
+  "kind": "background",
+  "group": "top-bg",
+  "w": 1920,
+  "h": 873,
+  "alpha": false,
+  "kb": 304,
+  "desc": "夕暮れの砂丘",
+  "tags": [
+   "warm",
+   "desert",
+   "photo"
+  ],
+  "max_css_px": 1920,
+  "wp_id": 4300
+ },
+ {
+  "file": "wm-top-bg-hemisphere-1862.jpg",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-top-bg-hemisphere-1862.jpg",
+  "kind": "background",
+  "group": "top-bg",
+  "w": 1920,
+  "h": 1459,
+  "alpha": false,
+  "kb": 919,
+  "desc": "1862年の両半球世界地図",
+  "tags": [
+   "light",
+   "map",
+   "vintage"
+  ],
+  "max_css_px": 1920,
+  "wp_id": 4095
+ },
+ {
+  "file": "wm-top-bg-marble.jpg",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-top-bg-marble.jpg",
+  "kind": "background",
+  "group": "top-bg",
+  "w": 1920,
+  "h": 1440,
+  "alpha": false,
+  "kb": 425,
+  "desc": "白大理石",
+  "tags": [
+   "light",
+   "marble",
+   "neutral"
+  ],
+  "max_css_px": 1920,
+  "wp_id": 4101
+ },
+ {
+  "file": "wm-top-bg-newspaper-1921.jpg",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-top-bg-newspaper-1921.jpg",
+  "kind": "background",
+  "group": "top-bg",
+  "w": 1920,
+  "h": 1203,
+  "alpha": false,
+  "kb": 562,
+  "desc": "1921年の英字新聞1面",
+  "tags": [
+   "light",
+   "newspaper",
+   "vintage"
+  ],
+  "max_css_px": 1920,
+  "wp_id": 4100
+ },
+ {
+  "file": "wm-top-bg-nightfog.jpg",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-top-bg-nightfog.jpg",
+  "kind": "background",
+  "group": "top-bg",
+  "w": 1920,
+  "h": 1282,
+  "alpha": false,
+  "kb": 87,
+  "desc": "夜霧の道路と街灯",
+  "tags": [
+   "dark",
+   "fog",
+   "night",
+   "photo"
+  ],
+  "max_css_px": 1920,
+  "wp_id": 4298
+ },
+ {
+  "file": "wm-top-bg-ninthwave.jpg",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-top-bg-ninthwave.jpg",
+  "kind": "background",
+  "group": "top-bg",
+  "w": 1920,
+  "h": 1268,
+  "alpha": false,
+  "kb": 562,
+  "desc": "アイヴァゾフスキー『第九の波』風の荒海と夕日（絵画）",
+  "tags": [
+   "warm",
+   "sea",
+   "painting"
+  ],
+  "max_css_px": 1920,
+  "wp_id": 4295
+ },
+ {
+  "file": "wm-top-bg-oldmap-1832-scaled.jpg",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-top-bg-oldmap-1832-scaled.jpg",
+  "kind": "background",
+  "group": "top-bg",
+  "w": 2560,
+  "h": 1975,
+  "alpha": false,
+  "kb": 789,
+  "desc": "1832年の世界地図（淡彩）",
+  "tags": [
+   "light",
+   "map",
+   "vintage"
+  ],
+  "max_css_px": 2560,
+  "wp_id": 4094
+ },
+ {
+  "file": "wm-top-bg-parchment-1.jpg",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-top-bg-parchment-1.jpg",
+  "kind": "background",
+  "group": "top-bg",
+  "w": 1920,
+  "h": 1444,
+  "alpha": false,
+  "kb": 805,
+  "desc": "濃いめの羊皮紙",
+  "tags": [
+   "warm",
+   "parchment"
+  ],
+  "max_css_px": 1920,
+  "wp_id": 4097
+ },
+ {
+  "file": "wm-top-bg-parchment-2.jpg",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-top-bg-parchment-2.jpg",
+  "kind": "background",
+  "group": "top-bg",
+  "w": 1920,
+  "h": 1484,
+  "alpha": false,
+  "kb": 951,
+  "desc": "明るい羊皮紙",
+  "tags": [
+   "light",
+   "parchment",
+   "warm"
+  ],
+  "max_css_px": 1920,
+  "wp_id": 4098
+ },
+ {
+  "file": "wm-top-bg-rust.jpg",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-top-bg-rust.jpg",
+  "kind": "background",
+  "group": "top-bg",
+  "w": 1920,
+  "h": 1440,
+  "alpha": false,
+  "kb": 527,
+  "desc": "錆びた白い鉄扉と鉄格子窓",
+  "tags": [
+   "dark",
+   "rust",
+   "photo"
+  ],
+  "max_css_px": 1920,
+  "wp_id": 4301
+ },
+ {
+  "file": "wm-top-bg-startrails.jpg",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-top-bg-startrails.jpg",
+  "kind": "background",
+  "group": "top-bg",
+  "w": 1920,
+  "h": 1278,
+  "alpha": false,
+  "kb": 521,
+  "desc": "スタートレイル（星の軌跡）",
+  "tags": [
+   "dark",
+   "space",
+   "night",
+   "photo"
+  ],
+  "max_css_px": 1920,
+  "wp_id": 4294
+ },
+ {
+  "file": "wm-common-ornate-divider.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-common-ornate-divider.png",
+  "kind": "divider",
+  "group": "common",
+  "w": 350,
+  "h": 80,
+  "alpha": true,
+  "kb": 5,
+  "desc": "白地に黒の飾り罫（透過ではない）",
+  "tags": [
+   "divider",
+   "ornament"
+  ],
+  "max_css_px": 350,
+  "wp_id": 4137
+ },
+ {
+  "file": "wm-deco-arc-05.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-arc-05.png",
+  "kind": "prop",
+  "group": "deco-arc",
+  "w": 219,
+  "h": 243,
+  "alpha": true,
+  "kb": 107,
+  "desc": "EVIDENCE 袋（骨片入り）",
+  "tags": [
+   "evidence",
+   "bag"
+  ],
+  "max_css_px": 219
+ },
+ {
+  "file": "wm-deco-arc-09.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-arc-09.png",
+  "kind": "prop",
+  "group": "deco-arc",
+  "w": 218,
+  "h": 234,
+  "alpha": true,
+  "kb": 101,
+  "desc": "黒塗りされた文書と紙片",
+  "tags": [
+   "redacted",
+   "paper"
+  ],
+  "max_css_px": 218
+ },
+ {
+  "file": "wm-deco-arc-10.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-arc-10.png",
+  "kind": "prop",
+  "group": "deco-arc",
+  "w": 391,
+  "h": 156,
+  "alpha": true,
+  "kb": 123,
+  "desc": "EVIDENCE / CLASSIFIED / REDACTED ラベル群",
+  "tags": [
+   "label",
+   "english",
+   "set"
+  ],
+  "max_css_px": 391
+ },
+ {
+  "file": "wm-deco-arc-13.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-arc-13.png",
+  "kind": "prop",
+  "group": "deco-arc",
+  "w": 360,
+  "h": 196,
+  "alpha": true,
+  "kb": 126,
+  "desc": "CLASSIFIED・RECEIVED APR 14 1958 スタンプと記入用紙",
+  "tags": [
+   "stamp",
+   "form",
+   "set"
+  ],
+  "max_css_px": 360
+ },
+ {
+  "file": "wm-deco-arc-14.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-arc-14.png",
+  "kind": "prop",
+  "group": "deco-arc",
+  "w": 79,
+  "h": 81,
+  "alpha": true,
+  "kb": 11,
+  "desc": "赤いハトメ",
+  "tags": [
+   "eyelet",
+   "red",
+   "tiny"
+  ],
+  "max_css_px": 79
+ },
+ {
+  "file": "wm-deco-arc-15.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-arc-15.png",
+  "kind": "prop",
+  "group": "deco-arc",
+  "w": 201,
+  "h": 132,
+  "alpha": true,
+  "kb": 48,
+  "desc": "ハトメ2個と DEC 03 1972 スタンプ",
+  "tags": [
+   "stamp",
+   "date",
+   "set"
+  ],
+  "max_css_px": 201
+ },
+ {
+  "file": "wm-deco-arc-16.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-arc-16.png",
+  "kind": "prop",
+  "group": "deco-arc",
+  "w": 159,
+  "h": 60,
+  "alpha": true,
+  "kb": 13,
+  "desc": "赤ペンの二重線",
+  "tags": [
+   "line",
+   "red",
+   "pen"
+  ],
+  "max_css_px": 159
+ },
+ {
+  "file": "wm-deco-arc-17.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-arc-17.png",
+  "kind": "prop",
+  "group": "deco-arc",
+  "w": 156,
+  "h": 56,
+  "alpha": true,
+  "kb": 18,
+  "desc": "CONFIDENTIAL 赤スタンプ",
+  "tags": [
+   "stamp",
+   "english",
+   "red"
+  ],
+  "max_css_px": 156
+ },
+ {
+  "file": "wm-deco-arc-18.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-arc-18.png",
+  "kind": "prop",
+  "group": "deco-arc",
+  "w": 165,
+  "h": 132,
+  "alpha": true,
+  "kb": 40,
+  "desc": "File / Project の黒テープラベル",
+  "tags": [
+   "label",
+   "tape",
+   "english"
+  ],
+  "max_css_px": 165
+ },
+ {
+  "file": "wm-deco-arc-21.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-arc-21.png",
+  "kind": "prop",
+  "group": "deco-arc",
+  "w": 180,
+  "h": 74,
+  "alpha": true,
+  "kb": 27,
+  "desc": "生成りテープ片",
+  "tags": [
+   "tape"
+  ],
+  "max_css_px": 180
+ },
+ {
+  "file": "wm-deco-arc-22.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-arc-22.png",
+  "kind": "prop",
+  "group": "deco-arc",
+  "w": 184,
+  "h": 69,
+  "alpha": true,
+  "kb": 25,
+  "desc": "黒テープ片",
+  "tags": [
+   "tape",
+   "black"
+  ],
+  "max_css_px": 184
+ },
+ {
+  "file": "wm-deco-arc-23.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-arc-23.png",
+  "kind": "prop",
+  "group": "deco-arc",
+  "w": 158,
+  "h": 68,
+  "alpha": true,
+  "kb": 19,
+  "desc": "Index 黒テープラベル",
+  "tags": [
+   "label",
+   "tape",
+   "english"
+  ],
+  "max_css_px": 158
+ },
+ {
+  "file": "wm-deco-arc-24.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-arc-24.png",
+  "kind": "prop",
+  "group": "deco-arc",
+  "w": 184,
+  "h": 118,
+  "alpha": true,
+  "kb": 43,
+  "desc": "Specimen 黒テープ＋生成りテープ",
+  "tags": [
+   "label",
+   "tape",
+   "english"
+  ],
+  "max_css_px": 184
+ },
+ {
+  "file": "wm-deco-arch-01.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-arch-01.png",
+  "kind": "prop",
+  "group": "deco-arch",
+  "w": 212,
+  "h": 414,
+  "alpha": true,
+  "kb": 181,
+  "desc": "灯ったランタン",
+  "tags": [
+   "lantern",
+   "light"
+  ],
+  "max_css_px": 212
+ },
+ {
+  "file": "wm-deco-arch-04.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-arch-04.png",
+  "kind": "prop",
+  "group": "deco-arch",
+  "w": 164,
+  "h": 367,
+  "alpha": true,
+  "kb": 115,
+  "desc": "砂時計",
+  "tags": [
+   "hourglass"
+  ],
+  "max_css_px": 164
+ },
+ {
+  "file": "wm-deco-arch-07.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-arch-07.png",
+  "kind": "prop",
+  "group": "deco-arch",
+  "w": 270,
+  "h": 396,
+  "alpha": true,
+  "kb": 187,
+  "desc": "虫眼鏡と鍵",
+  "tags": [
+   "magnifier",
+   "key"
+  ],
+  "max_css_px": 270
+ },
+ {
+  "file": "wm-deco-arch-08.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-arch-08.png",
+  "kind": "prop",
+  "group": "deco-arch",
+  "w": 156,
+  "h": 150,
+  "alpha": true,
+  "kb": 52,
+  "desc": "赤い封蝋（羅針紋）",
+  "tags": [
+   "seal",
+   "red"
+  ],
+  "max_css_px": 156
+ },
+ {
+  "file": "wm-deco-arch-10.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-arch-10.png",
+  "kind": "prop",
+  "group": "deco-arch",
+  "w": 135,
+  "h": 204,
+  "alpha": true,
+  "kb": 67,
+  "desc": "緑青の青銅装飾片",
+  "tags": [
+   "artifact",
+   "bronze"
+  ],
+  "max_css_px": 135
+ },
+ {
+  "file": "wm-deco-arch-12.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-arch-12.png",
+  "kind": "prop",
+  "group": "deco-arch",
+  "w": 146,
+  "h": 144,
+  "alpha": true,
+  "kb": 49,
+  "desc": "古代の金貨（人物像）",
+  "tags": [
+   "coin",
+   "gold"
+  ],
+  "max_css_px": 146
+ },
+ {
+  "file": "wm-deco-arch-21.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-arch-21.png",
+  "kind": "prop",
+  "group": "deco-arch",
+  "w": 166,
+  "h": 207,
+  "alpha": true,
+  "kb": 88,
+  "desc": "刻印のある粘土板片",
+  "tags": [
+   "tablet",
+   "clay"
+  ],
+  "max_css_px": 166
+ },
+ {
+  "file": "wm-deco-arch-23.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-arch-23.png",
+  "kind": "prop",
+  "group": "deco-arch",
+  "w": 338,
+  "h": 260,
+  "alpha": true,
+  "kb": 184,
+  "desc": "標本袋・荷札・シダの押し葉",
+  "tags": [
+   "specimen",
+   "set"
+  ],
+  "max_css_px": 338
+ },
+ {
+  "file": "wm-deco-arch-24.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-arch-24.png",
+  "kind": "prop",
+  "group": "deco-arch",
+  "w": 232,
+  "h": 202,
+  "alpha": true,
+  "kb": 118,
+  "desc": "方眼の古地図片（赤X）",
+  "tags": [
+   "map",
+   "paper"
+  ],
+  "max_css_px": 232
+ },
+ {
+  "file": "wm-deco-arch-25.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-arch-25.png",
+  "kind": "prop",
+  "group": "deco-arch",
+  "w": 164,
+  "h": 134,
+  "alpha": true,
+  "kb": 43,
+  "desc": "No./Site/Date/Notes の標本ラベル",
+  "tags": [
+   "label",
+   "english",
+   "form"
+  ],
+  "max_css_px": 164
+ },
+ {
+  "file": "wm-deco-arch-29.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-arch-29.png",
+  "kind": "prop",
+  "group": "deco-arch",
+  "w": 205,
+  "h": 237,
+  "alpha": true,
+  "kb": 90,
+  "desc": "スケールバー・荷札・移植ごて",
+  "tags": [
+   "archaeology",
+   "tool",
+   "set"
+  ],
+  "max_css_px": 205
+ },
+ {
+  "file": "wm-deco-case-03.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-case-03.png",
+  "kind": "prop",
+  "group": "deco-case",
+  "w": 231,
+  "h": 145,
+  "alpha": true,
+  "kb": 52,
+  "desc": "赤い糸のたわみ",
+  "tags": [
+   "string",
+   "red"
+  ],
+  "max_css_px": 231
+ },
+ {
+  "file": "wm-deco-case-04.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-case-04.png",
+  "kind": "prop",
+  "group": "deco-case",
+  "w": 79,
+  "h": 103,
+  "alpha": true,
+  "kb": 14,
+  "desc": "赤い画鋲",
+  "tags": [
+   "pin",
+   "red",
+   "tiny"
+  ],
+  "max_css_px": 79
+ },
+ {
+  "file": "wm-deco-case-05.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-case-05.png",
+  "kind": "prop",
+  "group": "deco-case",
+  "w": 77,
+  "h": 106,
+  "alpha": true,
+  "kb": 12,
+  "desc": "青い画鋲",
+  "tags": [
+   "pin",
+   "blue",
+   "tiny"
+  ],
+  "max_css_px": 77
+ },
+ {
+  "file": "wm-deco-case-06.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-case-06.png",
+  "kind": "prop",
+  "group": "deco-case",
+  "w": 312,
+  "h": 382,
+  "alpha": true,
+  "kb": 215,
+  "desc": "CASE FILE 黒ラベル＋テープ片3枚",
+  "tags": [
+   "label",
+   "tape",
+   "set"
+  ],
+  "max_css_px": 312
+ },
+ {
+  "file": "wm-deco-case-13.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-case-13.png",
+  "kind": "prop",
+  "group": "deco-case",
+  "w": 212,
+  "h": 130,
+  "alpha": true,
+  "kb": 38,
+  "desc": "APR 14 1963 消印スタンプ（赤）",
+  "tags": [
+   "stamp",
+   "date",
+   "red"
+  ],
+  "max_css_px": 212
+ },
+ {
+  "file": "wm-deco-case-14.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-case-14.png",
+  "kind": "prop",
+  "group": "deco-case",
+  "w": 151,
+  "h": 118,
+  "alpha": true,
+  "kb": 31,
+  "desc": "Lead? 紙片",
+  "tags": [
+   "label",
+   "english"
+  ],
+  "max_css_px": 151
+ },
+ {
+  "file": "wm-deco-case-19.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-case-19.png",
+  "kind": "prop",
+  "group": "deco-case",
+  "w": 98,
+  "h": 128,
+  "alpha": true,
+  "kb": 20,
+  "desc": "ダブルクリップ（黒）",
+  "tags": [
+   "clip",
+   "tiny"
+  ],
+  "max_css_px": 98
+ },
+ {
+  "file": "wm-deco-case-21.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-case-21.png",
+  "kind": "prop",
+  "group": "deco-case",
+  "w": 194,
+  "h": 89,
+  "alpha": true,
+  "kb": 27,
+  "desc": "OCT 27 1984 日付スタンプ（赤枠）",
+  "tags": [
+   "stamp",
+   "date",
+   "red"
+  ],
+  "max_css_px": 194
+ },
+ {
+  "file": "wm-deco-case-22.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-case-22.png",
+  "kind": "prop",
+  "group": "deco-case",
+  "w": 132,
+  "h": 128,
+  "alpha": true,
+  "kb": 29,
+  "desc": "赤い封蝋（無地）",
+  "tags": [
+   "seal",
+   "red"
+  ],
+  "max_css_px": 132
+ },
+ {
+  "file": "wm-deco-case-23.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-case-23.png",
+  "kind": "prop",
+  "group": "deco-case",
+  "w": 187,
+  "h": 106,
+  "alpha": true,
+  "kb": 39,
+  "desc": "Suspect? 赤丸囲み紙片",
+  "tags": [
+   "label",
+   "english",
+   "red"
+  ],
+  "max_css_px": 187
+ },
+ {
+  "file": "wm-deco-case-25.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-case-25.png",
+  "kind": "prop",
+  "group": "deco-case",
+  "w": 341,
+  "h": 238,
+  "alpha": true,
+  "kb": 146,
+  "desc": "PERSONS OF INTEREST / EVIDENCE / LOCATIONS / NOTES のタブ付きインデックスカード",
+  "tags": [
+   "card",
+   "tabs",
+   "english"
+  ],
+  "max_css_px": 341
+ },
+ {
+  "file": "wm-deco-case-26.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-case-26.png",
+  "kind": "prop",
+  "group": "deco-case",
+  "w": 126,
+  "h": 86,
+  "alpha": true,
+  "kb": 22,
+  "desc": "黒い矢印（手描き風）",
+  "tags": [
+   "arrow",
+   "black",
+   "tiny"
+  ],
+  "max_css_px": 126
+ },
+ {
+  "file": "wm-deco-case-27.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-case-27.png",
+  "kind": "prop",
+  "group": "deco-case",
+  "w": 143,
+  "h": 153,
+  "alpha": true,
+  "kb": 39,
+  "desc": "？の紙片",
+  "tags": [
+   "label",
+   "question"
+  ],
+  "max_css_px": 143
+ },
+ {
+  "file": "wm-deco-case-29.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-case-29.png",
+  "kind": "prop",
+  "group": "deco-case",
+  "w": 254,
+  "h": 84,
+  "alpha": true,
+  "kb": 38,
+  "desc": "黒いテープ片（横長）",
+  "tags": [
+   "tape",
+   "black"
+  ],
+  "max_css_px": 254
+ },
+ {
+  "file": "wm-deco-case-30.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-case-30.png",
+  "kind": "prop",
+  "group": "deco-case",
+  "w": 222,
+  "h": 123,
+  "alpha": true,
+  "kb": 31,
+  "desc": "赤ペンの丸囲み",
+  "tags": [
+   "circle",
+   "red",
+   "pen"
+  ],
+  "max_css_px": 222
+ },
+ {
+  "file": "wm-deco-case-31.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-case-31.png",
+  "kind": "prop",
+  "group": "deco-case",
+  "w": 296,
+  "h": 141,
+  "alpha": true,
+  "kb": 67,
+  "desc": "破れた白い紙片（横長）",
+  "tags": [
+   "paper",
+   "blank"
+  ],
+  "max_css_px": 296
+ },
+ {
+  "file": "wm-deco-case-33.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-case-33.png",
+  "kind": "prop",
+  "group": "deco-case",
+  "w": 204,
+  "h": 110,
+  "alpha": true,
+  "kb": 43,
+  "desc": "Follow up 赤下線の紙片",
+  "tags": [
+   "label",
+   "english",
+   "red"
+  ],
+  "max_css_px": 204
+ },
+ {
+  "file": "wm-deco-ed-02.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-ed-02.png",
+  "kind": "prop",
+  "group": "deco-ed",
+  "w": 413,
+  "h": 175,
+  "alpha": true,
+  "kb": 118,
+  "desc": "巻いた羊皮紙のリボンバナー",
+  "tags": [
+   "banner",
+   "ribbon",
+   "parchment"
+  ],
+  "max_css_px": 413
+ },
+ {
+  "file": "wm-deco-ed-12.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-ed-12.png",
+  "kind": "prop",
+  "group": "deco-ed",
+  "w": 301,
+  "h": 133,
+  "alpha": true,
+  "kb": 77,
+  "desc": "「未解決の謎」黒地金縁の飾りプレート",
+  "tags": [
+   "label",
+   "japanese",
+   "plate"
+  ],
+  "max_css_px": 301
+ },
+ {
+  "file": "wm-deco-ed-13.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-ed-13.png",
+  "kind": "prop",
+  "group": "deco-ed",
+  "w": 119,
+  "h": 211,
+  "alpha": true,
+  "kb": 53,
+  "desc": "砂時計",
+  "tags": [
+   "hourglass",
+   "time"
+  ],
+  "max_css_px": 119
+ },
+ {
+  "file": "wm-deco-ed-16.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-ed-16.png",
+  "kind": "prop",
+  "group": "deco-ed",
+  "w": 258,
+  "h": 183,
+  "alpha": true,
+  "kb": 101,
+  "desc": "「まだ、わかっていない―」古紙プレート",
+  "tags": [
+   "label",
+   "japanese",
+   "paper"
+  ],
+  "max_css_px": 258
+ },
+ {
+  "file": "wm-deco-ed-18.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-ed-18.png",
+  "kind": "prop",
+  "group": "deco-ed",
+  "w": 305,
+  "h": 123,
+  "alpha": true,
+  "kb": 78,
+  "desc": "「失われた文明」羅針図付きプレート",
+  "tags": [
+   "label",
+   "japanese",
+   "plate"
+  ],
+  "max_css_px": 305
+ },
+ {
+  "file": "wm-deco-ed-23.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-ed-23.png",
+  "kind": "prop",
+  "group": "deco-ed",
+  "w": 119,
+  "h": 122,
+  "alpha": true,
+  "kb": 26,
+  "desc": "金色の星の輝き",
+  "tags": [
+   "sparkle",
+   "star",
+   "tiny"
+  ],
+  "max_css_px": 119
+ },
+ {
+  "file": "wm-deco-exp-02.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-exp-02.png",
+  "kind": "prop",
+  "group": "deco-exp",
+  "w": 189,
+  "h": 349,
+  "alpha": true,
+  "kb": 94,
+  "desc": "鍵束（3本）",
+  "tags": [
+   "key"
+  ],
+  "max_css_px": 189
+ },
+ {
+  "file": "wm-deco-exp-12.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-exp-12.png",
+  "kind": "prop",
+  "group": "deco-exp",
+  "w": 374,
+  "h": 206,
+  "alpha": true,
+  "kb": 153,
+  "desc": "革ベルトで巻いた地図の巻物",
+  "tags": [
+   "scroll",
+   "map"
+  ],
+  "max_css_px": 374
+ },
+ {
+  "file": "wm-deco-map-01.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-map-01.png",
+  "kind": "prop",
+  "group": "deco-map",
+  "w": 185,
+  "h": 199,
+  "alpha": true,
+  "kb": 76,
+  "desc": "羅針盤（真鍮・正面）",
+  "tags": [
+   "compass"
+  ],
+  "max_css_px": 185
+ },
+ {
+  "file": "wm-deco-map-05.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-map-05.png",
+  "kind": "prop",
+  "group": "deco-map",
+  "w": 401,
+  "h": 368,
+  "alpha": true,
+  "kb": 325,
+  "desc": "山岳の宝の地図（赤い経路）",
+  "tags": [
+   "map",
+   "paper"
+  ],
+  "max_css_px": 401
+ },
+ {
+  "file": "wm-deco-map-10.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-map-10.png",
+  "kind": "prop",
+  "group": "deco-map",
+  "w": 171,
+  "h": 122,
+  "alpha": true,
+  "kb": 43,
+  "desc": "二重枠の紙ラベル",
+  "tags": [
+   "label",
+   "frame",
+   "blank"
+  ],
+  "max_css_px": 171
+ },
+ {
+  "file": "wm-deco-map-11.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-map-11.png",
+  "kind": "prop",
+  "group": "deco-map",
+  "w": 244,
+  "h": 245,
+  "alpha": true,
+  "kb": 141,
+  "desc": "羅針盤（大・真鍮）",
+  "tags": [
+   "compass"
+  ],
+  "max_css_px": 244
+ },
+ {
+  "file": "wm-deco-map-12.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-map-12.png",
+  "kind": "prop",
+  "group": "deco-map",
+  "w": 219,
+  "h": 119,
+  "alpha": true,
+  "kb": 58,
+  "desc": "EXPEDITION No. の緑チケット",
+  "tags": [
+   "ticket",
+   "english"
+  ],
+  "max_css_px": 219
+ },
+ {
+  "file": "wm-deco-map-13.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-map-13.png",
+  "kind": "prop",
+  "group": "deco-map",
+  "w": 89,
+  "h": 89,
+  "alpha": true,
+  "kb": 17,
+  "desc": "フォトコーナー（茶・小）",
+  "tags": [
+   "photo-corner",
+   "tiny"
+  ],
+  "max_css_px": 89
+ },
+ {
+  "file": "wm-deco-map-21.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-map-21.png",
+  "kind": "prop",
+  "group": "deco-map",
+  "w": 94,
+  "h": 93,
+  "alpha": true,
+  "kb": 12,
+  "desc": "フォトコーナー（黒・小）",
+  "tags": [
+   "photo-corner",
+   "tiny"
+  ],
+  "max_css_px": 94
+ },
+ {
+  "file": "wm-deco-map-22.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-map-22.png",
+  "kind": "prop",
+  "group": "deco-map",
+  "w": 194,
+  "h": 133,
+  "alpha": true,
+  "kb": 58,
+  "desc": "FIELD NOTES No.7319 チケット",
+  "tags": [
+   "ticket",
+   "english"
+  ],
+  "max_css_px": 194
+ },
+ {
+  "file": "wm-deco-map-23.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-map-23.png",
+  "kind": "prop",
+  "group": "deco-map",
+  "w": 249,
+  "h": 158,
+  "alpha": true,
+  "kb": 84,
+  "desc": "封蝋付きの封筒",
+  "tags": [
+   "envelope",
+   "seal"
+  ],
+  "max_css_px": 249
+ },
+ {
+  "file": "wm-deco-map-25.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-map-25.png",
+  "kind": "prop",
+  "group": "deco-map",
+  "w": 144,
+  "h": 140,
+  "alpha": true,
+  "kb": 40,
+  "desc": "赤い封蝋（星紋）",
+  "tags": [
+   "seal",
+   "red"
+  ],
+  "max_css_px": 144
+ },
+ {
+  "file": "wm-deco-map-28.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-map-28.png",
+  "kind": "prop",
+  "group": "deco-map",
+  "w": 173,
+  "h": 95,
+  "alpha": true,
+  "kb": 34,
+  "desc": "枠線入り紙ラベル（横長）",
+  "tags": [
+   "label",
+   "frame",
+   "blank"
+  ],
+  "max_css_px": 173
+ },
+ {
+  "file": "wm-deco-map-29.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-map-29.png",
+  "kind": "prop",
+  "group": "deco-map",
+  "w": 194,
+  "h": 272,
+  "alpha": true,
+  "kb": 111,
+  "desc": "地球の絵の荷札",
+  "tags": [
+   "tag",
+   "globe"
+  ],
+  "max_css_px": 194
+ },
+ {
+  "file": "wm-deco-map-30.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-map-30.png",
+  "kind": "prop",
+  "group": "deco-map",
+  "w": 339,
+  "h": 279,
+  "alpha": true,
+  "kb": 217,
+  "desc": "紐で縛った古地図の束",
+  "tags": [
+   "map",
+   "bundle"
+  ],
+  "max_css_px": 339
+ },
+ {
+  "file": "wm-deco-map-43.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-map-43.png",
+  "kind": "prop",
+  "group": "deco-map",
+  "w": 185,
+  "h": 98,
+  "alpha": true,
+  "kb": 40,
+  "desc": "焦げ縁の小さな古紙（横長）",
+  "tags": [
+   "paper",
+   "blank"
+  ],
+  "max_css_px": 185
+ },
+ {
+  "file": "wm-deco-compass.webp",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-compass.webp",
+  "kind": "prop",
+  "group": "deco-named",
+  "w": 340,
+  "h": 552,
+  "alpha": true,
+  "kb": 66,
+  "desc": "真鍮の羅針盤",
+  "tags": [
+   "compass"
+  ],
+  "max_css_px": 340,
+  "wp_id": 4276
+ },
+ {
+  "file": "wm-deco-explore.webp",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-explore.webp",
+  "kind": "prop",
+  "group": "deco-named",
+  "w": 480,
+  "h": 159,
+  "alpha": true,
+  "kb": 32,
+  "desc": "Explore the Unknown の紙リボン",
+  "tags": [
+   "label",
+   "ribbon",
+   "english"
+  ],
+  "max_css_px": 480,
+  "wp_id": 4291
+ },
+ {
+  "file": "wm-deco-globe.webp",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-globe.webp",
+  "kind": "prop",
+  "group": "deco-named",
+  "w": 280,
+  "h": 612,
+  "alpha": true,
+  "kb": 84,
+  "desc": "懐中時計と地球儀の組み",
+  "tags": [
+   "prop",
+   "globe",
+   "watch"
+  ],
+  "max_css_px": 280,
+  "wp_id": 4292
+ },
+ {
+  "file": "wm-deco-hourglass.webp",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-hourglass.webp",
+  "kind": "prop",
+  "group": "deco-named",
+  "w": 150,
+  "h": 274,
+  "alpha": true,
+  "kb": 22,
+  "desc": "砂時計",
+  "tags": [
+   "hourglass",
+   "time"
+  ],
+  "max_css_px": 150,
+  "wp_id": 4284
+ },
+ {
+  "file": "wm-deco-keys.webp",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-keys.webp",
+  "kind": "prop",
+  "group": "deco-named",
+  "w": 220,
+  "h": 414,
+  "alpha": true,
+  "kb": 40,
+  "desc": "古い鍵束",
+  "tags": [
+   "key"
+  ],
+  "max_css_px": 220,
+  "wp_id": 4286
+ },
+ {
+  "file": "wm-deco-magnifier.webp",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-magnifier.webp",
+  "kind": "prop",
+  "group": "deco-named",
+  "w": 340,
+  "h": 526,
+  "alpha": true,
+  "kb": 60,
+  "desc": "虫眼鏡と鍵・アンモナイト",
+  "tags": [
+   "magnifier",
+   "key"
+  ],
+  "max_css_px": 340,
+  "wp_id": 4277
+ },
+ {
+  "file": "wm-deco-mapkit.webp",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-mapkit.webp",
+  "kind": "prop",
+  "group": "deco-named",
+  "w": 480,
+  "h": 374,
+  "alpha": true,
+  "kb": 88,
+  "desc": "コンパス・巻紙・チケットの詰め合わせ",
+  "tags": [
+   "map",
+   "compass",
+   "set"
+  ],
+  "max_css_px": 480,
+  "wp_id": 4285
+ },
+ {
+  "file": "wm-deco-moon.webp",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-moon.webp",
+  "kind": "prop",
+  "group": "deco-named",
+  "w": 220,
+  "h": 222,
+  "alpha": true,
+  "kb": 15,
+  "desc": "青い満月",
+  "tags": [
+   "moon",
+   "blue"
+  ],
+  "max_css_px": 220,
+  "wp_id": 4279
+ },
+ {
+  "file": "wm-deco-paper.webp",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-paper.webp",
+  "kind": "prop",
+  "group": "deco-named",
+  "w": 380,
+  "h": 460,
+  "alpha": true,
+  "kb": 49,
+  "desc": "焦げ縁の古紙",
+  "tags": [
+   "paper",
+   "blank"
+  ],
+  "max_css_px": 380,
+  "wp_id": 4289
+ },
+ {
+  "file": "wm-deco-pin.webp",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-pin.webp",
+  "kind": "prop",
+  "group": "deco-named",
+  "w": 100,
+  "h": 134,
+  "alpha": true,
+  "kb": 9,
+  "desc": "赤い画鋲",
+  "tags": [
+   "pin",
+   "red"
+  ],
+  "max_css_px": 100,
+  "wp_id": 4283
+ },
+ {
+  "file": "wm-deco-redstring.webp",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-redstring.webp",
+  "kind": "prop",
+  "group": "deco-named",
+  "w": 280,
+  "h": 172,
+  "alpha": true,
+  "kb": 28,
+  "desc": "赤い糸のたわみ",
+  "tags": [
+   "string",
+   "red"
+  ],
+  "max_css_px": 280,
+  "wp_id": 4282
+ },
+ {
+  "file": "wm-deco-scrolls.webp",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-scrolls.webp",
+  "kind": "prop",
+  "group": "deco-named",
+  "w": 440,
+  "h": 355,
+  "alpha": true,
+  "kb": 78,
+  "desc": "古い巻物と地図片・コイン",
+  "tags": [
+   "scroll",
+   "map",
+   "set"
+  ],
+  "max_css_px": 440,
+  "wp_id": 4280
+ },
+ {
+  "file": "wm-deco-tape.webp",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-tape.webp",
+  "kind": "prop",
+  "group": "deco-named",
+  "w": 240,
+  "h": 128,
+  "alpha": true,
+  "kb": 12,
+  "desc": "マスキングテープ片",
+  "tags": [
+   "tape"
+  ],
+  "max_css_px": 240,
+  "wp_id": 4281
+ },
+ {
+  "file": "wm-deco-treasuremap.webp",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-treasuremap.webp",
+  "kind": "prop",
+  "group": "deco-named",
+  "w": 320,
+  "h": 397,
+  "alpha": true,
+  "kb": 53,
+  "desc": "破れた宝の地図（赤いX）",
+  "tags": [
+   "map",
+   "paper"
+  ],
+  "max_css_px": 320,
+  "wp_id": 4290
+ },
+ {
+  "file": "wm-deco-waxseal.webp",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-waxseal.webp",
+  "kind": "prop",
+  "group": "deco-named",
+  "w": 180,
+  "h": 178,
+  "alpha": true,
+  "kb": 15,
+  "desc": "赤い封蝋",
+  "tags": [
+   "seal",
+   "red"
+  ],
+  "max_css_px": 180,
+  "wp_id": 4287
+ },
+ {
+  "file": "wm-deco-worldmap.webp",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-worldmap.webp",
+  "kind": "prop",
+  "group": "deco-named",
+  "w": 560,
+  "h": 321,
+  "alpha": true,
+  "kb": 112,
+  "desc": "黒い世界地図シルエットと封蝋",
+  "tags": [
+   "map",
+   "world"
+  ],
+  "max_css_px": 560,
+  "wp_id": 4278
+ },
+ {
+  "file": "wm-erd-candles.webp",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-erd-candles.webp",
+  "kind": "prop",
+  "group": "deco-named",
+  "w": 240,
+  "h": 444,
+  "alpha": true,
+  "kb": 39,
+  "desc": "黒い蝋燭3本",
+  "tags": [
+   "candle",
+   "dark",
+   "occult"
+  ],
+  "max_css_px": 240,
+  "wp_id": 4273
+ },
+ {
+  "file": "wm-erd-crystal.webp",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-erd-crystal.webp",
+  "kind": "prop",
+  "group": "deco-named",
+  "w": 96,
+  "h": 117,
+  "alpha": true,
+  "kb": 9,
+  "desc": "紫の水晶クラスター（小）",
+  "tags": [
+   "crystal",
+   "occult",
+   "tiny"
+  ],
+  "max_css_px": 96,
+  "wp_id": 4267
+ },
+ {
+  "file": "wm-erd-eye.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-erd-eye.png",
+  "kind": "prop",
+  "group": "deco-named",
+  "w": 101,
+  "h": 98,
+  "alpha": true,
+  "kb": 4,
+  "desc": "全視の目（金・放射）",
+  "tags": [
+   "eye",
+   "occult",
+   "tiny"
+  ],
+  "max_css_px": 101,
+  "wp_id": 4262
+ },
+ {
+  "file": "wm-erd-moon1.webp",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-erd-moon1.webp",
+  "kind": "prop",
+  "group": "deco-named",
+  "w": 88,
+  "h": 89,
+  "alpha": true,
+  "kb": 5,
+  "desc": "月相：満月（小）",
+  "tags": [
+   "moon",
+   "phase",
+   "tiny"
+  ],
+  "max_css_px": 88,
+  "wp_id": 4268
+ },
+ {
+  "file": "wm-erd-moon2.webp",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-erd-moon2.webp",
+  "kind": "prop",
+  "group": "deco-named",
+  "w": 60,
+  "h": 140,
+  "alpha": true,
+  "kb": 6,
+  "desc": "月相：半月（小）",
+  "tags": [
+   "moon",
+   "phase",
+   "tiny"
+  ],
+  "max_css_px": 60,
+  "wp_id": 4269
+ },
+ {
+  "file": "wm-erd-moon3.webp",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-erd-moon3.webp",
+  "kind": "prop",
+  "group": "deco-named",
+  "w": 64,
+  "h": 95,
+  "alpha": true,
+  "kb": 4,
+  "desc": "月相：欠け月（小）",
+  "tags": [
+   "moon",
+   "phase",
+   "tiny"
+  ],
+  "max_css_px": 64,
+  "wp_id": 4270
+ },
+ {
+  "file": "wm-erd-moon4.webp",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-erd-moon4.webp",
+  "kind": "prop",
+  "group": "deco-named",
+  "w": 56,
+  "h": 88,
+  "alpha": true,
+  "kb": 4,
+  "desc": "月相：三日月（小）",
+  "tags": [
+   "moon",
+   "phase",
+   "tiny"
+  ],
+  "max_css_px": 56,
+  "wp_id": 4271
+ },
+ {
+  "file": "wm-erd-moon5.webp",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-erd-moon5.webp",
+  "kind": "prop",
+  "group": "deco-named",
+  "w": 44,
+  "h": 72,
+  "alpha": true,
+  "kb": 2,
+  "desc": "月相：細い月（小）",
+  "tags": [
+   "moon",
+   "phase",
+   "tiny"
+  ],
+  "max_css_px": 44,
+  "wp_id": 4272
+ },
+ {
+  "file": "wm-erd-orb.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-erd-orb.png",
+  "kind": "prop",
+  "group": "deco-named",
+  "w": 96,
+  "h": 108,
+  "alpha": true,
+  "kb": 3,
+  "desc": "水晶玉（小）",
+  "tags": [
+   "orb",
+   "occult",
+   "tiny"
+  ],
+  "max_css_px": 96,
+  "wp_id": 4258
+ },
+ {
+  "file": "wm-deco-stat-01.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-stat-01.png",
+  "kind": "prop",
+  "group": "deco-stat",
+  "w": 117,
+  "h": 398,
+  "alpha": true,
+  "kb": 76,
+  "desc": "麻紐付きの荷札（縦）",
+  "tags": [
+   "tag",
+   "blank"
+  ],
+  "max_css_px": 117
+ },
+ {
+  "file": "wm-deco-stat-02.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-stat-02.png",
+  "kind": "prop",
+  "group": "deco-stat",
+  "w": 257,
+  "h": 206,
+  "alpha": true,
+  "kb": 95,
+  "desc": "コーヒー染みのある古紙",
+  "tags": [
+   "paper",
+   "stain"
+  ],
+  "max_css_px": 257
+ },
+ {
+  "file": "wm-deco-stat-03.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-stat-03.png",
+  "kind": "prop",
+  "group": "deco-stat",
+  "w": 246,
+  "h": 249,
+  "alpha": true,
+  "kb": 113,
+  "desc": "罫線入りルーズリーフ（破れ）",
+  "tags": [
+   "paper",
+   "lined"
+  ],
+  "max_css_px": 246
+ },
+ {
+  "file": "wm-deco-stat-05.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-stat-05.png",
+  "kind": "prop",
+  "group": "deco-stat",
+  "w": 318,
+  "h": 383,
+  "alpha": true,
+  "kb": 220,
+  "desc": "焦げ縁の古紙",
+  "tags": [
+   "paper",
+   "blank"
+  ],
+  "max_css_px": 318
+ },
+ {
+  "file": "wm-deco-stat-06.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-stat-06.png",
+  "kind": "prop",
+  "group": "deco-stat",
+  "w": 262,
+  "h": 354,
+  "alpha": true,
+  "kb": 192,
+  "desc": "折り目のある古紙（縦）",
+  "tags": [
+   "paper",
+   "blank"
+  ],
+  "max_css_px": 262
+ },
+ {
+  "file": "wm-deco-stat-07.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-stat-07.png",
+  "kind": "prop",
+  "group": "deco-stat",
+  "w": 249,
+  "h": 117,
+  "alpha": true,
+  "kb": 54,
+  "desc": "枠線入りの紙ラベル（横長）",
+  "tags": [
+   "label",
+   "frame",
+   "blank"
+  ],
+  "max_css_px": 249
+ },
+ {
+  "file": "wm-deco-stat-09.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-stat-09.png",
+  "kind": "prop",
+  "group": "deco-stat",
+  "w": 198,
+  "h": 109,
+  "alpha": true,
+  "kb": 36,
+  "desc": "マスキングテープ片",
+  "tags": [
+   "tape"
+  ],
+  "max_css_px": 198
+ },
+ {
+  "file": "wm-deco-stat-15.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-stat-15.png",
+  "kind": "prop",
+  "group": "deco-stat",
+  "w": 203,
+  "h": 289,
+  "alpha": true,
+  "kb": 112,
+  "desc": "しわの古紙とインク滴",
+  "tags": [
+   "paper",
+   "stain"
+  ],
+  "max_css_px": 203
+ },
+ {
+  "file": "wm-deco-stat-16.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-stat-16.png",
+  "kind": "prop",
+  "group": "deco-stat",
+  "w": 102,
+  "h": 113,
+  "alpha": true,
+  "kb": 17,
+  "desc": "黒いフォトコーナー2個",
+  "tags": [
+   "photo-corner",
+   "black",
+   "tiny"
+  ],
+  "max_css_px": 102
+ },
+ {
+  "file": "wm-deco-stat-18.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-stat-18.png",
+  "kind": "prop",
+  "group": "deco-stat",
+  "w": 125,
+  "h": 192,
+  "alpha": true,
+  "kb": 46,
+  "desc": "指紋",
+  "tags": [
+   "fingerprint"
+  ],
+  "max_css_px": 125
+ },
+ {
+  "file": "wm-deco-stat-19.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-stat-19.png",
+  "kind": "prop",
+  "group": "deco-stat",
+  "w": 100,
+  "h": 102,
+  "alpha": true,
+  "kb": 16,
+  "desc": "茶のフォトコーナー",
+  "tags": [
+   "photo-corner",
+   "brown",
+   "tiny"
+  ],
+  "max_css_px": 100
+ },
+ {
+  "file": "wm-deco-stat-20.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-stat-20.png",
+  "kind": "prop",
+  "group": "deco-stat",
+  "w": 81,
+  "h": 160,
+  "alpha": true,
+  "kb": 22,
+  "desc": "ゼムクリップ",
+  "tags": [
+   "clip"
+  ],
+  "max_css_px": 81
+ },
+ {
+  "file": "wm-deco-stat-21.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-stat-21.png",
+  "kind": "prop",
+  "group": "deco-stat",
+  "w": 171,
+  "h": 171,
+  "alpha": true,
+  "kb": 32,
+  "desc": "コーヒーカップの輪染み",
+  "tags": [
+   "stain",
+   "coffee"
+  ],
+  "max_css_px": 171
+ },
+ {
+  "file": "wm-deco-stat-23.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-stat-23.png",
+  "kind": "prop",
+  "group": "deco-stat",
+  "w": 109,
+  "h": 166,
+  "alpha": true,
+  "kb": 27,
+  "desc": "安全ピン",
+  "tags": [
+   "pin",
+   "safety"
+  ],
+  "max_css_px": 109
+ },
+ {
+  "file": "wm-deco-stat-25.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-stat-25.png",
+  "kind": "prop",
+  "group": "deco-stat",
+  "w": 138,
+  "h": 171,
+  "alpha": true,
+  "kb": 35,
+  "desc": "ダブルクリップ（黒）",
+  "tags": [
+   "clip"
+  ],
+  "max_css_px": 138
+ },
+ {
+  "file": "wm-deco-stat-26.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-stat-26.png",
+  "kind": "prop",
+  "group": "deco-stat",
+  "w": 143,
+  "h": 159,
+  "alpha": true,
+  "kb": 35,
+  "desc": "黒インクの飛沫",
+  "tags": [
+   "stain",
+   "ink",
+   "black"
+  ],
+  "max_css_px": 143
+ },
+ {
+  "file": "wm-deco-stat-27.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-stat-27.png",
+  "kind": "prop",
+  "group": "deco-stat",
+  "w": 254,
+  "h": 223,
+  "alpha": true,
+  "kb": 100,
+  "desc": "灰色テープ片3枚とインク滴",
+  "tags": [
+   "tape",
+   "set"
+  ],
+  "max_css_px": 254
+ },
+ {
+  "file": "wm-deco-stat-28.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-deco-stat-28.png",
+  "kind": "prop",
+  "group": "deco-stat",
+  "w": 268,
+  "h": 287,
+  "alpha": true,
+  "kb": 132,
+  "desc": "黒コーナー付きの写真台紙",
+  "tags": [
+   "photo-frame",
+   "blank"
+  ],
+  "max_css_px": 268
+ },
+ {
+  "file": "wm-arch-bag-label.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-arch-bag-label.png",
+  "kind": "prop",
+  "group": "prop-arch",
+  "w": 257,
+  "h": 279,
+  "alpha": true,
+  "kb": 11,
+  "desc": "標本袋（薄い）",
+  "tags": [
+   "archaeology",
+   "bag"
+  ],
+  "max_css_px": 257
+ },
+ {
+  "file": "wm-arch-brush.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-arch-brush.png",
+  "kind": "prop",
+  "group": "prop-arch",
+  "w": 317,
+  "h": 246,
+  "alpha": true,
+  "kb": 13,
+  "desc": "発掘用ブラシ",
+  "tags": [
+   "archaeology",
+   "tool"
+  ],
+  "max_css_px": 317
+ },
+ {
+  "file": "wm-arch-coin.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-arch-coin.png",
+  "kind": "prop",
+  "group": "prop-arch",
+  "w": 245,
+  "h": 231,
+  "alpha": true,
+  "kb": 19,
+  "desc": "古銭",
+  "tags": [
+   "coin",
+   "archaeology"
+  ],
+  "max_css_px": 245
+ },
+ {
+  "file": "wm-arch-potsherd.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-arch-potsherd.png",
+  "kind": "prop",
+  "group": "prop-arch",
+  "w": 275,
+  "h": 214,
+  "alpha": true,
+  "kb": 15,
+  "desc": "土器片",
+  "tags": [
+   "archaeology"
+  ],
+  "max_css_px": 275
+ },
+ {
+  "file": "wm-arch-tablet.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-arch-tablet.png",
+  "kind": "prop",
+  "group": "prop-arch",
+  "w": 278,
+  "h": 218,
+  "alpha": true,
+  "kb": 24,
+  "desc": "楔形文字の粘土板",
+  "tags": [
+   "tablet",
+   "archaeology"
+  ],
+  "max_css_px": 278
+ },
+ {
+  "file": "wm-arch-trowel.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-arch-trowel.png",
+  "kind": "prop",
+  "group": "prop-arch",
+  "w": 280,
+  "h": 244,
+  "alpha": true,
+  "kb": 9,
+  "desc": "移植ごて",
+  "tags": [
+   "archaeology",
+   "tool"
+  ],
+  "max_css_px": 280
+ },
+ {
+  "file": "wm-case-banknotes.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-case-banknotes.png",
+  "kind": "prop",
+  "group": "prop-case",
+  "w": 153,
+  "h": 116,
+  "alpha": true,
+  "kb": 7,
+  "desc": "札束",
+  "tags": [
+   "money",
+   "case"
+  ],
+  "max_css_px": 153
+ },
+ {
+  "file": "wm-case-evidence-bag.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-case-evidence-bag.png",
+  "kind": "prop",
+  "group": "prop-case",
+  "w": 257,
+  "h": 279,
+  "alpha": true,
+  "kb": 11,
+  "desc": "透明の証拠袋（薄い）",
+  "tags": [
+   "evidence",
+   "bag"
+  ],
+  "max_css_px": 257
+ },
+ {
+  "file": "wm-case-glasses.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-case-glasses.png",
+  "kind": "prop",
+  "group": "prop-case",
+  "w": 172,
+  "h": 89,
+  "alpha": true,
+  "kb": 4,
+  "desc": "サングラス（小）",
+  "tags": [
+   "glasses",
+   "case",
+   "tiny"
+  ],
+  "max_css_px": 172
+ },
+ {
+  "file": "wm-case-key.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-case-key.png",
+  "kind": "prop",
+  "group": "prop-case",
+  "w": 154,
+  "h": 66,
+  "alpha": true,
+  "kb": 5,
+  "desc": "鍵（小）",
+  "tags": [
+   "key",
+   "case",
+   "tiny"
+  ],
+  "max_css_px": 154
+ },
+ {
+  "file": "wm-case-ticket.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-case-ticket.png",
+  "kind": "prop",
+  "group": "prop-case",
+  "w": 158,
+  "h": 98,
+  "alpha": true,
+  "kb": 6,
+  "desc": "チケット（小）",
+  "tags": [
+   "ticket",
+   "case",
+   "tiny"
+  ],
+  "max_css_px": 158
+ },
+ {
+  "file": "wm-case-watch.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-case-watch.png",
+  "kind": "prop",
+  "group": "prop-case",
+  "w": 83,
+  "h": 125,
+  "alpha": true,
+  "kb": 5,
+  "desc": "腕時計（小）",
+  "tags": [
+   "watch",
+   "case",
+   "tiny"
+  ],
+  "max_css_px": 83
+ },
+ {
+  "file": "wm-doc-bulldogclip.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-doc-bulldogclip.png",
+  "kind": "prop",
+  "group": "prop-doc",
+  "w": 262,
+  "h": 289,
+  "alpha": true,
+  "kb": 11,
+  "desc": "ダブルクリップ",
+  "tags": [
+   "clip"
+  ],
+  "max_css_px": 262
+ },
+ {
+  "file": "wm-doc-envelope.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-doc-envelope.png",
+  "kind": "prop",
+  "group": "prop-doc",
+  "w": 390,
+  "h": 302,
+  "alpha": true,
+  "kb": 24,
+  "desc": "紐綴じの封筒",
+  "tags": [
+   "envelope"
+  ],
+  "max_css_px": 390
+ },
+ {
+  "file": "wm-doc-fingerprint.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-doc-fingerprint.png",
+  "kind": "prop",
+  "group": "prop-doc",
+  "w": 195,
+  "h": 282,
+  "alpha": true,
+  "kb": 25,
+  "desc": "指紋（黒・大）",
+  "tags": [
+   "fingerprint"
+  ],
+  "max_css_px": 195
+ },
+ {
+  "file": "wm-doc-folder.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-doc-folder.png",
+  "kind": "prop",
+  "group": "prop-doc",
+  "w": 343,
+  "h": 290,
+  "alpha": true,
+  "kb": 15,
+  "desc": "書類フォルダ（茶）",
+  "tags": [
+   "folder"
+  ],
+  "max_css_px": 343
+ },
+ {
+  "file": "wm-doc-index-card.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-doc-index-card.png",
+  "kind": "prop",
+  "group": "prop-doc",
+  "w": 364,
+  "h": 288,
+  "alpha": true,
+  "kb": 19,
+  "desc": "罫線入りインデックスカード",
+  "tags": [
+   "card",
+   "lined"
+  ],
+  "max_css_px": 364
+ },
+ {
+  "file": "wm-doc-magnifier.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-doc-magnifier.png",
+  "kind": "prop",
+  "group": "prop-doc",
+  "w": 294,
+  "h": 281,
+  "alpha": true,
+  "kb": 11,
+  "desc": "虫眼鏡（単体）",
+  "tags": [
+   "magnifier"
+  ],
+  "max_css_px": 294
+ },
+ {
+  "file": "wm-doc-paperclip.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-doc-paperclip.png",
+  "kind": "prop",
+  "group": "prop-doc",
+  "w": 276,
+  "h": 277,
+  "alpha": true,
+  "kb": 14,
+  "desc": "ゼムクリップ",
+  "tags": [
+   "clip"
+  ],
+  "max_css_px": 276
+ },
+ {
+  "file": "wm-doc-pencil-arrow.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-doc-pencil-arrow.png",
+  "kind": "prop",
+  "group": "prop-doc",
+  "w": 351,
+  "h": 192,
+  "alpha": true,
+  "kb": 7,
+  "desc": "赤鉛筆の矢印",
+  "tags": [
+   "arrow",
+   "red",
+   "pen"
+  ],
+  "max_css_px": 351
+ },
+ {
+  "file": "wm-doc-pencil-circle.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-doc-pencil-circle.png",
+  "kind": "prop",
+  "group": "prop-doc",
+  "w": 319,
+  "h": 236,
+  "alpha": true,
+  "kb": 10,
+  "desc": "赤鉛筆の丸囲み",
+  "tags": [
+   "circle",
+   "red",
+   "pen"
+  ],
+  "max_css_px": 319
+ },
+ {
+  "file": "wm-doc-pencil-question.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-doc-pencil-question.png",
+  "kind": "prop",
+  "group": "prop-doc",
+  "w": 143,
+  "h": 199,
+  "alpha": true,
+  "kb": 5,
+  "desc": "赤鉛筆の？",
+  "tags": [
+   "question",
+   "red",
+   "pen"
+  ],
+  "max_css_px": 143
+ },
+ {
+  "file": "wm-doc-pencil-underline.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-doc-pencil-underline.png",
+  "kind": "prop",
+  "group": "prop-doc",
+  "w": 344,
+  "h": 163,
+  "alpha": true,
+  "kb": 8,
+  "desc": "赤鉛筆の下線",
+  "tags": [
+   "line",
+   "red",
+   "pen"
+  ],
+  "max_css_px": 344
+ },
+ {
+  "file": "wm-doc-photo-corner.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-doc-photo-corner.png",
+  "kind": "prop",
+  "group": "prop-doc",
+  "w": 203,
+  "h": 236,
+  "alpha": true,
+  "kb": 7,
+  "desc": "黒フォトコーナー4個",
+  "tags": [
+   "photo-corner",
+   "black"
+  ],
+  "max_css_px": 203
+ },
+ {
+  "file": "wm-doc-polaroid-blank.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-doc-polaroid-blank.png",
+  "kind": "prop",
+  "group": "prop-doc",
+  "w": 360,
+  "h": 245,
+  "alpha": true,
+  "kb": 9,
+  "desc": "白いポラロイド枠",
+  "tags": [
+   "photo-frame",
+   "blank"
+  ],
+  "max_css_px": 360
+ },
+ {
+  "file": "wm-doc-pushpin.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-doc-pushpin.png",
+  "kind": "prop",
+  "group": "prop-doc",
+  "w": 182,
+  "h": 248,
+  "alpha": true,
+  "kb": 12,
+  "desc": "真鍮の画鋲",
+  "tags": [
+   "pin",
+   "brass"
+  ],
+  "max_css_px": 182
+ },
+ {
+  "file": "wm-doc-redacted-bar.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-doc-redacted-bar.png",
+  "kind": "prop",
+  "group": "prop-doc",
+  "w": 366,
+  "h": 146,
+  "alpha": true,
+  "kb": 13,
+  "desc": "黒塗りバー",
+  "tags": [
+   "redacted",
+   "black"
+  ],
+  "max_css_px": 366
+ },
+ {
+  "file": "wm-doc-stain-coffee.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-doc-stain-coffee.png",
+  "kind": "prop",
+  "group": "prop-doc",
+  "w": 288,
+  "h": 312,
+  "alpha": true,
+  "kb": 12,
+  "desc": "コーヒーの輪染み",
+  "tags": [
+   "stain",
+   "coffee"
+  ],
+  "max_css_px": 288
+ },
+ {
+  "file": "wm-doc-stain-ink.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-doc-stain-ink.png",
+  "kind": "prop",
+  "group": "prop-doc",
+  "w": 210,
+  "h": 218,
+  "alpha": true,
+  "kb": 13,
+  "desc": "青インクの染み",
+  "tags": [
+   "stain",
+   "ink",
+   "blue"
+  ],
+  "max_css_px": 210
+ },
+ {
+  "file": "wm-doc-stamp-round.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-doc-stamp-round.png",
+  "kind": "prop",
+  "group": "prop-doc",
+  "w": 292,
+  "h": 295,
+  "alpha": true,
+  "kb": 37,
+  "desc": "赤い丸スタンプ（欧文）",
+  "tags": [
+   "stamp",
+   "red"
+  ],
+  "max_css_px": 292
+ },
+ {
+  "file": "wm-doc-string-red.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-doc-string-red.png",
+  "kind": "prop",
+  "group": "prop-doc",
+  "w": 353,
+  "h": 238,
+  "alpha": true,
+  "kb": 11,
+  "desc": "赤い糸のループ",
+  "tags": [
+   "string",
+   "red"
+  ],
+  "max_css_px": 353
+ },
+ {
+  "file": "wm-doc-tag-string.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-doc-tag-string.png",
+  "kind": "prop",
+  "group": "prop-doc",
+  "w": 340,
+  "h": 337,
+  "alpha": true,
+  "kb": 17,
+  "desc": "紐付き荷札",
+  "tags": [
+   "tag",
+   "doc"
+  ],
+  "max_css_px": 340
+ },
+ {
+  "file": "wm-doc-tape-01.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-doc-tape-01.png",
+  "kind": "prop",
+  "group": "prop-doc",
+  "w": 349,
+  "h": 215,
+  "alpha": true,
+  "kb": 13,
+  "desc": "生成りテープ片（斜め）",
+  "tags": [
+   "tape"
+  ],
+  "max_css_px": 349
+ },
+ {
+  "file": "wm-doc-tape-02.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-doc-tape-02.png",
+  "kind": "prop",
+  "group": "prop-doc",
+  "w": 291,
+  "h": 155,
+  "alpha": true,
+  "kb": 10,
+  "desc": "生成りテープ片",
+  "tags": [
+   "tape"
+  ],
+  "max_css_px": 291
+ },
+ {
+  "file": "wm-doc-torn-strip.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-doc-torn-strip.png",
+  "kind": "prop",
+  "group": "prop-doc",
+  "w": 361,
+  "h": 265,
+  "alpha": true,
+  "kb": 19,
+  "desc": "破った紙の帯",
+  "tags": [
+   "paper",
+   "strip"
+  ],
+  "max_css_px": 361
+ },
+ {
+  "file": "wm-doc-typewriter-key.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-doc-typewriter-key.png",
+  "kind": "prop",
+  "group": "prop-doc",
+  "w": 227,
+  "h": 255,
+  "alpha": true,
+  "kb": 16,
+  "desc": "タイプライターの？キー",
+  "tags": [
+   "question",
+   "typewriter"
+  ],
+  "max_css_px": 227
+ },
+ {
+  "file": "wm-folk-bone.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-folk-bone.png",
+  "kind": "prop",
+  "group": "prop-folk",
+  "w": 313,
+  "h": 240,
+  "alpha": true,
+  "kb": 12,
+  "desc": "骨",
+  "tags": [
+   "bone",
+   "folk"
+  ],
+  "max_css_px": 313
+ },
+ {
+  "file": "wm-folk-cast.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-folk-cast.png",
+  "kind": "prop",
+  "group": "prop-folk",
+  "w": 283,
+  "h": 236,
+  "alpha": true,
+  "kb": 15,
+  "desc": "足跡の石膏型",
+  "tags": [
+   "footprint",
+   "folk"
+  ],
+  "max_css_px": 283
+ },
+ {
+  "file": "wm-folk-feather.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-folk-feather.png",
+  "kind": "prop",
+  "group": "prop-folk",
+  "w": 343,
+  "h": 201,
+  "alpha": true,
+  "kb": 11,
+  "desc": "黒い羽根",
+  "tags": [
+   "feather",
+   "folk"
+  ],
+  "max_css_px": 343
+ },
+ {
+  "file": "wm-folk-lantern.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-folk-lantern.png",
+  "kind": "prop",
+  "group": "prop-folk",
+  "w": 165,
+  "h": 281,
+  "alpha": true,
+  "kb": 15,
+  "desc": "黒いランタン",
+  "tags": [
+   "lantern",
+   "folk"
+  ],
+  "max_css_px": 165
+ },
+ {
+  "file": "wm-folk-map-fragment.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-folk-map-fragment.png",
+  "kind": "prop",
+  "group": "prop-folk",
+  "w": 370,
+  "h": 252,
+  "alpha": true,
+  "kb": 33,
+  "desc": "古地図の断片",
+  "tags": [
+   "map",
+   "folk"
+  ],
+  "max_css_px": 370
+ },
+ {
+  "file": "wm-folk-rope-knot.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-folk-rope-knot.png",
+  "kind": "prop",
+  "group": "prop-folk",
+  "w": 319,
+  "h": 242,
+  "alpha": true,
+  "kb": 14,
+  "desc": "結び目のロープ",
+  "tags": [
+   "rope",
+   "folk"
+  ],
+  "max_css_px": 319
+ },
+ {
+  "file": "wm-jp-candle-stand.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-jp-candle-stand.png",
+  "kind": "prop",
+  "group": "prop-jp",
+  "w": 93,
+  "h": 95,
+  "alpha": true,
+  "kb": 3,
+  "desc": "燭台（小）",
+  "tags": [
+   "japan",
+   "tiny"
+  ],
+  "max_css_px": 93
+ },
+ {
+  "file": "wm-jp-ofuda.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-jp-ofuda.png",
+  "kind": "prop",
+  "group": "prop-jp",
+  "w": 94,
+  "h": 175,
+  "alpha": true,
+  "kb": 5,
+  "desc": "お札（小・縦）",
+  "tags": [
+   "japan",
+   "tiny"
+  ],
+  "max_css_px": 94
+ },
+ {
+  "file": "wm-jp-old-photo.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-jp-old-photo.png",
+  "kind": "prop",
+  "group": "prop-jp",
+  "w": 155,
+  "h": 90,
+  "alpha": true,
+  "kb": 6,
+  "desc": "古い写真枠（小）",
+  "tags": [
+   "japan",
+   "photo",
+   "tiny"
+  ],
+  "max_css_px": 155
+ },
+ {
+  "file": "wm-jp-rope-shimenawa.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-jp-rope-shimenawa.png",
+  "kind": "prop",
+  "group": "prop-jp",
+  "w": 132,
+  "h": 101,
+  "alpha": true,
+  "kb": 5,
+  "desc": "しめ縄（小）",
+  "tags": [
+   "japan",
+   "tiny"
+  ],
+  "max_css_px": 132
+ },
+ {
+  "file": "wm-jp-stone-fragment.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-jp-stone-fragment.png",
+  "kind": "prop",
+  "group": "prop-jp",
+  "w": 188,
+  "h": 120,
+  "alpha": true,
+  "kb": 9,
+  "desc": "石片（小）",
+  "tags": [
+   "japan",
+   "stone",
+   "tiny"
+  ],
+  "max_css_px": 188
+ },
+ {
+  "file": "wm-jp-washi.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-jp-washi.png",
+  "kind": "prop",
+  "group": "prop-jp",
+  "w": 126,
+  "h": 118,
+  "alpha": true,
+  "kb": 6,
+  "desc": "和紙片（小）",
+  "tags": [
+   "japan",
+   "paper",
+   "tiny"
+  ],
+  "max_css_px": 126
+ },
+ {
+  "file": "wm-label-evidence.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-label-evidence.png",
+  "kind": "prop",
+  "group": "prop-label",
+  "w": 708,
+  "h": 398,
+  "alpha": true,
+  "kb": 54,
+  "desc": "「証拠品」赤スタンプ",
+  "tags": [
+   "label",
+   "japanese",
+   "stamp",
+   "red"
+  ],
+  "max_css_px": 708
+ },
+ {
+  "file": "wm-label-record.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-label-record.png",
+  "kind": "prop",
+  "group": "prop-label",
+  "w": 707,
+  "h": 395,
+  "alpha": true,
+  "kb": 45,
+  "desc": "「記録」紺スタンプ",
+  "tags": [
+   "label",
+   "japanese",
+   "stamp",
+   "blue"
+  ],
+  "max_css_px": 707
+ },
+ {
+  "file": "wm-label-still-unknown.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-label-still-unknown.png",
+  "kind": "prop",
+  "group": "prop-label",
+  "w": 1396,
+  "h": 356,
+  "alpha": true,
+  "kb": 88,
+  "desc": "「まだ、わかっていない」古紙ラベル",
+  "tags": [
+   "label",
+   "japanese"
+  ],
+  "max_css_px": 1396
+ },
+ {
+  "file": "wm-label-testimony.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-label-testimony.png",
+  "kind": "prop",
+  "group": "prop-label",
+  "w": 622,
+  "h": 395,
+  "alpha": true,
+  "kb": 45,
+  "desc": "「証言」赤スタンプ",
+  "tags": [
+   "label",
+   "japanese",
+   "stamp",
+   "red"
+  ],
+  "max_css_px": 622
+ },
+ {
+  "file": "wm-label-unresolved.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-label-unresolved.png",
+  "kind": "prop",
+  "group": "prop-label",
+  "w": 1274,
+  "h": 321,
+  "alpha": true,
+  "kb": 73,
+  "desc": "「未解決」真鍮プレート",
+  "tags": [
+   "label",
+   "japanese"
+  ],
+  "max_css_px": 1274
+ },
+ {
+  "file": "wm-mil-altimeter.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-mil-altimeter.png",
+  "kind": "prop",
+  "group": "prop-mil",
+  "w": 131,
+  "h": 130,
+  "alpha": true,
+  "kb": 7,
+  "desc": "高度計（小）",
+  "tags": [
+   "military",
+   "tiny"
+  ],
+  "max_css_px": 131
+ },
+ {
+  "file": "wm-mil-dogtag.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-mil-dogtag.png",
+  "kind": "prop",
+  "group": "prop-mil",
+  "w": 158,
+  "h": 110,
+  "alpha": true,
+  "kb": 8,
+  "desc": "ドッグタグ（小）",
+  "tags": [
+   "military",
+   "tiny"
+  ],
+  "max_css_px": 158
+ },
+ {
+  "file": "wm-mil-film-canister.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-mil-film-canister.png",
+  "kind": "prop",
+  "group": "prop-mil",
+  "w": 136,
+  "h": 86,
+  "alpha": true,
+  "kb": 5,
+  "desc": "フィルム缶（小）",
+  "tags": [
+   "military",
+   "tiny"
+  ],
+  "max_css_px": 136
+ },
+ {
+  "file": "wm-mil-map-pin-flag.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-mil-map-pin-flag.png",
+  "kind": "prop",
+  "group": "prop-mil",
+  "w": 78,
+  "h": 65,
+  "alpha": true,
+  "kb": 2,
+  "desc": "赤い旗ピン（小）",
+  "tags": [
+   "military",
+   "pin",
+   "tiny"
+  ],
+  "max_css_px": 78
+ },
+ {
+  "file": "wm-mil-negative-strip.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-mil-negative-strip.png",
+  "kind": "prop",
+  "group": "prop-mil",
+  "w": 180,
+  "h": 90,
+  "alpha": true,
+  "kb": 4,
+  "desc": "ネガフィルム片（小）",
+  "tags": [
+   "military",
+   "film",
+   "tiny"
+  ],
+  "max_css_px": 180
+ },
+ {
+  "file": "wm-mil-radio-tube.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-mil-radio-tube.png",
+  "kind": "prop",
+  "group": "prop-mil",
+  "w": 47,
+  "h": 110,
+  "alpha": true,
+  "kb": 4,
+  "desc": "真空管（小）",
+  "tags": [
+   "military",
+   "tiny"
+  ],
+  "max_css_px": 47
+ },
+ {
+  "file": "wm-occ-candle.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-occ-candle.png",
+  "kind": "prop",
+  "group": "prop-occ",
+  "w": 42,
+  "h": 104,
+  "alpha": true,
+  "kb": 2,
+  "desc": "白い蝋燭（小）",
+  "tags": [
+   "candle",
+   "tiny"
+  ],
+  "max_css_px": 42
+ },
+ {
+  "file": "wm-occ-pendulum.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-occ-pendulum.png",
+  "kind": "prop",
+  "group": "prop-occ",
+  "w": 147,
+  "h": 113,
+  "alpha": true,
+  "kb": 3,
+  "desc": "振り子（小）",
+  "tags": [
+   "occult",
+   "tiny"
+  ],
+  "max_css_px": 147
+ },
+ {
+  "file": "wm-occ-symbol-page.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-occ-symbol-page.png",
+  "kind": "prop",
+  "group": "prop-occ",
+  "w": 111,
+  "h": 96,
+  "alpha": true,
+  "kb": 5,
+  "desc": "記号の紙（小・薄い）",
+  "tags": [
+   "occult",
+   "tiny"
+  ],
+  "max_css_px": 111
+ },
+ {
+  "file": "wm-occ-tarot-back.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-occ-tarot-back.png",
+  "kind": "prop",
+  "group": "prop-occ",
+  "w": 97,
+  "h": 122,
+  "alpha": true,
+  "kb": 7,
+  "desc": "タロット裏面（小）",
+  "tags": [
+   "occult",
+   "tiny"
+  ],
+  "max_css_px": 97
+ },
+ {
+  "file": "wm-occ-vial.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-occ-vial.png",
+  "kind": "prop",
+  "group": "prop-occ",
+  "w": 49,
+  "h": 107,
+  "alpha": true,
+  "kb": 3,
+  "desc": "小瓶（小）",
+  "tags": [
+   "occult",
+   "tiny"
+  ],
+  "max_css_px": 49
+ },
+ {
+  "file": "wm-occ-wax-seal.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-occ-wax-seal.png",
+  "kind": "prop",
+  "group": "prop-occ",
+  "w": 127,
+  "h": 115,
+  "alpha": true,
+  "kb": 7,
+  "desc": "赤い封蝋（小）",
+  "tags": [
+   "seal",
+   "occult",
+   "tiny"
+  ],
+  "max_css_px": 127
+ },
+ {
+  "file": "wm-sea-bottle.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-sea-bottle.png",
+  "kind": "prop",
+  "group": "prop-sea",
+  "w": 261,
+  "h": 270,
+  "alpha": true,
+  "kb": 12,
+  "desc": "緑のガラス瓶",
+  "tags": [
+   "bottle",
+   "sea"
+  ],
+  "max_css_px": 261
+ },
+ {
+  "file": "wm-sea-compass.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-sea-compass.png",
+  "kind": "prop",
+  "group": "prop-sea",
+  "w": 280,
+  "h": 273,
+  "alpha": true,
+  "kb": 25,
+  "desc": "羅針盤（黒文字盤）",
+  "tags": [
+   "compass",
+   "sea"
+  ],
+  "max_css_px": 280
+ },
+ {
+  "file": "wm-sea-lifering.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-sea-lifering.png",
+  "kind": "prop",
+  "group": "prop-sea",
+  "w": 299,
+  "h": 294,
+  "alpha": true,
+  "kb": 21,
+  "desc": "救命浮輪",
+  "tags": [
+   "sea"
+  ],
+  "max_css_px": 299
+ },
+ {
+  "file": "wm-sea-logbook.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-sea-logbook.png",
+  "kind": "prop",
+  "group": "prop-sea",
+  "w": 365,
+  "h": 272,
+  "alpha": true,
+  "kb": 21,
+  "desc": "革の航海日誌",
+  "tags": [
+   "book",
+   "sea"
+  ],
+  "max_css_px": 365
+ },
+ {
+  "file": "wm-sea-rope.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-sea-rope.png",
+  "kind": "prop",
+  "group": "prop-sea",
+  "w": 272,
+  "h": 227,
+  "alpha": true,
+  "kb": 20,
+  "desc": "麻ロープの輪",
+  "tags": [
+   "rope",
+   "sea"
+  ],
+  "max_css_px": 272
+ },
+ {
+  "file": "wm-sea-shell-barnacle.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-sea-shell-barnacle.png",
+  "kind": "prop",
+  "group": "prop-sea",
+  "w": 312,
+  "h": 259,
+  "alpha": true,
+  "kb": 29,
+  "desc": "フジツボの付いた貝",
+  "tags": [
+   "sea",
+   "shell"
+  ],
+  "max_css_px": 312
+ },
+ {
+  "file": "wm-space-lens.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-space-lens.png",
+  "kind": "prop",
+  "group": "prop-space",
+  "w": 257,
+  "h": 222,
+  "alpha": true,
+  "kb": 12,
+  "desc": "カメラレンズ",
+  "tags": [
+   "space",
+   "lens"
+  ],
+  "max_css_px": 257
+ },
+ {
+  "file": "wm-space-meteorite.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-space-meteorite.png",
+  "kind": "prop",
+  "group": "prop-space",
+  "w": 305,
+  "h": 234,
+  "alpha": true,
+  "kb": 18,
+  "desc": "隕石",
+  "tags": [
+   "space",
+   "rock"
+  ],
+  "max_css_px": 305
+ },
+ {
+  "file": "wm-space-photoplate.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-space-photoplate.png",
+  "kind": "prop",
+  "group": "prop-space",
+  "w": 310,
+  "h": 260,
+  "alpha": true,
+  "kb": 13,
+  "desc": "黒い写真乾板",
+  "tags": [
+   "space",
+   "photo"
+  ],
+  "max_css_px": 310
+ },
+ {
+  "file": "wm-space-punchcard.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-space-punchcard.png",
+  "kind": "prop",
+  "group": "prop-space",
+  "w": 380,
+  "h": 248,
+  "alpha": true,
+  "kb": 31,
+  "desc": "パンチカード",
+  "tags": [
+   "space",
+   "computer"
+  ],
+  "max_css_px": 380
+ },
+ {
+  "file": "wm-space-sextant.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-space-sextant.png",
+  "kind": "prop",
+  "group": "prop-space",
+  "w": 273,
+  "h": 266,
+  "alpha": true,
+  "kb": 21,
+  "desc": "六分儀",
+  "tags": [
+   "space",
+   "sea",
+   "instrument"
+  ],
+  "max_css_px": 273
+ },
+ {
+  "file": "wm-space-starchart.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-space-starchart.png",
+  "kind": "prop",
+  "group": "prop-space",
+  "w": 377,
+  "h": 281,
+  "alpha": true,
+  "kb": 31,
+  "desc": "古い星図",
+  "tags": [
+   "space",
+   "map"
+  ],
+  "max_css_px": 377
+ },
+ {
+  "file": "mystery-archaeology-expedition-elements.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/mystery-archaeology-expedition-elements.png",
+  "kind": "sheet",
+  "group": "sheet",
+  "w": 1254,
+  "h": 1254,
+  "alpha": true,
+  "kb": 2993,
+  "desc": "考古学・探検コレクション（骸骨・巻物・地球儀・粘土板）の素材一枚絵（切り出し元。そのまま記事には貼らない）",
+  "tags": [
+   "sheet",
+   "opaque"
+  ],
+  "max_css_px": 0,
+  "wp_id": 4210
+ },
+ {
+  "file": "mystery-archaeology-research-elements.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/mystery-archaeology-research-elements.png",
+  "kind": "sheet",
+  "group": "sheet",
+  "w": 1254,
+  "h": 1254,
+  "alpha": true,
+  "kb": 3406,
+  "desc": "考古調査系（ランタン・砂時計・虫眼鏡・標本）の素材一枚絵（切り出し元。そのまま記事には貼らない）",
+  "tags": [
+   "sheet",
+   "opaque"
+  ],
+  "max_css_px": 0,
+  "wp_id": 4216
+ },
+ {
+  "file": "mystery-astrology-occult-elements.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/mystery-astrology-occult-elements.png",
+  "kind": "sheet",
+  "group": "sheet",
+  "w": 1254,
+  "h": 1254,
+  "alpha": true,
+  "kb": 2949,
+  "desc": "神秘・占星・天体系（月相・目・水晶）の素材一枚絵（切り出し元。そのまま記事には貼らない）",
+  "tags": [
+   "sheet",
+   "opaque"
+  ],
+  "max_css_px": 0,
+  "wp_id": 4211
+ },
+ {
+  "file": "mystery-casefile-scrapbook-elements.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/mystery-casefile-scrapbook-elements.png",
+  "kind": "sheet",
+  "group": "sheet",
+  "w": 1254,
+  "h": 1254,
+  "alpha": true,
+  "kb": 2623,
+  "desc": "事件簿スクラップ系（ポラロイド・赤糸・スタンプ・矢印）の素材一枚絵（切り出し元。そのまま記事には貼らない）",
+  "tags": [
+   "sheet",
+   "opaque"
+  ],
+  "max_css_px": 0,
+  "wp_id": 4212
+ },
+ {
+  "file": "mystery-detective-archive-elements.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/mystery-detective-archive-elements.png",
+  "kind": "sheet",
+  "group": "sheet",
+  "w": 1254,
+  "h": 1254,
+  "alpha": true,
+  "kb": 2994,
+  "desc": "探偵・機密資料系（ノート・CONFIDENTIAL・写真・クリップ）の素材一枚絵（切り出し元。そのまま記事には貼らない）",
+  "tags": [
+   "sheet",
+   "opaque"
+  ],
+  "max_css_px": 0,
+  "wp_id": 4213
+ },
+ {
+  "file": "mystery-detective-stationery-elements.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/mystery-detective-stationery-elements.png",
+  "kind": "sheet",
+  "group": "sheet",
+  "w": 1254,
+  "h": 1254,
+  "alpha": true,
+  "kb": 2650,
+  "desc": "探偵文具系（紙・封蝋・タグ・クリップ）の素材一枚絵（切り出し元。そのまま記事には貼らない）",
+  "tags": [
+   "sheet",
+   "opaque"
+  ],
+  "max_css_px": 0,
+  "wp_id": 4209
+ },
+ {
+  "file": "mystery-expedition-map-elements.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/mystery-expedition-map-elements.png",
+  "kind": "sheet",
+  "group": "sheet",
+  "w": 1254,
+  "h": 1254,
+  "alpha": true,
+  "kb": 3507,
+  "desc": "探検地図系（地図片・コンパス・荷札・封筒）の素材一枚絵（切り出し元。そのまま記事には貼らない）",
+  "tags": [
+   "sheet",
+   "opaque"
+  ],
+  "max_css_px": 0,
+  "wp_id": 4214
+ },
+ {
+  "file": "mystery-occult-astrology-antique-elements.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/mystery-occult-astrology-antique-elements.png",
+  "kind": "sheet",
+  "group": "sheet",
+  "w": 1254,
+  "h": 1254,
+  "alpha": true,
+  "kb": 3144,
+  "desc": "魔術・占星系（黒蝋燭・タロット・天球儀・煙）の素材一枚絵（切り出し元。そのまま記事には貼らない）",
+  "tags": [
+   "sheet",
+   "opaque"
+  ],
+  "max_css_px": 0,
+  "wp_id": 4215
+ },
+ {
+  "file": "mystery-vintage-editorial-elements.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/mystery-vintage-editorial-elements.png",
+  "kind": "sheet",
+  "group": "sheet",
+  "w": 1536,
+  "h": 1024,
+  "alpha": true,
+  "kb": 3196,
+  "desc": "ヴィンテージ編集系（MYSTERY見出し・世界地図・日本語ラベル）の素材一枚絵（切り出し元。そのまま記事には貼らない）",
+  "tags": [
+   "sheet",
+   "opaque"
+  ],
+  "max_css_px": 0,
+  "wp_id": 4208
+ },
+ {
+  "file": "mystery-archaeology-expedition-elements-transparent.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/mystery-archaeology-expedition-elements-transparent.png",
+  "kind": "sheet",
+  "group": "sheet-transparent",
+  "w": 1254,
+  "h": 1254,
+  "alpha": true,
+  "kb": 2993,
+  "desc": "考古学・探検コレクション（骸骨・巻物・地球儀・粘土板）の素材一枚絵（切り出し元。そのまま記事には貼らない）",
+  "tags": [
+   "sheet",
+   "transparent"
+  ],
+  "max_css_px": 0,
+  "wp_id": 4250
+ },
+ {
+  "file": "mystery-archaeology-research-elements-transparent.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/mystery-archaeology-research-elements-transparent.png",
+  "kind": "sheet",
+  "group": "sheet-transparent",
+  "w": 1254,
+  "h": 1254,
+  "alpha": true,
+  "kb": 3406,
+  "desc": "考古調査系（ランタン・砂時計・虫眼鏡・標本）の素材一枚絵（切り出し元。そのまま記事には貼らない）",
+  "tags": [
+   "sheet",
+   "transparent"
+  ],
+  "max_css_px": 0,
+  "wp_id": 4255
+ },
+ {
+  "file": "mystery-astrology-occult-elements-transparent.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/mystery-astrology-occult-elements-transparent.png",
+  "kind": "sheet",
+  "group": "sheet-transparent",
+  "w": 1254,
+  "h": 1254,
+  "alpha": true,
+  "kb": 2949,
+  "desc": "神秘・占星・天体系（月相・目・水晶）の素材一枚絵（切り出し元。そのまま記事には貼らない）",
+  "tags": [
+   "sheet",
+   "transparent"
+  ],
+  "max_css_px": 0,
+  "wp_id": 4251
+ },
+ {
+  "file": "mystery-casefile-scrapbook-elements-transparent.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/mystery-casefile-scrapbook-elements-transparent.png",
+  "kind": "sheet",
+  "group": "sheet-transparent",
+  "w": 1254,
+  "h": 1254,
+  "alpha": true,
+  "kb": 2623,
+  "desc": "事件簿スクラップ系（ポラロイド・赤糸・スタンプ・矢印）の素材一枚絵（切り出し元。そのまま記事には貼らない）",
+  "tags": [
+   "sheet",
+   "transparent"
+  ],
+  "max_css_px": 0,
+  "wp_id": 4252
+ },
+ {
+  "file": "mystery-detective-archive-elements-transparent.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/mystery-detective-archive-elements-transparent.png",
+  "kind": "sheet",
+  "group": "sheet-transparent",
+  "w": 1254,
+  "h": 1254,
+  "alpha": true,
+  "kb": 2994,
+  "desc": "探偵・機密資料系（ノート・CONFIDENTIAL・写真・クリップ）の素材一枚絵（切り出し元。そのまま記事には貼らない）",
+  "tags": [
+   "sheet",
+   "transparent"
+  ],
+  "max_css_px": 0,
+  "wp_id": 4253
+ },
+ {
+  "file": "mystery-detective-stationery-elements-transparent.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/mystery-detective-stationery-elements-transparent.png",
+  "kind": "sheet",
+  "group": "sheet-transparent",
+  "w": 1254,
+  "h": 1254,
+  "alpha": true,
+  "kb": 2650,
+  "desc": "探偵文具系（紙・封蝋・タグ・クリップ）の素材一枚絵（切り出し元。そのまま記事には貼らない）",
+  "tags": [
+   "sheet",
+   "transparent"
+  ],
+  "max_css_px": 0,
+  "wp_id": 4249
+ },
+ {
+  "file": "mystery-expedition-map-elements-transparent.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/mystery-expedition-map-elements-transparent.png",
+  "kind": "sheet",
+  "group": "sheet-transparent",
+  "w": 1254,
+  "h": 1254,
+  "alpha": true,
+  "kb": 3507,
+  "desc": "探検地図系（地図片・コンパス・荷札・封筒）の素材一枚絵（切り出し元。そのまま記事には貼らない）",
+  "tags": [
+   "sheet",
+   "transparent"
+  ],
+  "max_css_px": 0,
+  "wp_id": 4256
+ },
+ {
+  "file": "mystery-occult-astrology-antique-elements-transparent.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/mystery-occult-astrology-antique-elements-transparent.png",
+  "kind": "sheet",
+  "group": "sheet-transparent",
+  "w": 1254,
+  "h": 1254,
+  "alpha": true,
+  "kb": 3144,
+  "desc": "魔術・占星系（黒蝋燭・タロット・天球儀・煙）の素材一枚絵（切り出し元。そのまま記事には貼らない）",
+  "tags": [
+   "sheet",
+   "transparent"
+  ],
+  "max_css_px": 0,
+  "wp_id": 4254
+ },
+ {
+  "file": "mystery-vintage-editorial-elements-transparent.png",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/mystery-vintage-editorial-elements-transparent.png",
+  "kind": "sheet",
+  "group": "sheet-transparent",
+  "w": 1536,
+  "h": 1024,
+  "alpha": true,
+  "kb": 3196,
+  "desc": "ヴィンテージ編集系（MYSTERY見出し・世界地図・日本語ラベル）の素材一枚絵（切り出し元。そのまま記事には貼らない）",
+  "tags": [
+   "sheet",
+   "transparent"
+  ],
+  "max_css_px": 0,
+  "wp_id": 4248
+ },
+ {
+  "file": "article-paper-texture-v2.webp",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/07/article-paper-texture-v2.webp",
+  "kind": "texture",
+  "group": "tex",
+  "w": 1536,
+  "h": 1024,
+  "alpha": false,
+  "kb": 88,
+  "desc": "ごく薄い灰の紙目。乗算用",
+  "tags": [
+   "light",
+   "paper",
+   "subtle",
+   "overlay"
+  ],
+  "max_css_px": 1536,
+  "wp_id": 1864
+ },
+ {
+  "file": "wm-tex-cave.jpg",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-tex-cave.jpg",
+  "kind": "texture",
+  "group": "tex",
+  "w": 1500,
+  "h": 1095,
+  "alpha": false,
+  "kb": 486,
+  "desc": "鍾乳洞と水面の反射",
+  "tags": [
+   "dark",
+   "cave",
+   "photo"
+  ],
+  "max_css_px": 1500,
+  "wp_id": 4473
+ },
+ {
+  "file": "wm-tex-manu.jpg",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-tex-manu.jpg",
+  "kind": "texture",
+  "group": "tex",
+  "w": 1500,
+  "h": 1057,
+  "alpha": false,
+  "kb": 367,
+  "desc": "古文書の紙。斑ありの生成り",
+  "tags": [
+   "warm",
+   "paper",
+   "manuscript"
+  ],
+  "max_css_px": 1500,
+  "wp_id": 4475
+ },
+ {
+  "file": "wm-tex-map.jpg",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-tex-map.jpg",
+  "kind": "texture",
+  "group": "tex",
+  "w": 1500,
+  "h": 1157,
+  "alpha": false,
+  "kb": 356,
+  "desc": "古地図の紙質感（地図線なし）",
+  "tags": [
+   "light",
+   "paper",
+   "map",
+   "warm"
+  ],
+  "max_css_px": 1500,
+  "wp_id": 4476
+ },
+ {
+  "file": "wm-tex-paper.jpg",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-tex-paper.jpg",
+  "kind": "texture",
+  "group": "tex",
+  "w": 1500,
+  "h": 1128,
+  "alpha": false,
+  "kb": 308,
+  "desc": "古紙（濃い茶のムラ）",
+  "tags": [
+   "warm",
+   "paper"
+  ],
+  "max_css_px": 1500,
+  "wp_id": 4469
+ },
+ {
+  "file": "wm-tex-paper2.jpg",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-tex-paper2.jpg",
+  "kind": "texture",
+  "group": "tex",
+  "w": 1500,
+  "h": 1159,
+  "alpha": false,
+  "kb": 298,
+  "desc": "焼け焦げ縁の羊皮紙（明）",
+  "tags": [
+   "light",
+   "parchment",
+   "warm"
+  ],
+  "max_css_px": 1500,
+  "wp_id": 4470
+ },
+ {
+  "file": "wm-tex-rust.jpg",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-tex-rust.jpg",
+  "kind": "texture",
+  "group": "tex",
+  "w": 1500,
+  "h": 1125,
+  "alpha": false,
+  "kb": 371,
+  "desc": "錆と剥がれた青塗装",
+  "tags": [
+   "mid",
+   "rust",
+   "metal"
+  ],
+  "max_css_px": 1500,
+  "wp_id": 4471
+ },
+ {
+  "file": "wm-tex-sand.jpg",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-tex-sand.jpg",
+  "kind": "texture",
+  "group": "tex",
+  "w": 1500,
+  "h": 361,
+  "alpha": false,
+  "kb": 79,
+  "desc": "砂色のフラットな紙（横長帯）",
+  "tags": [
+   "light",
+   "sand",
+   "neutral"
+  ],
+  "max_css_px": 1500,
+  "wp_id": 4474
+ },
+ {
+  "file": "wm-tex-stone.jpg",
+  "url": "https://worldmysteriesencyclopedia.com/wp-content/uploads/2026/09/wm-tex-stone.jpg",
+  "kind": "texture",
+  "group": "tex",
+  "w": 1500,
+  "h": 1125,
+  "alpha": false,
+  "kb": 524,
+  "desc": "石積みの壁",
+  "tags": [
+   "mid",
+   "stone",
+   "wall",
+   "photo"
+  ],
+  "max_css_px": 1500,
+  "wp_id": 4472
+ }
+]
