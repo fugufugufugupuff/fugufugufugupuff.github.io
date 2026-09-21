@@ -1,0 +1,356 @@
+{
+ "slug": "example-ninth-legion",
+ "title": "消えた第九軍団はどこへ行ったのか",
+ "lead": "紀元120年ごろ、ローマ帝国の精鋭5,000人が記録から消えた。北方の霧に飲まれたのか、それとも――",
+ "toc": true,
+ "hero": {
+  "eyebrow": "ROMAN BRITAIN / 未解決",
+  "photo": {
+   "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Roman_writing_tablet_02.jpg?width=1600",
+   "alt": "ローマの書字板（複製）",
+   "caption": "ローマの書字板（複製）",
+   "credit": "Michel wal (travail personnel (own work))",
+   "license": "CC BY-SA 3.0",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Roman_writing_tablet_02.jpg",
+   "w": 3388,
+   "h": 2284
+  },
+  "chips": [
+   "時代：西暦108〜161年",
+   "場所：ブリタニア〜ライン川",
+   "状態：未解決"
+  ]
+ },
+ "summary": [
+  "ヨーク（エボラクム）に駐屯していた第九軍団ヒスパナは、108年の碑文を最後にブリタニアの記録から消える。",
+  "161年ごろの軍団一覧には名前がない。5,000人がどこでどう失われたのか、決定的な史料は一つもない。"
+ ],
+ "design": {
+  "tokens": {
+   "paper": "#eef0ea",
+   "paper-2": "#e6e9e1",
+   "paper-3": "#dde1d6",
+   "accent": "#8a2d1f",
+   "accent-deep": "#5d1c12",
+   "cool": "#2f5c5a",
+   "cool-deep": "#1f403f",
+   "cool-soft": "#d9e6e2"
+  },
+  "backgrounds": {
+   "hero": "wm-bg-fog-day-01.jpg",
+   "texture": "article-paper-texture-v2.webp"
+  },
+  "css_extra": ".wp-example-ninth-legion-fragment .hero{align-items:center}"
+ },
+ "sections": [
+  {
+   "title": "霧の中の最後の碑文",
+   "subtitle": "108年、ヨークで刻まれた石",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "ヨークの博物館に、**第九軍団**の名を刻んだ石板がある。年代は西暦108年。これがブリタニアにおける同軍団の最後の確実な痕跡だ。"
+    },
+    {
+     "type": "figure",
+     "size": "wide",
+     "photo": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Hadrian%27s_Wall_west_of_Housesteads_3.jpg?width=1600",
+      "alt": "ハウステッズ西のハドリアヌスの長城",
+      "caption": "ハウステッズ西のハドリアヌスの長城",
+      "credit": "Steven Fruitsmaak",
+      "license": "Public domain",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Hadrian%27s_Wall_west_of_Housesteads_3.jpg",
+      "w": 3008,
+      "h": 2000
+     }
+    },
+    {
+     "type": "p",
+     "text": "長城が築かれるのは122年以降。つまり軍団は、長城が「まだ無い」北辺で消えたことになる。__この時間差__が全ての議論の出発点になる。"
+    },
+    {
+     "type": "stamp",
+     "asset": "wm-label-unresolved.png",
+     "width": 320,
+     "pos": "right"
+    },
+    {
+     "type": "photo-pair",
+     "photos": [
+      {
+       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Hadrian%27s_Wall_at_Housesteads_-_geograph.org.uk_-_6161907.jpg?width=1600",
+       "alt": "ハウステッズの丘陵と長城",
+       "caption": "ハウステッズの丘陵と長城",
+       "credit": "Rudi Winter",
+       "license": "CC BY-SA 2.0",
+       "source_url": "https://commons.wikimedia.org/wiki/File:Hadrian%27s_Wall_at_Housesteads_-_geograph.org.uk_-_6161907.jpg",
+       "w": 1280,
+       "h": 960
+      },
+      {
+       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Housesteads_Roman_Camp_on_Hadrian%27s_Wall%2C_1989_-_geograph.org.uk_-_4289661.jpg?width=1600",
+       "alt": "1989年のハウステッズ砦",
+       "caption": "1989年のハウステッズ砦",
+       "credit": "Ben Brooksbank",
+       "license": "CC BY-SA 2.0",
+       "source_url": "https://commons.wikimedia.org/wiki/File:Housesteads_Roman_Camp_on_Hadrian%27s_Wall,_1989_-_geograph.org.uk_-_4289661.jpg",
+       "w": 2442,
+       "h": 1366
+      }
+     ]
+    },
+    {
+     "type": "readbreak",
+     "text": "5,000人の軍団が、碑文一つ残さずに消える。それは「敗北」よりも不自然なことだ。"
+    }
+   ]
+  },
+  {
+   "title": "四つの説くらべ",
+   "blocks": [
+    {
+     "type": "compare",
+     "caption": "主な説の比較",
+     "columns": [
+      "説",
+      "根拠",
+      "説明できないこと"
+     ],
+     "rows": [
+      [
+       "北方で全滅",
+       "ローマ史家の沈黙・118年の反乱記録",
+       "戦没を悼む碑文が一つもない"
+      ],
+      [
+       "ライン川へ転属",
+       "ナイメーヘンの瓦の刻印",
+       "刻印の年代が108年より前の可能性"
+      ],
+      [
+       "東方で壊滅",
+       "132年のユダヤ反乱の損害",
+       "第九の名を挙げた史料がない"
+      ],
+      [
+       "解散・吸収",
+       "161年一覧からの消失",
+       "理由の記録がない"
+      ]
+     ]
+    },
+    {
+     "type": "timeline",
+     "items": [
+      {
+       "time": "108年",
+       "text": "ヨークで碑文。最後の確実な記録"
+      },
+      {
+       "time": "118年頃",
+       "text": "ブリタニア北部で反乱の記録"
+      },
+      {
+       "time": "122年",
+       "text": "ハドリアヌス、長城の建設を開始"
+      },
+      {
+       "time": "161年頃",
+       "text": "軍団一覧に第九の名がない"
+      }
+     ]
+    },
+    {
+     "type": "photo-grid",
+     "photos": [
+      {
+       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Hadrian%27s_Wall_at_Housesteads_Fort_-_geograph.org.uk_-_2815680.jpg?width=1600",
+       "alt": "ハウステッズ砦の城壁",
+       "caption": "ハウステッズ砦の城壁",
+       "credit": "John Sutton",
+       "license": "CC BY-SA 2.0",
+       "source_url": "https://commons.wikimedia.org/wiki/File:Hadrian%27s_Wall_at_Housesteads_Fort_-_geograph.org.uk_-_2815680.jpg",
+       "w": 1024,
+       "h": 768
+      },
+      {
+       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Vindolanda_tablets.jpg?width=1600",
+       "alt": "ヴィンドランダ書字板の展示ケース",
+       "caption": "ヴィンドランダ書字板の展示ケース",
+       "credit": "Photograph by Mike Peel (www.mikepeel.net).",
+       "license": "CC BY-SA 4.0",
+       "source_url": "https://commons.wikimedia.org/wiki/File:Vindolanda_tablets.jpg",
+       "w": 2592,
+       "h": 3888
+      },
+      {
+       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Hadrian%27s_Wall_at_Housesteads_-_geograph.org.uk_-_8311.jpg?width=1600",
+       "alt": "ハウステッズの長城",
+       "caption": "ハウステッズの長城",
+       "credit": "Andy Beecroft",
+       "license": "CC BY-SA 2.0",
+       "source_url": "https://commons.wikimedia.org/wiki/File:Hadrian%27s_Wall_at_Housesteads_-_geograph.org.uk_-_8311.jpg",
+       "w": 510,
+       "h": 640
+      }
+     ]
+    },
+    {
+     "type": "note",
+     "text": "[[出典の性格]] 上の年代は碑文と後代の一覧表に基づく。反乱の詳細は2世紀後半の史家による間接的な記述。"
+    },
+    {
+     "type": "quote",
+     "text": "軍団の名は、まるで最初から無かったかのように、帳簿から落ちている。",
+     "who": "ある研究者の言葉（要出典・例）"
+    }
+   ]
+  },
+  {
+   "title": "ヴィンドランダの木の手紙",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "長城の少し南、ヴィンドランダ砦からは、兵士たちの日常を記した木の書字板が数百枚出土している。{https://vindolanda.com|ヴィンドランダ財団}の発掘は今も続く。"
+    },
+    {
+     "type": "figure",
+     "size": "full",
+     "photo": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Hadrian%27s_Wall_and_Housesteads_Roman_Fort_aerial.jpg?width=1600",
+      "alt": "ハウステッズ砦と長城の航空写真",
+      "caption": "ハウステッズ砦と長城の航空写真",
+      "credit": "Lieven Smits",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Hadrian%27s_Wall_and_Housesteads_Roman_Fort_aerial.jpg",
+      "w": 3872,
+      "h": 2592
+     }
+    },
+    {
+     "type": "photo-pair",
+     "portrait": true,
+     "photos": [
+      {
+       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Vindolanda_tablets_2.jpg?width=1600",
+       "alt": "大英博物館のヴィンドランダ書字板展示",
+       "caption": "大英博物館のヴィンドランダ書字板展示",
+       "credit": "Photograph by Mike Peel (www.mikepeel.net).",
+       "license": "CC BY-SA 4.0",
+       "source_url": "https://commons.wikimedia.org/wiki/File:Vindolanda_tablets_2.jpg",
+       "w": 3467,
+       "h": 2577
+      },
+      {
+       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Vindolanda_tablet_291.jpg?width=1600",
+       "alt": "ヴィンドランダ書字板291（誕生日の招待状）",
+       "caption": "ヴィンドランダ書字板291（誕生日の招待状）",
+       "credit": "Fæ",
+       "license": "CC BY-SA 3.0",
+       "source_url": "https://commons.wikimedia.org/wiki/File:Vindolanda_tablet_291.jpg",
+       "w": 3591,
+       "h": 1560
+      }
+     ]
+    },
+    {
+     "type": "theory",
+     "text": "書字板は第九の「消えた後」の世界を映す。そこに第九の兵の名が一つでもあれば、話は変わる。"
+    },
+    {
+     "type": "profile",
+     "name": "クラウディア・セウェラ",
+     "role": "書字板291の差出人",
+     "photo": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Hadrian%27s_Wall_at_Housesteads_Roman_fort_-_geograph.org.uk_-_7847032.jpg?width=1600",
+      "alt": "砦の北門付近",
+      "caption": "砦の北門付近",
+      "credit": "Roy Hughes",
+      "license": "CC BY-SA 2.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Hadrian%27s_Wall_at_Housesteads_Roman_fort_-_geograph.org.uk_-_7847032.jpg",
+      "w": 640,
+      "h": 480
+     },
+     "text": "誕生日の招待状を書いた司令官の妻。ラテン語で女性が書いた最古級の手紙とされる。"
+    },
+    {
+     "type": "band",
+     "background": "wm-common-fog-ruins-background-03.jpg",
+     "text": "石は残った。人だけが消えた。"
+    },
+    {
+     "type": "photo-pair",
+     "photos": [
+      {
+       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Hadrian%27s_Wall_at_Housesteads_-_geograph.org.uk_-_7664925.jpg?width=1600",
+       "alt": "ハウステッズ付近の長城（東向き）",
+       "caption": "ハウステッズ付近の長城（東向き）",
+       "credit": "Jeff Buck",
+       "license": "CC BY-SA 2.0",
+       "source_url": "https://commons.wikimedia.org/wiki/File:Hadrian%27s_Wall_at_Housesteads_-_geograph.org.uk_-_7664925.jpg",
+       "w": 6000,
+       "h": 4000
+      },
+      {
+       "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Hadrian%27s_Wall_at_Housesteads_-_geograph.org.uk_-_7664927.jpg?width=1600",
+       "alt": "ハウステッズ付近の長城（西向き）",
+       "caption": "ハウステッズ付近の長城（西向き）",
+       "credit": "Jeff Buck",
+       "license": "CC BY-SA 2.0",
+       "source_url": "https://commons.wikimedia.org/wiki/File:Hadrian%27s_Wall_at_Housesteads_-_geograph.org.uk_-_7664927.jpg",
+       "w": 6000,
+       "h": 4000
+      }
+     ]
+    },
+    {
+     "type": "figure",
+     "size": "text",
+     "photo": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Hadrian%27s_Wall_at_Housesteads_-_geograph.org.uk_-_6441566.jpg?width=1600",
+      "alt": "長城に沿う小道",
+      "caption": "長城に沿う小道",
+      "credit": "Trevor Harris",
+      "license": "CC BY-SA 2.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Hadrian%27s_Wall_at_Housesteads_-_geograph.org.uk_-_6441566.jpg",
+      "w": 1200,
+      "h": 1600
+     }
+    },
+    {
+     "type": "figure",
+     "size": "text",
+     "photo": {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Vindolanda_tablet_244.jpg?width=1600",
+      "alt": "ヴィンドランダ書字板244",
+      "caption": "ヴィンドランダ書字板244",
+      "credit": "© The Trustees of the British Museum",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Vindolanda_tablet_244.jpg",
+      "w": 2500,
+      "h": 1108
+     }
+    },
+    {
+     "type": "ul",
+     "items": [
+      "書字板は現在も年間数十枚が出土している",
+      "保存状態は嫌気性の土壌による"
+     ]
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "title": "RIB 665: Building inscription of the Ninth Legion, York",
+   "url": "https://romaninscriptionsofbritain.org/inscriptions/665",
+   "note": "碑文データベース"
+  },
+  {
+   "title": "Vindolanda Tablets Online",
+   "url": "http://vindolanda.csad.ox.ac.uk/"
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "mobile": {
+  "scrollWidth": 390,
+  "clientWidth": 390,
+  "height": 12395,
+  "images": 16,
+  "broken": [
+   "https://commons.wikimedia.org/wiki/Special:FilePath/Hadrian%27s_Wall_at_Housesteads_-_geograph.org.uk_-_6441566.jpg?width=1600"
+  ],
+  "upscaled": [],
+  "overflowing": [],
+  "tinyText": [],
+  "jsErrors": [],
+  "horizontalScroll": false,
+  "screenshot": "tools/article/example/preview/mobile.png"
+ },
+ "tablet": {
+  "scrollWidth": 820,
+  "clientWidth": 820,
+  "height": 11028,
+  "images": 16,
+  "broken": [
+   "https://commons.wikimedia.org/wiki/Special:FilePath/Hadrian%27s_Wall_at_Housesteads_-_geograph.org.uk_-_6441566.jpg?width=1600"
+  ],
+  "upscaled": [],
+  "overflowing": [],
+  "tinyText": [],
+  "jsErrors": [],
+  "horizontalScroll": false,
+  "screenshot": "tools/article/example/preview/tablet.png"
+ },
+ "desktop": {
+  "scrollWidth": 1440,
+  "clientWidth": 1440,
+  "height": 12692,
+  "images": 16,
+  "broken": [
+   "https://commons.wikimedia.org/wiki/Special:FilePath/Hadrian%27s_Wall_at_Housesteads_-_geograph.org.uk_-_6441566.jpg?width=1600"
+  ],
+  "upscaled": [],
+  "overflowing": [],
+  "tinyText": [],
+  "jsErrors": [],
+  "horizontalScroll": false,
+  "screenshot": "tools/article/example/preview/desktop.png"
+ }
+}
