@@ -56,6 +56,7 @@ def main():
     photos = [t for t in imgs if 'class="stamp' not in t and "wm-assets" not in t and not re.search(r'alt=""', t)]
     p(len(photos) >= a.min_photos, f"写真 {len(photos)} 枚（{a.min_photos} 枚以上）")
     p(not [t for t in imgs if "alt=" not in t], "全 img に alt")
+    p(not [t for t in photos if re.search(r'alt="\s*"', t)], "写真の alt が空でない")
     p(not [t for t in photos if 'loading="lazy"' not in t], "全写真に loading=lazy")
     figs = re.findall(r"<figure[^>]*>(.*?)</figure>", c, re.S)
     nocap = [f for f in figs if "<figcaption" not in f]

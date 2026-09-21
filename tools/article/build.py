@@ -54,6 +54,10 @@ class Builder:
         if not ph.get("src"):
             raise SystemExit("写真に src がありません: %r" % ph)
         self.photos.append(ph)
+        if not (ph.get("alt") or ph.get("caption")):
+            self.warnings.append(f"alt/caption が空の写真: {ph['src'][:80]}")
+        if not ph.get("credit") or not ph.get("license"):
+            self.warnings.append(f"credit/license が空の写真: {ph['src'][:80]}")
         src = ph["src"]
         if "wikimedia.org" in src and "?width=" not in src and "Special:FilePath" in src:
             src += "?width=1600"
@@ -125,7 +129,7 @@ class Builder:
             return f'<div class="stamp {esc(b.get("pos","right"))}"><img src="{esc(url)}" alt="" width="{w}" loading="lazy"></div>'
         if t == "band":  # 背景付きの帯（章の間の全幅ブレイク）
             bg = self.asset_url(b["background"]) if b.get("background") else ""
-            style_cls = f"band-{len(self.chapters)}-{abs(hash(bg)) % 10000}"
+            style_cls = f"band-{len(self.band_css) + 1}"
             self.band_css.append(f'.{self.cls} .{style_cls}{{background-image:url("{bg}")}}')
             return f'<div class="band {style_cls}"><div class="band-inner">{self.inline(b["text"])}</div></div>'
         if t == "html":
@@ -354,6 +358,8 @@ def main():
     print(f"wrote {path}  ({len(out)//1024} KB, 写真 {len({p['src'] for p in b.photos})} 枚, 章 {len(b.chapters)})")
     for w in b.warnings:
         print("WARN", w)
+    if b.warnings:
+        sys.exit(1)
 
 if __name__ == "__main__":
     main()

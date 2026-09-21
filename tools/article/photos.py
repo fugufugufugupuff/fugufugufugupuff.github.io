@@ -19,7 +19,7 @@ import argparse, json, re, sys, urllib.parse, urllib.request
 API = "https://commons.wikimedia.org/w/api.php"
 UA = "worldmystery-article-tools/1.0 (https://worldmysteriesencyclopedia.com)"
 ALLOWED = re.compile(r"^(public domain|pd[- ]|cc0|cc[- ]by(?:[- ]sa)?(?:[- ]\d(\.\d)?)?$|cc[- ]by(?:[- ]sa)?[- ]\d)", re.I)
-FORBIDDEN = re.compile(r"(nc|nd|non[- ]?commercial|no[- ]?deriv|fair use|copyright)", re.I)
+FORBIDDEN = re.compile(r"(\bnc\b|\bnd\b|non[- ]?commercial|no[- ]?deriv|fair[- ]use|all rights reserved|©)", re.I)
 
 def api(params):
     params = {**params, "format": "json", "formatversion": "2"}

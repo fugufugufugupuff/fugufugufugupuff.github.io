@@ -5,8 +5,13 @@ description: 世界ミステリー図鑑（worldmysteriesencyclopedia.com）の�
 
 # 世界ミステリー図鑑 記事制作（装置版）
 
-同期スキル `worldmystery-article-checklist`（調査ルール・読み味）と `worldmystery-house-design`（読みやすさの基準）は引き続き有効。
-**ただし写真は 20 枚ではなく 15 枚以上。納品前チェックはスキル内のスクリプトではなく、このリポジトリの3コマンドを使う。**
+**このファイルが手順の正本。** クラウド側の同期スキルとぶつかる所は次のとおり読み替える：
+
+| 同期スキル | 使う部分 | 古い（無視する）部分 |
+|---|---|---|
+| `worldmystery-article-checklist` | 調査ルール（複数言語10回以上・謎を主役に）、読み味、納品時に添えるもの | 「実写真20枚」→ **15枚**。「納品前チェックスクリプト」→ **このリポジトリの3コマンド** |
+| `worldmystery-house-design` | 本文1000px中央・写真は本文より広く・SWELL対策の考え方 | 「再利用ベースCSS」を手で貼る作業（`build.py` に入っている） |
+| `worldmystery-existing-articles` | 題材の重複確認 | — |
 
 ## 手順（この順で。飛ばさない）
 
@@ -20,7 +25,8 @@ description: 世界ミステリー図鑑（worldmysteriesencyclopedia.com）の�
    - その題材だけの図（平面図・航路図・年表図など）を何にするか
    - SEO タイトル／スラッグ／メタディスクリプション／フォーカスキーワード
    - 確保した実写真の枚数
-4. **執筆** — `tools/article/example/article.json` を `tools/article/work/<slug>/article.json` に複製して書く。
+4. **執筆** — `python3 tools/article/new.py <slug> "タイトル"` で雛形を作り、`tools/article/work/<slug>/article.json` に書く。
+   書き方の見本は `tools/article/example/article.json`。
    ブロックの種類は `tools/article/README.md`。題材固有の図は `html` ブロックに SVG で描き、CSS は `css_extra` に。
 5. **3コマンド** — 全部 OK になるまで直す：
    ```bash

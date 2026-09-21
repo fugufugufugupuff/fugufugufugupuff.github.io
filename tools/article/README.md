@@ -5,6 +5,7 @@
 
 ```
 tools/article/
+  new.py       記事の雛形を work/<slug>/ に作る
   photos.py    写真の権利門番（Commons 検索・情報取得・再検証）
   build.py     article.json → WordPress 用 HTML（<style> + フラグメント）
   check.py     納品前チェック（禁止タグ・14px以下・閉じ忘れ・クレジット漏れ・素材の拡大…）
@@ -28,7 +29,8 @@ python3 tools/article/photos.py info "File:A.jpg" "File:B.jpg" ... -o tools/arti
 
 # 3. 設計案を出して承認をもらう（色・フォント・章立て・背景と小物の選定・題材固有の図）
 
-# 4. article.json を書く（example/article.json を複製）
+# 4. 雛形を作って article.json を書く（見本は example/article.json）
+python3 tools/article/new.py <slug> "タイトル"
 
 # 5. 組む → 検査 → 見る
 python3 tools/article/build.py   tools/article/work/<slug>/article.json

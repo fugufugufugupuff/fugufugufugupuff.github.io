@@ -1,4 +1,4 @@
 node_modules/
-tools/article/work/*/preview/
-tools/article/work/*/article.html
 __pycache__/
+tools/article/**/preview/
+tools/article/work/*/article.html
