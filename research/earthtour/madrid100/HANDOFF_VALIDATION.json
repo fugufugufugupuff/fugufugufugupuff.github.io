@@ -1,0 +1,154 @@
+{
+  "date": "2026-09-28",
+  "validation_scope": "Source archive preservation and structured-data integrity only. No re-verification of food facts, photo rights, WP, or live GitHub upload.",
+  "source_archive_name": "Madrid_100品と名所_執筆統合セット.zip",
+  "source_archive_sha256": "47935e633ff64a7e0e99c57facf663bf41fb87dc5f008e38946e9c2192d5f643",
+  "source_files": 12,
+  "all_original_files_byte_identical": true,
+  "original_files": [
+    {
+      "path": "00_README.md",
+      "bytes": 2226,
+      "sha256": "b286841c269384c504dd57c0b2d0a1c4b138828e080bea348acaf71c1558f43a"
+    },
+    {
+      "path": "01_マドリード100選_紹介文初稿.md",
+      "bytes": 61907,
+      "sha256": "15649c554e53f74460c1ad567113bf6e36bfa77c6d72a4eeb8dc5d9570ee8ef0"
+    },
+    {
+      "path": "02_優先40選_本文候補.md",
+      "bytes": 21044,
+      "sha256": "6956338aad641d756c16ad3da1ceea61086d8a609ebc5df415bc7412eceda2dc"
+    },
+    {
+      "path": "03_執筆引継ぎ資料.md",
+      "bytes": 158557,
+      "sha256": "e0c96018dfaf185dd2f63ab2c65a93f789bff6fc71e0529e17bd3850347d68d1"
+    },
+    {
+      "path": "04_Claudeへの引継ぎプロンプト.txt",
+      "bytes": 3498,
+      "sha256": "66ce4c1eae1ee1100ab79b6bdadffb278136a17c3fa0650ea4f8389438f7f3be"
+    },
+    {
+      "path": "Madrid_本文と写真_統合版.html",
+      "bytes": 267482,
+      "sha256": "c945eddbbd3aea2ecb932d0371654294fa605cc928fe1e94a91bdfedd636ac82"
+    },
+    {
+      "path": "Madrid_統合調査台帳.xlsx",
+      "bytes": 110299,
+      "sha256": "749db186c8004416fee7ce604f546538b77a3ccbcd2ac1655deca01a96798705"
+    },
+    {
+      "path": "data/foods100.csv",
+      "bytes": 79392,
+      "sha256": "f64132d2e8640ecdc91336805f1222b910e65aa27f663731fa8754a6406f0efc"
+    },
+    {
+      "path": "data/master.json",
+      "bytes": 324896,
+      "sha256": "235f729b9407826f3d4bfa5ac26fe35b19c30213f382f95c8208c41519d597b6"
+    },
+    {
+      "path": "data/photos52.csv",
+      "bytes": 35643,
+      "sha256": "61c2779aeffa49436defaaeeb9f380f52201a504ab1d1e1f8ef6ce0f174d1938"
+    },
+    {
+      "path": "data/places30.csv",
+      "bytes": 14994,
+      "sha256": "ff2b804c57a67a6607dc3160aa42c2590182f55e333e1c8897b2a9d068e0393c"
+    },
+    {
+      "path": "data/sources86.csv",
+      "bytes": 28861,
+      "sha256": "9eed56a33c25a048b6ff6216c9277b74b9f84a252d7ac0c1e7c6d6dc46f71307"
+    }
+  ],
+  "counts": {
+    "foods": 100,
+    "places": 30,
+    "photos": 52,
+    "sources": 86
+  },
+  "food_body_chars": 13386,
+  "conditional_photo_records": 43,
+  "food_photo_candidate_coverage": 34,
+  "food_items_without_candidates": [
+    "M004",
+    "M005",
+    "M013",
+    "M014",
+    "M016",
+    "M017",
+    "M018",
+    "M019",
+    "M020",
+    "M023",
+    "M027",
+    "M029",
+    "M031",
+    "M032",
+    "M033",
+    "M034",
+    "M035",
+    "M036",
+    "M037",
+    "M038",
+    "M039",
+    "M041",
+    "M042",
+    "M043",
+    "M044",
+    "M046",
+    "M047",
+    "M048",
+    "M049",
+    "M050",
+    "M051",
+    "M053",
+    "M054",
+    "M055",
+    "M056",
+    "M057",
+    "M058",
+    "M059",
+    "M060",
+    "M067",
+    "M071",
+    "M073",
+    "M074",
+    "M075",
+    "M076",
+    "M077",
+    "M078",
+    "M079",
+    "M080",
+    "M081",
+    "M084",
+    "M085",
+    "M086",
+    "M087",
+    "M088",
+    "M089",
+    "M090",
+    "M091",
+    "M093",
+    "M094",
+    "M095",
+    "M096",
+    "M097",
+    "M098",
+    "M099",
+    "M100"
+  ],
+  "partial_food_ids": [
+    "M003"
+  ],
+  "image_binaries_in_snapshot": 0,
+  "duplicate_ids": 0,
+  "unresolved_record_references": 0,
+  "secret_scan": "No common GitHub/OpenAI token or private-key signatures detected in snapshot text files; not an exhaustive security audit."
+}
