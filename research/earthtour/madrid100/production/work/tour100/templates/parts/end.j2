@@ -1,0 +1,36 @@
+{% from "parts/_macros.j2" import sech, img, postmark %}
+<section class="end" id="t100-end">
+  {% if deco.end_bg %}<img class="dz" src="{{ deco.end_bg }}" alt="" aria-hidden="true" loading="lazy">{% endif %}
+  <div class="wrap">
+    {{ sech("もちかえる", "あつめた切手 " ~ all_dishes|length ~ "枚", "食べたら□に印をつけながら回る用", deco.fleuron) }}
+    <div class="album">
+      {% for x in all_dishes %}<a class="stamp" href="#dish-{{ '%03d' % x.no }}">{% if x.photo %}{{ img(x.photo, "(min-width:768px) 120px, 30vw") }}{% endif %}<b>{{ '%03d' % x.no }}</b><span title="{{ x.name }}">{{ x.index_name or x.name }}</span><small>{{ x.seal }}</small></a>{% endfor %}
+    </div>
+
+    {% if meta.get('show_costs', true) %}<div class="receipt">
+      <h3>{{ meta.place_short }} 食べ歩き</h3>
+      <p class="sub">RECEIPT　{{ meta.month }}</p>
+      {% for d in days %}<div class="ln"><span>DAY{{ d.day }} {{ d.date }}（{{ d.count }}品）</span><span>{{ d.total|money }}</span></div>{% endfor %}
+      <div class="ln sum"><span>合計 {{ stats.dishes }}品</span><span>{{ stats.total|money }}</span></div>
+      <div class="ln"><span>日本円</span><span>≈ {{ '{:,}'.format(stats.total_yen) }}円</span></div>
+      <div class="ln"><span>換算</span><span>{{ meta.rate_text }}</span></div>
+      <div class="bar" aria-hidden="true"></div>
+    </div>{% endif %}
+
+    {% if fee %}
+    <div style="margin-top:var(--s8)">{{ sech("旅の費用", stats.days ~ "日間でいくら？") }}</div>
+    <div class="fee">{% for k, v in fee %}<div{% if loop.last %} class="sum"{% endif %}><span>{{ k|bx }}</span><b>{{ v }}</b></div>{% endfor %}</div>
+    {% endif %}
+
+    {% if links %}<div class="links">{% for t, u in links %}<a href="{{ u }}">▶ {{ t }}</a>{% endfor %}</div>{% endif %}
+    {% if end_notes %}<div class="notes">{% for p in end_notes %}<p>{{ p }}</p>{% endfor %}</div>{% endif %}
+    <div class="final">{{ postmark(meta.get("postmark_label", "GUIDE"), meta.place_short, meta.month) }}</div>
+
+    <div class="sources">
+      {% if sources %}<h3>出典</h3><ul>{% for t, u in sources %}<li><a href="{{ u }}" rel="nofollow">{{ t }}</a></li>{% endfor %}</ul>{% endif %}
+      <h3>写真の出典（1枚ごと）</h3>
+      <ul>{% for p in credits %}<li>{{ p.subject or p.caption }}｜{{ p.creator }}｜{% if p.license_url %}<a href="{{ p.license_url }}">{{ p.license_label }}</a>{% else %}{{ p.license_label }}{% endif %}｜<a href="{{ p.page }}" rel="nofollow">原典</a>{% if p.shot_date %}｜撮影：{{ p.shot_date }}{% endif %}</li>{% endfor %}</ul>
+      <p>写真は原典の利用条件（CC BY／CC BY-SA／CC0／パブリックドメイン）に従って掲載。装飾の図版はパブリックドメインの資料。施設・提供情報の確認日：{{ meta.as_of or meta.month }}。</p>
+    </div>
+  </div>
+</section>

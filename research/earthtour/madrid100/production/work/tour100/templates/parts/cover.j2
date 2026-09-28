@@ -1,0 +1,26 @@
+{% from "parts/_macros.j2" import pol, postmark %}
+<header class="cover" id="t100-top">
+  {% if meta.get('food_first') and cover_photos %}<div class="wrap"><div class="opener">{{ pol(cover_photos[0], "l", sizes="(min-width:1080px) 920px, 94vw") }}</div></div>{% endif %}
+  {% if deco.cover_bg %}<img class="dz" src="{{ deco.cover_bg }}" alt="" aria-hidden="true">{% endif %}
+  <div class="wrap grid">
+    <div>
+      {% if deco.crest %}<img class="crest" src="{{ deco.crest }}" alt="" aria-hidden="true">{% endif %}
+      <span class="ribbon">{{ meta.kicker }}</span>
+      <h1><span class="pl">{{ meta.place|bx }}</span><span class="hundred">100</span><span class="rest">品グルメツアー</span></h1>
+      <p class="lede">{{ meta.lede }}</p>
+      <p class="note">{{ editorial_note }}</p>
+      <div class="passport">
+        <div><small>{{ '散策のテーマ' if meta.get('thematic') else 'DAYS' }}</small><b>{{ stats.days }}<i>{{ '章' if meta.get('thematic') else '日間' }}</i></b></div>
+        <div><small>{{ '食の場面' if meta.get('thematic') else 'MEALS' }}</small><b>{{ stats.stops }}<i>{{ '場面' if meta.get('thematic') else '食' }}</i></b></div>
+        <div><small>DISHES</small><b>{{ stats.dishes }}<i>品</i></b></div>
+        {% if meta.get('show_costs', true) %}<div><small>FOOD</small><b>{{ stats.total_yen_man }}<i>万円</i></b></div>{% else %}<div><small>食とつながる名所</small><b>30<i>件</i></b></div>{% endif %}
+      </div>
+      {% if meta.get('show_costs', true) %}<p class="note">{{ meta.rate_text }}。料理の値段は{{ meta.as_of or meta.month }}時点の目安</p>{% endif %}
+    </div>
+    <div class="collage">
+      {% for p in cover_photos %}{{ pol(p, ["l", "r c2", "l c3"][loop.index0], cap=False, sizes="(min-width:1080px) 340px, 60vw") }}{% endfor %}
+      {{ postmark(meta.get("postmark_label", "GUIDE"), meta.place_short, meta.month) }}
+      {% if meta.get('show_costs', true) %}<span class="tag">{{ cover_tag.seal }}{% if cover_tag.small %}<small>{{ cover_tag.small }}</small>{% endif %}</span>{% endif %}
+    </div>
+  </div>
+</header>

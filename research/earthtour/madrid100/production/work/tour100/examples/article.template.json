@@ -1,0 +1,178 @@
+{
+ "meta": {
+  "title": "〇〇100品グルメツアー｜N日間・Nの食事・100品を〇〇で食べ歩く",
+  "slug": "xxx-100-dishes-tour",
+  "categories": [
+   73
+  ],
+  "excerpt": "記事一覧や検索結果に出る紹介文（120字前後）",
+  "place": "地名",
+  "place_short": "地名（消印用・6字以内）",
+  "kicker": "行った気になる100品ツアー　国名",
+  "lede": "表紙の導入文（2〜3文）",
+  "plan_sub": "旅のしおりの一言（行き方と日程）",
+  "month": "2026年10月",
+  "as_of": "",
+  "theme": "uk",
+  "currency": {
+   "symbol": "£",
+   "rate": 210,
+   "decimals": 2,
+   "position": "prefix"
+  },
+  "rate_text": "1ポンド ≈ 210円（2026年9月時点）"
+ },
+ "theme_override": {
+  "colors": {},
+  "deco": {}
+ },
+ "cover": {
+  "photos": [
+   "写真ID",
+   "写真ID",
+   "写真ID"
+  ],
+  "tag_dish": 1
+ },
+ "days": [
+  {
+   "day": 1,
+   "date": "10/1（木）",
+   "title": "DAY扉の見出し",
+   "sub": "その日の流れを一行で"
+  }
+ ],
+ "basics": [
+  [
+   "入国",
+   "ビザや電子渡航認証"
+  ],
+  [
+   "通貨",
+   "両替と支払い"
+  ],
+  [
+   "時差",
+   "日本との時差"
+  ]
+ ],
+ "stops": [
+  {
+   "id": "d1s01",
+   "day": 1,
+   "time": "08:00",
+   "slot": "朝ごはん",
+   "area": "エリア名",
+   "label": "ルート帯の短い名前",
+   "title": "食事の見出し",
+   "subtitle": "小見出し",
+   "pm": "消印の地名",
+   "lat": 0.0,
+   "lng": 0.0,
+   "r": 400,
+   "place_name": "店・場所の名前",
+   "hours": "営業時間の要点",
+   "access": "行き方",
+   "info": [
+    [
+     "入場料",
+     "…"
+    ]
+   ],
+   "body": [
+    "本文の段落1",
+    "本文の段落2"
+   ],
+   "opener": "写真ID",
+   "scenes": [
+    "写真ID"
+   ],
+   "phrase": {
+    "en": "現地語の一言",
+    "kana": "読み",
+    "ja": "意味"
+   },
+   "tips": [
+    {
+     "h": "豆知識の見出し",
+     "t": "本文"
+    }
+   ],
+   "move": {
+    "icon": "🚇",
+    "text": "次の食事への行き方"
+   },
+   "dishes": [
+    {
+     "name": "料理名",
+     "local": "原語名",
+     "gloss": "日本語の短い説明",
+     "catch": "キャッチ（<mark>強調</mark>は1か所まで）",
+     "first": "一口目",
+     "tex": [
+      "食感1",
+      "食感2",
+      "食感3"
+     ],
+     "how": "食べ方",
+     "shop": "どこで食べられるか",
+     "genre": [
+      "朝ごはん"
+     ],
+     "taste": {
+      "甘": 0,
+      "塩": 2,
+      "酸": 0,
+      "辛": 0,
+      "コク": 2
+     },
+     "price": {
+      "seal": "£8.50",
+      "small": "≈1,790円",
+      "unit": "",
+      "value": 8.5,
+      "included": false
+     },
+     "photo": "写真ID",
+     "photo2": null
+    }
+   ]
+  }
+ ],
+ "photos": {
+  "写真ID": {
+   "url": "https://earthtour.jp/wp-content/uploads/…",
+   "page": "元ページURL",
+   "creator": "作者",
+   "license": "by-sa",
+   "license_version": "2.0",
+   "subject": "写っているもの（alt）",
+   "caption": "キャプション（季節・年代が違えば断る）"
+  }
+ },
+ "fee": [
+  [
+   "航空券",
+   "約◯万円"
+  ],
+  [
+   "合計（N泊N日・1人）",
+   "約◯万円"
+  ]
+ ],
+ "links": [
+  [
+   "関連記事",
+   "https://earthtour.jp/…"
+  ]
+ ],
+ "end_notes": [
+  "注記"
+ ],
+ "sources": [
+  [
+   "出典名",
+   "URL"
+  ]
+ ]
+}

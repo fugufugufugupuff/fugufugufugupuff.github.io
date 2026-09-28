@@ -1,0 +1,1340 @@
+{
+ "d001": {
+  "role": "dish",
+  "dish": "コシード・マドリレーニョ",
+  "stop": "d1s01",
+  "need": 2,
+  "queries": [
+   "Cocido madrileño",
+   "Cocido madrileño Madrid"
+  ]
+ },
+ "d002": {
+  "role": "dish",
+  "dish": "カジョス・ア・ラ・マドリレーニャ",
+  "stop": "d1s01",
+  "need": 2,
+  "queries": [
+   "Callos a la madrileña",
+   "Callos a la madrileña Madrid"
+  ]
+ },
+ "d003": {
+  "role": "dish",
+  "dish": "ガリネハスとエントレシホス",
+  "stop": "d1s01",
+  "need": 2,
+  "queries": [
+   "Gallinejas y entresijos",
+   "Gallinejas y entresijos Madrid"
+  ]
+ },
+ "d004": {
+  "role": "dish",
+  "dish": "カヌートス",
+  "stop": "d1s01",
+  "need": 2,
+  "queries": [
+   "Canutos",
+   "Canutos Madrid"
+  ]
+ },
+ "s:d1-0900": {
+  "role": "scene",
+  "stop": "d1s01",
+  "key": "d1-0900",
+  "need": 3,
+  "queries": [
+   "Palacio Real de Madrid Madrid"
+  ],
+  "q": [
+   "Palacio Real de Madrid Madrid"
+  ]
+ },
+ "d005": {
+  "role": "dish",
+  "dish": "羊のモジェハス",
+  "stop": "d1s02",
+  "need": 2,
+  "queries": [
+   "Mollejas de cordero",
+   "Mollejas de cordero Madrid"
+  ]
+ },
+ "d006": {
+  "role": "dish",
+  "dish": "サラホス",
+  "stop": "d1s02",
+  "need": 2,
+  "queries": [
+   "Zarajos",
+   "Zarajos Madrid"
+  ]
+ },
+ "d007": {
+  "role": "dish",
+  "dish": "豚耳の鉄板焼き",
+  "stop": "d1s02",
+  "need": 2,
+  "queries": [
+   "Oreja a la plancha",
+   "Oreja a la plancha Madrid"
+  ]
+ },
+ "s:d1-1200": {
+  "role": "scene",
+  "stop": "d1s02",
+  "key": "d1-1200",
+  "need": 3,
+  "queries": [
+   "Madrid streets"
+  ]
+ },
+ "d008": {
+  "role": "dish",
+  "dish": "ペピート・デ・テルネラ",
+  "stop": "d1s03",
+  "need": 2,
+  "queries": [
+   "Pepito de ternera",
+   "Pepito de ternera Madrid"
+  ]
+ },
+ "d009": {
+  "role": "dish",
+  "dish": "マドリード風カタツムリ煮込み",
+  "stop": "d1s03",
+  "need": 2,
+  "queries": [
+   "Caracoles a la madrileña",
+   "Caracoles a la madrileña Madrid"
+  ]
+ },
+ "d010": {
+  "role": "dish",
+  "dish": "ガジーナ・エン・ペピトリア",
+  "stop": "d1s03",
+  "need": 2,
+  "queries": [
+   "Gallina en pepitoria",
+   "Gallina en pepitoria Madrid"
+  ]
+ },
+ "s:d1-1600": {
+  "role": "scene",
+  "stop": "d1s03",
+  "key": "d1-1600",
+  "need": 3,
+  "queries": [
+   "La Latina / Cava Baja Madrid"
+  ],
+  "q": [
+   "La Latina / Cava Baja Madrid"
+  ]
+ },
+ "d011": {
+  "role": "dish",
+  "dish": "イカフライのボカディージョ",
+  "stop": "d1s04",
+  "need": 2,
+  "queries": [
+   "Bocadillo de calamares",
+   "Bocadillo de calamares Madrid"
+  ]
+ },
+ "d012": {
+  "role": "dish",
+  "dish": "タラの衣揚げ／ソルダディートス",
+  "stop": "d1s04",
+  "need": 2,
+  "queries": [
+   "Bacalao rebozado / Soldaditos de Pavía",
+   "Bacalao rebozado / Soldaditos de Pavía Madrid"
+  ]
+ },
+ "d013": {
+  "role": "dish",
+  "dish": "ベスーゴのマドリード風",
+  "stop": "d1s04",
+  "need": 2,
+  "queries": [
+   "Besugo a la madrileña",
+   "Besugo a la madrileña Madrid"
+  ]
+ },
+ "d014": {
+  "role": "dish",
+  "dish": "ラルディのコンソメ",
+  "stop": "d1s04",
+  "need": 2,
+  "queries": [
+   "Consomé de Lhardy",
+   "Consomé de Lhardy Madrid"
+  ]
+ },
+ "s:d1-2000": {
+  "role": "scene",
+  "stop": "d1s04",
+  "key": "d1-2000",
+  "need": 3,
+  "queries": [
+   "Plaza Mayor Madrid"
+  ],
+  "q": [
+   "Plaza Mayor Madrid"
+  ]
+ },
+ "d015": {
+  "role": "dish",
+  "dish": "ウエボス・ロトス",
+  "stop": "d2s05",
+  "need": 2,
+  "queries": [
+   "Huevos rotos",
+   "Huevos rotos Madrid"
+  ]
+ },
+ "d016": {
+  "role": "dish",
+  "dish": "牛尾の煮込み",
+  "stop": "d2s05",
+  "need": 2,
+  "queries": [
+   "Rabo de toro / rabo de ternera",
+   "Rabo de toro / rabo de ternera Madrid"
+  ]
+ },
+ "d017": {
+  "role": "dish",
+  "dish": "カリジャーダ（頬肉の煮込み）",
+  "stop": "d2s05",
+  "need": 2,
+  "queries": [
+   "Carrillada / carrilleras",
+   "Carrillada / carrilleras Madrid"
+  ]
+ },
+ "s:d2-0900": {
+  "role": "scene",
+  "stop": "d2s05",
+  "key": "d2-0900",
+  "need": 3,
+  "queries": [
+   "Barrio de Las Letras Madrid"
+  ],
+  "q": [
+   "Barrio de Las Letras Madrid"
+  ]
+ },
+ "d018": {
+  "role": "dish",
+  "dish": "アルボンディガス",
+  "stop": "d2s06",
+  "need": 2,
+  "queries": [
+   "Albóndigas",
+   "Albóndigas Madrid"
+  ]
+ },
+ "d019": {
+  "role": "dish",
+  "dish": "ニンニクスープ",
+  "stop": "d2s06",
+  "need": 2,
+  "queries": [
+   "Sopa de ajo / sopa castellana",
+   "Sopa de ajo / sopa castellana Madrid"
+  ]
+ },
+ "d020": {
+  "role": "dish",
+  "dish": "ポタヘ・デ・ビヒリア",
+  "stop": "d2s06",
+  "need": 2,
+  "queries": [
+   "Potaje de vigilia",
+   "Potaje de vigilia Madrid"
+  ]
+ },
+ "s:d2-1200": {
+  "role": "scene",
+  "stop": "d2s06",
+  "key": "d2-1200",
+  "need": 3,
+  "queries": [
+   "Convento de las Carboneras Madrid"
+  ],
+  "q": [
+   "Convento de las Carboneras Madrid"
+  ]
+ },
+ "d021": {
+  "role": "dish",
+  "dish": "パタタス・ブラバス",
+  "stop": "d2s07",
+  "need": 2,
+  "queries": [
+   "Patatas bravas",
+   "Patatas bravas Madrid"
+  ]
+ },
+ "d022": {
+  "role": "dish",
+  "dish": "クロケタ",
+  "stop": "d2s07",
+  "need": 2,
+  "queries": [
+   "Croquetas",
+   "Croquetas Madrid"
+  ]
+ },
+ "d023": {
+  "role": "dish",
+  "dish": "ジャガイモのトルティージャ",
+  "stop": "d2s07",
+  "need": 2,
+  "queries": [
+   "Tortilla de patatas",
+   "Tortilla de patatas Madrid"
+  ]
+ },
+ "d024": {
+  "role": "dish",
+  "dish": "ガンバス・アル・アヒージョ",
+  "stop": "d2s07",
+  "need": 2,
+  "queries": [
+   "Gambas al ajillo",
+   "Gambas al ajillo Madrid"
+  ]
+ },
+ "s:d2-1600": {
+  "role": "scene",
+  "stop": "d2s07",
+  "key": "d2-1600",
+  "need": 3,
+  "queries": [
+   "Mercado de la Paz Madrid"
+  ],
+  "q": [
+   "Mercado de la Paz Madrid"
+  ]
+ },
+ "d025": {
+  "role": "dish",
+  "dish": "マッシュルームのアヒージョ",
+  "stop": "d2s08",
+  "need": 2,
+  "queries": [
+   "Champiñones al ajillo",
+   "Champiñones al ajillo Madrid"
+  ]
+ },
+ "d026": {
+  "role": "dish",
+  "dish": "カタクチイワシの酢漬け（ボケロネス）",
+  "stop": "d2s08",
+  "need": 2,
+  "queries": [
+   "Boquerones en vinagre",
+   "Boquerones en vinagre Madrid"
+  ]
+ },
+ "d027": {
+  "role": "dish",
+  "dish": "スモークサーモン",
+  "stop": "d2s08",
+  "need": 2,
+  "queries": [
+   "Salmón ahumado",
+   "Salmón ahumado Madrid"
+  ]
+ },
+ "d028": {
+  "role": "dish",
+  "dish": "バンデリージャ（漬物の串）",
+  "stop": "d2s08",
+  "need": 2,
+  "queries": [
+   "Banderillas de encurtidos",
+   "Banderillas de encurtidos Madrid"
+  ]
+ },
+ "s:d2-2000": {
+  "role": "scene",
+  "stop": "d2s08",
+  "key": "d2-2000",
+  "need": 3,
+  "queries": [
+   "Mercado de San Miguel Madrid"
+  ],
+  "q": [
+   "Mercado de San Miguel Madrid"
+  ]
+ },
+ "d029": {
+  "role": "dish",
+  "dish": "カサ・ミンゴのローストチキン",
+  "stop": "d3s09",
+  "need": 2,
+  "queries": [
+   "Pollo asado de Casa Mingo",
+   "Pollo asado de Casa Mingo Madrid"
+  ]
+ },
+ "d030": {
+  "role": "dish",
+  "dish": "小ナスの酢漬け",
+  "stop": "d3s09",
+  "need": 2,
+  "queries": [
+   "Berenjenas en vinagre",
+   "Berenjenas en vinagre Madrid"
+  ]
+ },
+ "d031": {
+  "role": "dish",
+  "dish": "エンサラディージャ・ルサ",
+  "stop": "d3s09",
+  "need": 2,
+  "queries": [
+   "Ensaladilla rusa",
+   "Ensaladilla rusa Madrid"
+  ]
+ },
+ "s:d3-0900": {
+  "role": "scene",
+  "stop": "d3s09",
+  "key": "d3-0900",
+  "need": 3,
+  "queries": [
+   "Ermita de San Antonio de la Florida Madrid"
+  ],
+  "q": [
+   "Ermita de San Antonio de la Florida Madrid"
+  ]
+ },
+ "d032": {
+  "role": "dish",
+  "dish": "トレスノス",
+  "stop": "d3s10",
+  "need": 2,
+  "queries": [
+   "Torreznos",
+   "Torreznos Madrid"
+  ]
+ },
+ "d033": {
+  "role": "dish",
+  "dish": "モルシージャ",
+  "stop": "d3s10",
+  "need": 2,
+  "queries": [
+   "Morcilla",
+   "Morcilla Madrid"
+  ]
+ },
+ "d034": {
+  "role": "dish",
+  "dish": "チストーラ",
+  "stop": "d3s10",
+  "need": 2,
+  "queries": [
+   "Chistorra",
+   "Chistorra Madrid"
+  ]
+ },
+ "d035": {
+  "role": "dish",
+  "dish": "ハモン・イベリコ",
+  "stop": "d3s10",
+  "need": 2,
+  "queries": [
+   "Jamón ibérico",
+   "Jamón ibérico Madrid"
+  ]
+ },
+ "s:d3-1200": {
+  "role": "scene",
+  "stop": "d3s10",
+  "key": "d3-1200",
+  "need": 3,
+  "queries": [
+   "El Rastro Madrid"
+  ],
+  "q": [
+   "El Rastro Madrid"
+  ]
+ },
+ "d036": {
+  "role": "dish",
+  "dish": "セシーナ",
+  "stop": "d3s11",
+  "need": 2,
+  "queries": [
+   "Cecina",
+   "Cecina Madrid"
+  ]
+ },
+ "d037": {
+  "role": "dish",
+  "dish": "チョリソーのシドラ煮",
+  "stop": "d3s11",
+  "need": 2,
+  "queries": [
+   "Chorizos a la sidra",
+   "Chorizos a la sidra Madrid"
+  ]
+ },
+ "d038": {
+  "role": "dish",
+  "dish": "ピキーリョの詰め物",
+  "stop": "d3s11",
+  "need": 2,
+  "queries": [
+   "Pimientos del piquillo rellenos",
+   "Pimientos del piquillo rellenos Madrid"
+  ]
+ },
+ "d039": {
+  "role": "dish",
+  "dish": "カツオ類入りエンパナディージャ",
+  "stop": "d3s11",
+  "need": 2,
+  "queries": [
+   "Empanadillas de bonito",
+   "Empanadillas de bonito Madrid"
+  ]
+ },
+ "s:d3-1600": {
+  "role": "scene",
+  "stop": "d3s11",
+  "key": "d3-1600",
+  "need": 3,
+  "queries": [
+   "Mercado de San Antón Madrid"
+  ],
+  "q": [
+   "Mercado de San Antón Madrid"
+  ]
+ },
+ "d040": {
+  "role": "dish",
+  "dish": "アグハ・デ・テルネラ",
+  "stop": "d3s12",
+  "need": 2,
+  "queries": [
+   "Aguja de ternera",
+   "Aguja de ternera Madrid"
+  ]
+ },
+ "d041": {
+  "role": "dish",
+  "dish": "仔豚のロースト",
+  "stop": "d3s12",
+  "need": 2,
+  "queries": [
+   "Cochinillo asado",
+   "Cochinillo asado Madrid"
+  ]
+ },
+ "d042": {
+  "role": "dish",
+  "dish": "仔羊の肩肉ロースト",
+  "stop": "d3s12",
+  "need": 2,
+  "queries": [
+   "Paletilla de cordero lechal asada",
+   "Paletilla de cordero lechal asada Madrid"
+  ]
+ },
+ "s:d3-2000": {
+  "role": "scene",
+  "stop": "d3s12",
+  "key": "d3-2000",
+  "need": 3,
+  "queries": [
+   "San Lorenzo de El Escorial Madrid"
+  ],
+  "q": [
+   "San Lorenzo de El Escorial Madrid"
+  ]
+ },
+ "d043": {
+  "role": "dish",
+  "dish": "プルポ・ア・フェイラ",
+  "stop": "d4s13",
+  "need": 2,
+  "queries": [
+   "Pulpo a feira",
+   "Pulpo a feira Madrid"
+  ]
+ },
+ "d044": {
+  "role": "dish",
+  "dish": "トルトス・デ・マイス",
+  "stop": "d4s13",
+  "need": 2,
+  "queries": [
+   "Tortos de maíz",
+   "Tortos de maíz Madrid"
+  ]
+ },
+ "d045": {
+  "role": "dish",
+  "dish": "ツナのエンパナーダ",
+  "stop": "d4s13",
+  "need": 2,
+  "queries": [
+   "Empanada de atún",
+   "Empanada de atún Madrid"
+  ]
+ },
+ "d046": {
+  "role": "dish",
+  "dish": "ファバーダ",
+  "stop": "d4s13",
+  "need": 2,
+  "queries": [
+   "Fabada asturiana",
+   "Fabada asturiana Madrid"
+  ]
+ },
+ "s:d4-0900": {
+  "role": "scene",
+  "stop": "d4s13",
+  "key": "d4-0900",
+  "need": 3,
+  "queries": [
+   "Mercado de Antón Martín Madrid"
+  ],
+  "q": [
+   "Mercado de Antón Martín Madrid"
+  ]
+ },
+ "d047": {
+  "role": "dish",
+  "dish": "カチョポ",
+  "stop": "d4s14",
+  "need": 2,
+  "queries": [
+   "Cachopo",
+   "Cachopo Madrid"
+  ]
+ },
+ "d048": {
+  "role": "dish",
+  "dish": "白インゲン豆とアサリの煮込み",
+  "stop": "d4s14",
+  "need": 2,
+  "queries": [
+   "Fabes con almejas",
+   "Fabes con almejas Madrid"
+  ]
+ },
+ "d049": {
+  "role": "dish",
+  "dish": "メルルーサのガリシア風",
+  "stop": "d4s14",
+  "need": 2,
+  "queries": [
+   "Merluza a la gallega",
+   "Merluza a la gallega Madrid"
+  ]
+ },
+ "d050": {
+  "role": "dish",
+  "dish": "小イカの鉄板焼き",
+  "stop": "d4s14",
+  "need": 2,
+  "queries": [
+   "Chipirones a la plancha",
+   "Chipirones a la plancha Madrid"
+  ]
+ },
+ "s:d4-1200": {
+  "role": "scene",
+  "stop": "d4s14",
+  "key": "d4-1200",
+  "need": 3,
+  "queries": [
+   "Museo Reina Sofía Madrid"
+  ],
+  "q": [
+   "Museo Reina Sofía Madrid"
+  ]
+ },
+ "d051": {
+  "role": "dish",
+  "dish": "魚介のサルピコン",
+  "stop": "d4s15",
+  "need": 2,
+  "queries": [
+   "Salpicón de marisco",
+   "Salpicón de marisco Madrid"
+  ]
+ },
+ "d052": {
+  "role": "dish",
+  "dish": "ガンバス・ア・ラ・ガバルディーナ",
+  "stop": "d4s15",
+  "need": 2,
+  "queries": [
+   "Gambas a la gabardina",
+   "Gambas a la gabardina Madrid"
+  ]
+ },
+ "d053": {
+  "role": "dish",
+  "dish": "コウイカの鉄板焼き",
+  "stop": "d4s15",
+  "need": 2,
+  "queries": [
+   "Sepia a la plancha",
+   "Sepia a la plancha Madrid"
+  ]
+ },
+ "d054": {
+  "role": "dish",
+  "dish": "サンブリーニャス",
+  "stop": "d4s15",
+  "need": 2,
+  "queries": [
+   "Zamburiñas",
+   "Zamburiñas Madrid"
+  ]
+ },
+ "s:d4-1600": {
+  "role": "scene",
+  "stop": "d4s15",
+  "key": "d4-1600",
+  "need": 3,
+  "queries": [
+   "Museo Nacional del Prado Madrid"
+  ],
+  "q": [
+   "Museo Nacional del Prado Madrid"
+  ]
+ },
+ "d055": {
+  "role": "dish",
+  "dish": "ムール貝",
+  "stop": "d4s16",
+  "need": 2,
+  "queries": [
+   "Mejillones",
+   "Mejillones Madrid"
+  ]
+ },
+ "d056": {
+  "role": "dish",
+  "dish": "生牡蠣",
+  "stop": "d4s16",
+  "need": 2,
+  "queries": [
+   "Ostras",
+   "Ostras Madrid"
+  ]
+ },
+ "d057": {
+  "role": "dish",
+  "dish": "パエリア",
+  "stop": "d4s16",
+  "need": 2,
+  "queries": [
+   "Paella",
+   "Paella Madrid"
+  ]
+ },
+ "d058": {
+  "role": "dish",
+  "dish": "セピア入りの黒い米料理",
+  "stop": "d4s16",
+  "need": 2,
+  "queries": [
+   "Arroz negro con sepia",
+   "Arroz negro con sepia Madrid"
+  ]
+ },
+ "s:d4-2000": {
+  "role": "scene",
+  "stop": "d4s16",
+  "key": "d4-2000",
+  "need": 3,
+  "queries": [
+   "Museo Nacional Thyssen-Bornemisza Madrid"
+  ],
+  "q": [
+   "Museo Nacional Thyssen-Bornemisza Madrid"
+  ]
+ },
+ "d059": {
+  "role": "dish",
+  "dish": "ガスパチョ",
+  "stop": "d5s17",
+  "need": 2,
+  "queries": [
+   "Gazpacho",
+   "Gazpacho Madrid"
+  ]
+ },
+ "d060": {
+  "role": "dish",
+  "dish": "サルモレホ・コルドベス",
+  "stop": "d5s17",
+  "need": 2,
+  "queries": [
+   "Salmorejo cordobés",
+   "Salmorejo cordobés Madrid"
+  ]
+ },
+ "d061": {
+  "role": "dish",
+  "dish": "チュロス",
+  "stop": "d5s17",
+  "need": 2,
+  "queries": [
+   "Churros",
+   "Churros Madrid"
+  ]
+ },
+ "d062": {
+  "role": "dish",
+  "dish": "ポラス",
+  "stop": "d5s17",
+  "need": 2,
+  "queries": [
+   "Porras",
+   "Porras Madrid"
+  ]
+ },
+ "s:d5-0900": {
+  "role": "scene",
+  "stop": "d5s17",
+  "key": "d5-0900",
+  "need": 3,
+  "queries": [
+   "Parque de El Retiro Madrid"
+  ],
+  "q": [
+   "Parque de El Retiro Madrid"
+  ]
+ },
+ "d063": {
+  "role": "dish",
+  "dish": "トリハス",
+  "stop": "d5s18",
+  "need": 2,
+  "queries": [
+   "Torrijas",
+   "Torrijas Madrid"
+  ]
+ },
+ "d064": {
+  "role": "dish",
+  "dish": "バルトリージョス",
+  "stop": "d5s18",
+  "need": 2,
+  "queries": [
+   "Bartolillos",
+   "Bartolillos Madrid"
+  ]
+ },
+ "d065": {
+  "role": "dish",
+  "dish": "サン・イシドロのロスキージャス",
+  "stop": "d5s18",
+  "need": 2,
+  "queries": [
+   "Rosquillas de San Isidro",
+   "Rosquillas de San Isidro Madrid"
+  ]
+ },
+ "s:d5-1200": {
+  "role": "scene",
+  "stop": "d5s18",
+  "key": "d5-1200",
+  "need": 3,
+  "queries": [
+   "Madrid Río Madrid"
+  ],
+  "q": [
+   "Madrid Río Madrid"
+  ]
+ },
+ "d066": {
+  "role": "dish",
+  "dish": "サン・アントンのパネシージョス",
+  "stop": "d5s19",
+  "need": 2,
+  "queries": [
+   "Panecillos de San Antón",
+   "Panecillos de San Antón Madrid"
+  ]
+ },
+ "d067": {
+  "role": "dish",
+  "dish": "コロナ・デ・ラ・アルムデナ",
+  "stop": "d5s19",
+  "need": 2,
+  "queries": [
+   "Corona de la Almudena",
+   "Corona de la Almudena Madrid"
+  ]
+ },
+ "d068": {
+  "role": "dish",
+  "dish": "ウエソス・デ・サント",
+  "stop": "d5s19",
+  "need": 2,
+  "queries": [
+   "Huesos de santo",
+   "Huesos de santo Madrid"
+  ]
+ },
+ "s:d5-1600": {
+  "role": "scene",
+  "stop": "d5s19",
+  "key": "d5-1600",
+  "need": 3,
+  "queries": [
+   "Catedral de la Almudena Madrid"
+  ],
+  "q": [
+   "Catedral de la Almudena Madrid"
+  ]
+ },
+ "d069": {
+  "role": "dish",
+  "dish": "ブニュエロス・デ・ビエント",
+  "stop": "d5s20",
+  "need": 2,
+  "queries": [
+   "Buñuelos de viento",
+   "Buñuelos de viento Madrid"
+  ]
+ },
+ "d070": {
+  "role": "dish",
+  "dish": "バルキージョス",
+  "stop": "d5s20",
+  "need": 2,
+  "queries": [
+   "Barquillos",
+   "Barquillos Madrid"
+  ]
+ },
+ "d071": {
+  "role": "dish",
+  "dish": "ロスコン・デ・レジェス",
+  "stop": "d5s20",
+  "need": 2,
+  "queries": [
+   "Roscón de Reyes",
+   "Roscón de Reyes Madrid"
+  ]
+ },
+ "s:d5-2000": {
+  "role": "scene",
+  "stop": "d5s20",
+  "key": "d5-2000",
+  "need": 3,
+  "queries": [
+   "Jardines del Campo del Moro Madrid"
+  ],
+  "q": [
+   "Jardines del Campo del Moro Madrid"
+  ]
+ },
+ "d072": {
+  "role": "dish",
+  "dish": "ナポリターナ",
+  "stop": "d6s21",
+  "need": 2,
+  "queries": [
+   "Napolitanas",
+   "Napolitanas Madrid"
+  ]
+ },
+ "d073": {
+  "role": "dish",
+  "dish": "モラタのパルメリタス",
+  "stop": "d6s21",
+  "need": 2,
+  "queries": [
+   "Palmeritas de Morata",
+   "Palmeritas de Morata Madrid"
+  ]
+ },
+ "d074": {
+  "role": "dish",
+  "dish": "マノリートス",
+  "stop": "d6s21",
+  "need": 2,
+  "queries": [
+   "Manolitos",
+   "Manolitos Madrid"
+  ]
+ },
+ "d075": {
+  "role": "dish",
+  "dish": "スイソ",
+  "stop": "d6s21",
+  "need": 2,
+  "queries": [
+   "Suizo",
+   "Suizo Madrid"
+  ]
+ },
+ "s:d6-0900": {
+  "role": "scene",
+  "stop": "d6s21",
+  "key": "d6-0900",
+  "need": 3,
+  "queries": [
+   "Gran Vía Madrid"
+  ],
+  "q": [
+   "Gran Vía Madrid"
+  ]
+ },
+ "d076": {
+  "role": "dish",
+  "dish": "ペスティーニョス",
+  "stop": "d6s22",
+  "need": 2,
+  "queries": [
+   "Pestiños",
+   "Pestiños Madrid"
+  ]
+ },
+ "d077": {
+  "role": "dish",
+  "dish": "トゥロン",
+  "stop": "d6s22",
+  "need": 2,
+  "queries": [
+   "Turrón",
+   "Turrón Madrid"
+  ]
+ },
+ "d078": {
+  "role": "dish",
+  "dish": "マサパン",
+  "stop": "d6s22",
+  "need": 2,
+  "queries": [
+   "Mazapán",
+   "Mazapán Madrid"
+  ]
+ },
+ "d079": {
+  "role": "dish",
+  "dish": "ポルボロネス",
+  "stop": "d6s22",
+  "need": 2,
+  "queries": [
+   "Polvorones",
+   "Polvorones Madrid"
+  ]
+ },
+ "s:d6-1200": {
+  "role": "scene",
+  "stop": "d6s22",
+  "key": "d6-1200",
+  "need": 3,
+  "queries": [
+   "Galería de las Colecciones Reales Madrid"
+  ],
+  "q": [
+   "Galería de las Colecciones Reales Madrid"
+  ]
+ },
+ "d080": {
+  "role": "dish",
+  "dish": "スミレのキャンディー",
+  "stop": "d6s23",
+  "need": 2,
+  "queries": [
+   "Caramelos de violeta",
+   "Caramelos de violeta Madrid"
+  ]
+ },
+ "d081": {
+  "role": "dish",
+  "dish": "チャティータス",
+  "stop": "d6s23",
+  "need": 2,
+  "queries": [
+   "Chatitas",
+   "Chatitas Madrid"
+  ]
+ },
+ "d082": {
+  "role": "dish",
+  "dish": "アルカラのコストラーダ",
+  "stop": "d6s23",
+  "need": 2,
+  "queries": [
+   "Costrada de Alcalá",
+   "Costrada de Alcalá Madrid"
+  ]
+ },
+ "s:d6-1600": {
+  "role": "scene",
+  "stop": "d6s23",
+  "key": "d6-1600",
+  "need": 3,
+  "queries": [
+   "Alcalá de Henares Madrid"
+  ],
+  "q": [
+   "Alcalá de Henares Madrid"
+  ]
+ },
+ "d083": {
+  "role": "dish",
+  "dish": "ウエソス・デ・サン・エスペディート",
+  "stop": "d6s24",
+  "need": 2,
+  "queries": [
+   "Huesos de San Expedito",
+   "Huesos de San Expedito Madrid"
+  ]
+ },
+ "d084": {
+  "role": "dish",
+  "dish": "ラルディのスフレ",
+  "stop": "d6s24",
+  "need": 2,
+  "queries": [
+   "Soufflé de Lhardy",
+   "Soufflé de Lhardy Madrid"
+  ]
+ },
+ "d085": {
+  "role": "dish",
+  "dish": "イワシ形のチョコレート菓子",
+  "stop": "d6s24",
+  "need": 2,
+  "queries": [
+   "Sardina de chocolate",
+   "Sardina de chocolate Madrid"
+  ]
+ },
+ "s:d6-2000": {
+  "role": "scene",
+  "stop": "d6s24",
+  "key": "d6-2000",
+  "need": 3,
+  "queries": [
+   "Puerta de Alcalá Madrid"
+  ],
+  "q": [
+   "Puerta de Alcalá Madrid"
+  ]
+ },
+ "d086": {
+  "role": "dish",
+  "dish": "カンポ・レアルのオリーブ",
+  "stop": "d7s25",
+  "need": 2,
+  "queries": [
+   "Aceitunas de Campo Real",
+   "Aceitunas de Campo Real Madrid"
+  ]
+ },
+ "d087": {
+  "role": "dish",
+  "dish": "カンポ・レアルのチーズ",
+  "stop": "d7s25",
+  "need": 2,
+  "queries": [
+   "Queso de Campo Real",
+   "Queso de Campo Real Madrid"
+  ]
+ },
+ "d088": {
+  "role": "dish",
+  "dish": "アランフェスのイチゴ類",
+  "stop": "d7s25",
+  "need": 2,
+  "queries": [
+   "Fresas y fresones de Aranjuez",
+   "Fresas y fresones de Aranjuez Madrid"
+  ]
+ },
+ "d089": {
+  "role": "dish",
+  "dish": "アランフェスのアスパラガス",
+  "stop": "d7s25",
+  "need": 2,
+  "queries": [
+   "Espárragos de Aranjuez",
+   "Espárragos de Aranjuez Madrid"
+  ]
+ },
+ "s:d7-0900": {
+  "role": "scene",
+  "stop": "d7s25",
+  "key": "d7-0900",
+  "need": 3,
+  "queries": [
+   "Aranjuez Madrid"
+  ],
+  "q": [
+   "Aranjuez Madrid"
+  ]
+ },
+ "d090": {
+  "role": "dish",
+  "dish": "マドリードのオリーブ油",
+  "stop": "d7s26",
+  "need": 2,
+  "queries": [
+   "Aceite de Madrid DOP",
+   "Aceite de Madrid DOP Madrid"
+  ]
+ },
+ "d091": {
+  "role": "dish",
+  "dish": "マドリードの養蜂とハチミツ",
+  "stop": "d7s26",
+  "need": 2,
+  "queries": [
+   "Miel de la Comunidad de Madrid",
+   "Miel de la Comunidad de Madrid Madrid"
+  ]
+ },
+ "d092": {
+  "role": "dish",
+  "dish": "チョコラテ・ア・ラ・タサ",
+  "stop": "d7s26",
+  "need": 2,
+  "queries": [
+   "Chocolate a la taza",
+   "Chocolate a la taza Madrid"
+  ]
+ },
+ "s:d7-1200": {
+  "role": "scene",
+  "stop": "d7s26",
+  "key": "d7-1200",
+  "need": 3,
+  "queries": [
+   "Madrid streets"
+  ]
+ },
+ "d093": {
+  "role": "dish",
+  "dish": "レチェ・メレンガーダ",
+  "stop": "d7s27",
+  "need": 2,
+  "queries": [
+   "Leche merengada",
+   "Leche merengada Madrid"
+  ]
+ },
+ "d094": {
+  "role": "dish",
+  "dish": "カサ・ミンゴのシドラ",
+  "stop": "d7s27",
+  "need": 2,
+  "queries": [
+   "Sidra de Casa Mingo",
+   "Sidra de Casa Mingo Madrid"
+  ]
+ },
+ "d095": {
+  "role": "dish",
+  "dish": "樽出しベルモット",
+  "stop": "d7s27",
+  "need": 2,
+  "queries": [
+   "Vermut de grifo",
+   "Vermut de grifo Madrid"
+  ]
+ },
+ "d096": {
+  "role": "dish",
+  "dish": "サン・イシドロのリモナーダ",
+  "stop": "d7s27",
+  "need": 2,
+  "queries": [
+   "Limonada de San Isidro",
+   "Limonada de San Isidro Madrid"
+  ]
+ },
+ "s:d7-1600": {
+  "role": "scene",
+  "stop": "d7s27",
+  "key": "d7-1600",
+  "need": 3,
+  "queries": [
+   "Palacio de Cibeles / CentroCentro Madrid"
+  ],
+  "q": [
+   "Palacio de Cibeles / CentroCentro Madrid"
+  ]
+ },
+ "d097": {
+  "role": "dish",
+  "dish": "ジャジョ（ヤヨ）",
+  "stop": "d7s28",
+  "need": 2,
+  "queries": [
+   "Yayo",
+   "Yayo Madrid"
+  ]
+ },
+ "d098": {
+  "role": "dish",
+  "dish": "マドリードのDOワイン",
+  "stop": "d7s28",
+  "need": 2,
+  "queries": [
+   "Vinos de Madrid DO",
+   "Vinos de Madrid DO Madrid"
+  ]
+ },
+ "d099": {
+  "role": "dish",
+  "dish": "チンチョンのアニス酒",
+  "stop": "d7s28",
+  "need": 2,
+  "queries": [
+   "Anís de Chinchón",
+   "Anís de Chinchón Madrid"
+  ]
+ },
+ "d100": {
+  "role": "dish",
+  "dish": "マドリードで造るクラフトビール",
+  "stop": "d7s28",
+  "need": 2,
+  "queries": [
+   "Cerveza elaborada en Madrid",
+   "Cerveza elaborada en Madrid Madrid"
+  ]
+ },
+ "s:d7-2000": {
+  "role": "scene",
+  "stop": "d7s28",
+  "key": "d7-2000",
+  "need": 3,
+  "queries": [
+   "Chinchón Madrid"
+  ],
+  "q": [
+   "Chinchón Madrid"
+  ]
+ },
+ "hero": {
+  "role": "hero",
+  "need": 2,
+  "queries": [
+   "Madrid Spain street",
+   "Madrid Spain skyline"
+  ]
+ }
+}

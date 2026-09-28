@@ -1,0 +1,18 @@
+{#- 共通の小部品 -#}
+{% macro img(p, sizes="100vw", eager=False, cls="") -%}
+<img{% if cls %} class="{{ cls }}"{% endif %} decoding="async" {% if eager %}fetchpriority="high"{% else %}loading="lazy"{% endif %} src="{{ p.src }}"{% if p.srcset %} srcset="{{ p.srcset }}" sizes="{{ sizes }}"{% endif %}{% if p.w and p.h %} width="{{ p.w }}" height="{{ p.h }}"{% endif %} alt="{{ p.alt }}">
+{%- endmacro %}
+
+{% macro pol(p, tape="", cap=True, sizes="(min-width:1080px) 540px, 92vw", cls="") -%}
+<figure class="pol{% if cls %} {{ cls }}{% endif %}">{% if tape %}<span class="tape {{ tape }}"></span>{% endif %}{{ img(p, sizes) }}{% if cap and p.caption %}<figcaption>{{ p.caption|bx }}</figcaption>{% endif %}</figure>
+{%- endmacro %}
+
+{% macro postmark(top, mid, bot) -%}
+<div class="pm"><small>{{ top }}</small><b>{{ mid }}</b><small>{{ bot }}</small></div>
+{%- endmacro %}
+
+{% macro sech(kick, title, sub="", orn=None) -%}
+<div class="sech">{% if orn %}<img class="orn" src="{{ orn }}" alt="" aria-hidden="true" loading="lazy">{% endif %}<span class="kick">{{ kick }}</span><h2>{{ title|bx }}</h2>{% if sub %}<p>{{ sub }}</p>{% endif %}</div>
+{%- endmacro %}
+
+{% set TAPES = ["l", "r c2", "l c3", "r c4"] %}

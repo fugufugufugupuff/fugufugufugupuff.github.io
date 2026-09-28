@@ -1,0 +1,22 @@
+{% from "parts/_macros.j2" import pol, TAPES %}
+<article class="dish{{ ' lead' if di == 0 }}{{ ' even' if di is odd }}" id="dish-{{ '%03d' % x.no }}">
+  {% if x.photo %}<div class="ph">
+    <span class="seal">{{ '%03d' % x.no }}</span>
+    {% if meta.get('show_costs', true) %}<span class="tag">{{ x.seal }}{% if x.small %}<small>{{ x.small }}</small>{% endif %}</span>{% endif %}
+    {% if x.photo %}{{ pol(x.photo, TAPES[di % 4], cap=False, sizes="(min-width:1080px) 560px, 92vw") }}{% endif %}
+    {% if x.genre %}<div class="genres">{% for g in x.genre %}<span style="--g:{{ genre_color(g) }}">{{ g }}</span>{% endfor %}</div>{% endif %}
+  </div>{% endif %}
+  <div class="note">
+    <span class="no">No.{{ '%03d' % x.no }}</span>
+    <h4>{{ x.name|bx }}</h4>
+    <p class="local">{{ x.local }}<span>{{ x.gloss }}</span></p>
+    <p class="catch">{{ x.catch|safe_mark }}</p>
+    <div class="row"><b>仕立て</b><p>{{ x.first }}</p></div>
+    <div class="row"><b>食感</b><div class="tex">{% for t in x.tex %}<span>{{ t }}</span>{% endfor %}</div></div>
+    {% if x.taste %}<div class="row"><b>味</b><div class="meter" aria-label="味の強さ（3段階）">{% for k in ["甘", "塩", "酸", "辛", "コク"] %}<div>{{ k }}{% for n in range(3) %}<i class="{{ 'on' if n < (x.taste.get(k) or 0) }}"></i>{% endfor %}</div>{% endfor %}</div></div>{% endif %}
+    <div class="row"><b>食べ方</b><p>{{ x.how }}</p></div>
+    {% if x.shop %}<div class="row"><b>どこで</b><p>{{ x.shop }}</p></div>{% endif %}
+    {% if x.photo %}<p class="pnote">写真：{{ x.photo.caption or x.photo.subject }}</p>{% endif %}
+    {% if x.source_links %}<p class="pnote">出典：{% for label, url in x.source_links %}<a href="{{ url }}">{{ label }}</a>{{ '・' if not loop.last else '' }}{% endfor %}</p>{% endif %}
+  </div>
+</article>

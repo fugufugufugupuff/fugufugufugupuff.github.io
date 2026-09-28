@@ -1,0 +1,15 @@
+{#- tour100 記事の骨組み。各ブロックは parts/ にある（DESIGN.md の構成表と同じ順） -#}
+<div class="t100 alignfull" style="{{ theme_style }}">
+{% include "parts/cover.j2" %}
+{% include "parts/plan.j2" %}
+{% include "parts/index.j2" %}
+{% for d in days %}
+{% include "parts/day.j2" %}
+{% for s in d.stops %}{% include "parts/stop.j2" %}{% endfor %}
+{% endfor %}
+{% include "parts/end.j2" %}
+<a class="fab" href="#t100-index" aria-label="100品もくじへ戻る">100品<br>もくじ</a>
+</div>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<script>window.T100_PINS={{ pins_json }};</script>
+<script>{{ map_js }}</script>

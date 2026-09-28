@@ -1,0 +1,846 @@
+[
+  {
+    "id": "S01",
+    "url": "https://www.esmadrid.com/de/madrider-gastronomie",
+    "checked_at": "2026-09-28T06:17:44.459906+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.esmadrid.com/de/madrider-gastronomie",
+    "sha256": "5d58a37b9eedc6c088ab99629e5fe3e81cd20fa5203fdd3e7bd4a2ded88361fd",
+    "text_chars": 12757
+  },
+  {
+    "id": "S02",
+    "url": "https://www.esmadrid.com/reposteria-tradicional",
+    "checked_at": "2026-09-28T06:17:44.460417+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.esmadrid.com/reposteria-tradicional",
+    "sha256": "a96a014ea8a2da265b003f097952bd0e7999c3065c36edf5c6eaf7696fad316c",
+    "text_chars": 17293
+  },
+  {
+    "id": "S03",
+    "url": "https://gallinejasenriqueta.es/nuestra-carta-la-carta",
+    "checked_at": "2026-09-28T06:17:44.460417+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://gallinejasenriqueta.es/nuestra-carta-la-carta",
+    "sha256": "f1ee5da0c2fb1672f595163a5a14c474360e64251f0fe6d56b9a4515196dc686",
+    "text_chars": 5216
+  },
+  {
+    "id": "S04",
+    "url": "https://lhardy.com/carta/",
+    "checked_at": "2026-09-28T06:17:44.460931+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://lhardy.com/carta/",
+    "sha256": "6e31912f2b02dbe3f718cb273ad4299ed214809d13a7fb936a12941592ae41a4",
+    "text_chars": 3694
+  },
+  {
+    "id": "S05",
+    "url": "https://lhardy.com/",
+    "checked_at": "2026-09-28T06:17:44.461431+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://lhardy.com/",
+    "sha256": "0c9dedd9d0243eee87fdc54e32d51aef723f8d7306a6b0802be3f3625ff12c51",
+    "text_chars": 4863
+  },
+  {
+    "id": "S06",
+    "url": "https://www.casaalberto.es/carta-restaurante-en?idIdioma=2",
+    "checked_at": "2026-09-28T06:17:44.896511+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.casaalberto.es/carta-restaurante-en?idIdioma=2",
+    "sha256": "e61d7476db6b33ac9a0dda190f29e8d1aebfcf1f8fcb4212c9d2409b293caa6b",
+    "text_chars": 2235
+  },
+  {
+    "id": "S07",
+    "url": "https://www.casaciriaco.es/carta-restaurante",
+    "checked_at": "2026-09-28T06:17:47.756023+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.casaciriaco.es/carta-restaurante",
+    "sha256": "1dbdf9b721fdf1fea07d89b51f8b941137508f4aff2b43c294c1b4a0aff45c89",
+    "text_chars": 1731
+  },
+  {
+    "id": "S08",
+    "url": "https://www.casamingo.es/",
+    "checked_at": "2026-09-28T06:17:48.018952+00:00",
+    "claim_reviewed": false,
+    "error": "SSLError: HTTPSConnectionPool(host='www.casamingo.es', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1007)')))"
+  },
+  {
+    "id": "S09",
+    "url": "https://elescarpinsidreria.com/",
+    "checked_at": "2026-09-28T06:17:48.449182+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://elescarpinsidreria.com/",
+    "sha256": "074a1fd0bc15845e19bc0c17aafad60dfd0db818aaec9ed18274b96d912b1911",
+    "text_chars": 5648
+  },
+  {
+    "id": "S10",
+    "url": "https://pastelerialamallorquina.es/bolleria/",
+    "checked_at": "2026-09-28T06:17:48.824080+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://pastelerialamallorquina.es/bolleria/",
+    "sha256": "ba5c66a0ddd9c59e982321a451fd16bada4b8db1b612d0c54c065aa531ec9e69",
+    "text_chars": 4010
+  },
+  {
+    "id": "S11",
+    "url": "https://pastelerialamallorquina.es/salados/",
+    "checked_at": "2026-09-28T06:17:49.054506+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://pastelerialamallorquina.es/salados/",
+    "sha256": "796c96cd8e2307ee0760c36cd5973b5ba87604ab030ab664158178290d99bb77",
+    "text_chars": 6443
+  },
+  {
+    "id": "S12",
+    "url": "https://pastelerialamallorquina.es/especialidades/",
+    "checked_at": "2026-09-28T06:17:49.455710+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://pastelerialamallorquina.es/especialidades/",
+    "sha256": "8a29cfeff7f41e4a7e0307c393a8d9fb5e86d95e3786bf3199b1986a1f5561dd",
+    "text_chars": 1681
+  },
+  {
+    "id": "S13",
+    "url": "https://mercadodesanmiguel.es/puestos/",
+    "checked_at": "2026-09-28T06:17:49.625603+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://mercadodesanmiguel.es/puestos/",
+    "sha256": "d4c826d0dfbf85db979dc79a567ceb918488491df8670fb51e9332dc2281e27c",
+    "text_chars": 53
+  },
+  {
+    "id": "S14",
+    "url": "https://lacanibal.com/",
+    "checked_at": "2026-09-28T06:17:50.982955+00:00",
+    "claim_reviewed": false,
+    "error": "ConnectTimeout: HTTPSConnectionPool(host='lacanibal.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000210F7D4A62"
+  },
+  {
+    "id": "S15",
+    "url": "https://www.lacasadelabuelo.es/",
+    "checked_at": "2026-09-28T06:17:51.026001+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.lacasadelabuelo.es/",
+    "sha256": "eabb646f2883cd39d54934401d9e9f49b4115001a7a6f625ff734187e0063ed4",
+    "text_chars": 2029
+  },
+  {
+    "id": "S16",
+    "url": "https://blog.esmadrid.com/blog/es/2025/11/13/gallinejas-y-entresijos-el-madrid-castizo/",
+    "checked_at": "2026-09-28T06:17:51.119250+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://blog.esmadrid.com/blog/es/2025/11/13/gallinejas-y-entresijos-el-madrid-castizo/",
+    "sha256": "d381f84208c66bbc13d2d4534f39eed74b9de2bc8452e804be9dc23158927ecb",
+    "text_chars": 85
+  },
+  {
+    "id": "S17",
+    "url": "https://www.esmadrid.com/recetas-madrid",
+    "checked_at": "2026-09-28T06:17:52.880755+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.esmadrid.com/recetas-madrid",
+    "sha256": "6745cd57b4f151d4cfac41f8c9aa11acdb6b0c8b8065ead74abc82c6caf58aaf",
+    "text_chars": 7663
+  },
+  {
+    "id": "S18",
+    "url": "https://www.esmadrid.com/cocidos-madrid-receta-la-clave",
+    "checked_at": "2026-09-28T06:17:52.987778+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.esmadrid.com/cocidos-madrid-receta-la-clave",
+    "sha256": "5f8728d2ae153c32db3ff3d2dac034c430edf7be50c1f09a075a7c2888ae5547",
+    "text_chars": 12131
+  },
+  {
+    "id": "S19",
+    "url": "https://www.esmadrid.com/sopas-madrid-receta-casa-botin",
+    "checked_at": "2026-09-28T06:17:53.466859+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.esmadrid.com/sopas-madrid-receta-casa-botin",
+    "sha256": "d2c4854f4e5c959486ef229d9b43a447c71667948dbce1d8ba9edf218562f7d1",
+    "text_chars": 12804
+  },
+  {
+    "id": "S20",
+    "url": "https://www.esmadrid.com/corona-almudena-madrid-receta-el-riojano",
+    "checked_at": "2026-09-28T06:17:53.777389+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.esmadrid.com/corona-almudena-madrid-receta-el-riojano",
+    "sha256": "eaa2122de2e4e3bcf91c5abee3c9aed06ff311aa373ca7e3de36ce66f7239e1d",
+    "text_chars": 10586
+  },
+  {
+    "id": "S21",
+    "url": "https://www.esmadrid.com/bu%C3%B1uelos-viento-madrid-la-mallorquina",
+    "checked_at": "2026-09-28T06:17:54.681427+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.esmadrid.com/bu%C3%B1uelos-viento-madrid-la-mallorquina",
+    "sha256": "37ef4fbf6af33a1565e66341105b4c95af4b455f4abcc3a9b6d7ad0c05e9f932",
+    "text_chars": 10588
+  },
+  {
+    "id": "S22",
+    "url": "https://www.esmadrid.com/churros-con-chocolate-receta-san-gines-madrid",
+    "checked_at": "2026-09-28T06:17:54.987088+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.esmadrid.com/churros-con-chocolate-receta-san-gines-madrid",
+    "sha256": "1303aa4166ff0038e72230228f9ab37e8897ada559e01883937957b271a7e030",
+    "text_chars": 8372
+  },
+  {
+    "id": "S23",
+    "url": "https://www.esmadrid.com/bocadillo-calamares-receta-tablafina-madrid",
+    "checked_at": "2026-09-28T06:17:56.823322+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.esmadrid.com/bocadillo-calamares-receta-tablafina-madrid",
+    "sha256": "8c7a57f2bfe57ab7962d9c9a9d13c3b5aebc6a21dff1f70c0fa80c9d8404105e",
+    "text_chars": 8554
+  },
+  {
+    "id": "S24",
+    "url": "https://blog.esmadrid.com/blog/es/2021/05/25/pepitos-de-ternera/",
+    "checked_at": "2026-09-28T06:17:57.186413+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://blog.esmadrid.com/blog/es/2021/05/25/pepitos-de-ternera/",
+    "sha256": "3e1691b541f8d798d47707002cb5169361901df0f7dab500e9f2772d0c31b91f",
+    "text_chars": 64
+  },
+  {
+    "id": "S25",
+    "url": "https://www.losgalayos.net/nuestro-menu",
+    "checked_at": "2026-09-28T06:17:57.735508+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.losgalayos.net/nuestro-menu",
+    "sha256": "b359e32f3b26b78c5911075d9b2fd775b4fc0cbb24c964d61d3782a2053dbabc",
+    "text_chars": 985
+  },
+  {
+    "id": "S26",
+    "url": "https://www.comunidad.madrid/noticias/2026/03/03/comunidad-madrid-participa-13a-feria-internacional-aceite-oliva-productos-denominacion-origen-protegida",
+    "checked_at": "2026-09-28T06:17:57.965184+00:00",
+    "claim_reviewed": false,
+    "http_status": 404,
+    "final_url": "https://www.comunidad.madrid/noticias/2026/03/03/comunidad-madrid-participa-13a-feria-internacional-aceite-oliva-productos-denominacion-origen-protegida",
+    "sha256": "595b4e1e98bad9efd03385a3ad03a2da10ff287c7a75fe5aa5dea48006294640"
+  },
+  {
+    "id": "S27",
+    "url": "https://www.comunidad.madrid/docs/assets/2025/11/21/nota_informativa_diciembre_2025.pdf",
+    "checked_at": "2026-09-28T06:17:58.063798+00:00",
+    "claim_reviewed": false,
+    "http_status": 404,
+    "final_url": "https://www.comunidad.madrid/docs/assets/2025/11/21/nota_informativa_diciembre_2025.pdf",
+    "sha256": "595b4e1e98bad9efd03385a3ad03a2da10ff287c7a75fe5aa5dea48006294640"
+  },
+  {
+    "id": "S28",
+    "url": "https://www.comunidad.madrid/docs/assets/2024/10/07/aa_ff_guia_madrid-7-estrellas_es_en.pdf",
+    "checked_at": "2026-09-28T06:17:58.132280+00:00",
+    "claim_reviewed": false,
+    "http_status": 404,
+    "final_url": "https://www.comunidad.madrid/docs/assets/2024/10/07/aa_ff_guia_madrid-7-estrellas_es_en.pdf",
+    "sha256": "595b4e1e98bad9efd03385a3ad03a2da10ff287c7a75fe5aa5dea48006294640"
+  },
+  {
+    "id": "S29",
+    "url": "https://www.esmadrid.com/en/whats-on/sanisidro-madrid",
+    "checked_at": "2026-09-28T06:17:58.201685+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.esmadrid.com/en/whats-on/sanisidro-madrid",
+    "sha256": "b657b9e20490b8cf4e4ed3338d1b33f80598a0995c69ea6a8ab5340cb4e82800",
+    "text_chars": 6698
+  },
+  {
+    "id": "S30",
+    "url": "https://www.esmadrid.com/limonada-violetas-diego-cabrera-madrid",
+    "checked_at": "2026-09-28T06:17:58.328601+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.esmadrid.com/limonada-violetas-diego-cabrera-madrid",
+    "sha256": "c325dcdba310e1e8f2772625accc9003effa58f636109f2b3b63a691b8918c62",
+    "text_chars": 7052
+  },
+  {
+    "id": "S31",
+    "url": "https://www.ft.com/content/399510a2-85ee-48a2-9827-73c23a3ab3d8",
+    "checked_at": "2026-09-28T06:17:59.146649+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.ft.com/content/399510a2-85ee-48a2-9827-73c23a3ab3d8",
+    "sha256": "359264b69ac0bf001fbe60c1e1f80c4f3b5c853fc1bd2168683b93d65aebf105",
+    "text_chars": 9715
+  },
+  {
+    "id": "S32",
+    "url": "https://www.esmadrid.com/de/traditionelle-konditorei-madrid",
+    "checked_at": "2026-09-28T06:17:59.281688+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.esmadrid.com/de/traditionelle-konditorei-madrid",
+    "sha256": "388510b7ddab5a513959b863fcd7c82d90be6582f905d8a666e4d85113816fa4",
+    "text_chars": 10776
+  },
+  {
+    "id": "S33",
+    "url": "https://www.losgalayos.net/documentos/carta_es-en.pdf",
+    "checked_at": "2026-09-28T06:18:00.552364+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.losgalayos.net/documentos/carta_es-en.pdf",
+    "sha256": "725cccbcd168d40f27d20b455e50ec902511d94d976f4fe3948f84a9b6da2c2d",
+    "pdf_requires_visual_review": true
+  },
+  {
+    "id": "S34",
+    "url": "https://quesoscamporeal.com/",
+    "checked_at": "2026-09-28T06:18:01.150627+00:00",
+    "claim_reviewed": false,
+    "error": "ConnectTimeout: HTTPSConnectionPool(host='quesoscamporeal.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000210F"
+  },
+  {
+    "id": "S35",
+    "url": "https://invitadoinvierno.com/helado-de-leche-merengada/",
+    "checked_at": "2026-09-28T06:18:01.451085+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://invitadoinvierno.com/helado-de-leche-merengada/",
+    "sha256": "1e4dc5523748c4759ec4a4982b6c052764d951663bc89c54f5b6434b31175a48",
+    "text_chars": 14869
+  },
+  {
+    "id": "S36",
+    "url": "https://elparaisodelosgolosos.blogspot.com/2023/07/costrada-de-alcala-de-henares.html",
+    "checked_at": "2026-09-28T06:18:03.872964+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://elparaisodelosgolosos.blogspot.com/2023/07/costrada-de-alcala-de-henares.html",
+    "sha256": "977a4b47c9f6f83cb7aa7c62d3b695357f4ba12505841674bb9d63b9536d60b5",
+    "text_chars": 17147
+  },
+  {
+    "id": "S37",
+    "url": "https://chatitas.es/",
+    "checked_at": "2026-09-28T06:18:04.400766+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://chatitas.es/",
+    "sha256": "923bf18375e0470b366443e12a9df2e614f65ef53a731df3aecd06e343b10691",
+    "text_chars": 7849
+  },
+  {
+    "id": "S38",
+    "url": "https://lapalmeritademorata.es/",
+    "checked_at": "2026-09-28T06:18:05.256706+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://lapalmeritademorata.es/",
+    "sha256": "bfdb5c75b8772fbf450e8e9516daba1d640ad6fbcc27f3efc8aa2593d42dd43d",
+    "text_chars": 4081
+  },
+  {
+    "id": "S39",
+    "url": "https://pastelerialamallorquina.es/",
+    "checked_at": "2026-09-28T06:18:06.942579+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://pastelerialamallorquina.es/",
+    "sha256": "c6f2a2414e3b6b171fb9e50c38283529f38c0a20f1ff3576222c742738e0fa50",
+    "text_chars": 2913
+  },
+  {
+    "id": "S40",
+    "url": "https://www.esmadrid.com/gastronomia-madrid",
+    "checked_at": "2026-09-28T06:18:07.723320+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.esmadrid.com/gastronomia-madrid",
+    "sha256": "3ee76a400bafd355f358667b5b6a24e71540fc43e09c4bc74fc8cd0c374fea7a",
+    "text_chars": 13232
+  },
+  {
+    "id": "S41",
+    "url": "https://labola.es/en",
+    "checked_at": "2026-09-28T06:18:08.342505+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://labola.es/en",
+    "sha256": "f8de81e8a95b31e62bf63ea42aa0016b0c60c4a1a734eb051f2de561100ba475",
+    "text_chars": 6295
+  },
+  {
+    "id": "S42",
+    "url": "https://www.esmadrid.com/informacion-turistica/palacio-real",
+    "checked_at": "2026-09-28T06:18:08.354507+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.esmadrid.com/informacion-turistica/palacio-real",
+    "sha256": "8d9feb4efae72b7036ab72feaa659e51e7fd3408face5b74b4c41347526f0dd9",
+    "text_chars": 15622
+  },
+  {
+    "id": "S43",
+    "url": "https://www.esmadrid.com/informacion-turistica/galeria-colecciones-reales",
+    "checked_at": "2026-09-28T06:18:09.532181+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.esmadrid.com/informacion-turistica/galeria-colecciones-reales",
+    "sha256": "128a75bce7530cd6faeb7f4b88bb97a4671a5e175da08d758abbcc09d448d00d",
+    "text_chars": 15568
+  },
+  {
+    "id": "S44",
+    "url": "https://www.esmadrid.com/informacion-turistica/parque-del-retiro",
+    "checked_at": "2026-09-28T06:18:09.699540+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.esmadrid.com/informacion-turistica/parque-del-retiro",
+    "sha256": "46b4884d0d49349cb97829b757097b39891d8e9565213ba6decb7be74fda2e5d",
+    "text_chars": 18797
+  },
+  {
+    "id": "S45",
+    "url": "https://www.esmadrid.com/informacion-turistica/palacio-de-cristal",
+    "checked_at": "2026-09-28T06:18:10.922781+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.esmadrid.com/informacion-turistica/palacio-de-cristal",
+    "sha256": "eca0e0db3e2c4438ec89b741c4a0ce82d7b194d66737ef6ae87df2949a652969",
+    "text_chars": 5320
+  },
+  {
+    "id": "S46",
+    "url": "https://mercadodesanmiguel.es/reapertura-del-mercado-de-san-miguel-tras-las-obras-de-conservacion/",
+    "checked_at": "2026-09-28T06:18:11.848107+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://mercadodesanmiguel.es/reapertura-del-mercado-de-san-miguel-tras-las-obras-de-conservacion/",
+    "sha256": "21d2edb099958f0cd50771a3cf1559f12dbdb29b331e9231a5b4a6911d39a7a6",
+    "text_chars": 2121
+  },
+  {
+    "id": "S47",
+    "url": "https://www.esmadrid.com/mercados-gastronomia-madrid",
+    "checked_at": "2026-09-28T06:18:12.185764+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.esmadrid.com/mercados-gastronomia-madrid",
+    "sha256": "040645cc43e9370f8be09fef77dd422976fe9e356ca1c131254ba3bfb9ebd5be",
+    "text_chars": 7989
+  },
+  {
+    "id": "S48",
+    "url": "https://www.esmadrid.com/informacion-turistica/plaza-mayor-madrid",
+    "checked_at": "2026-09-28T06:18:12.655659+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.esmadrid.com/informacion-turistica/plaza-mayor-madrid",
+    "sha256": "22408bb02f105e8731ad735097fa7a853dd17d2b18bc3ed2831689f22c64034f",
+    "text_chars": 7621
+  },
+  {
+    "id": "S49",
+    "url": "https://www.esmadrid.com/informacion-turistica/museo-del-prado",
+    "checked_at": "2026-09-28T06:18:12.858547+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.esmadrid.com/informacion-turistica/museo-del-prado",
+    "sha256": "621c50cff493a69cf0a8d873738d534169a264ec51742d5d3b190e923fdbf518",
+    "text_chars": 16535
+  },
+  {
+    "id": "S50",
+    "url": "https://www.esmadrid.com/informacion-turistica/museo-reina-sofia",
+    "checked_at": "2026-09-28T06:18:14.465472+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.esmadrid.com/informacion-turistica/museo-reina-sofia",
+    "sha256": "302b1a7b8bace4fb3b0eeb39168d258b50f44c2194249ecf59b26b9be9ea6b85",
+    "text_chars": 10509
+  },
+  {
+    "id": "S51",
+    "url": "https://www.esmadrid.com/informacion-turistica/museo-nacional-thyssen-bornemisza",
+    "checked_at": "2026-09-28T06:18:15.049607+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.esmadrid.com/informacion-turistica/museo-nacional-thyssen-bornemisza",
+    "sha256": "d96e9adc89ccec3982c6bac632b634a5dabaee70cf7c07ffa7893263de4c4519",
+    "text_chars": 14401
+  },
+  {
+    "id": "S52",
+    "url": "https://www.esmadrid.com/que-hacer-en-el-rastro",
+    "checked_at": "2026-09-28T06:18:15.287871+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.esmadrid.com/que-hacer-en-el-rastro",
+    "sha256": "f68b8ffd8f1c51701d4fe9d1c09baf1b463b7612443dad8fce8f6b78d9359b22",
+    "text_chars": 10693
+  },
+  {
+    "id": "S53",
+    "url": "https://www.madrid.es/portales/munimadrid/es/ErmitaDeSanAntonioDeLaFlorida/Ermita-de-San-Antonio-de-la-Florida/?vgnextchannel=33df541adec0b410VgnVCM1000000b205a0aRCRD&vgnextfmt=default&vgnextoid=797368822e3ab010VgnVCM100000d90ca8c0RCRD",
+    "checked_at": "2026-09-28T06:18:16.412881+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.madrid.es/portales/munimadrid/es/ErmitaDeSanAntonioDeLaFlorida/Ermita-de-San-Antonio-de-la-Florida/?vgnextchannel=33df541adec0b410VgnVCM1000000b205a0aRCRD&vgnextfmt=default&vgnextoid=797368822e3ab010VgnVCM100000d90ca8c0RCRD",
+    "sha256": "2cd224204ed2778577312c9cdc4248926f42723a2b7ab3ac8feecceef58f0bf2",
+    "text_chars": 1158
+  },
+  {
+    "id": "S54",
+    "url": "https://www.esmadrid.com/informacion-turistica/templo-de-debod",
+    "checked_at": "2026-09-28T06:18:16.798856+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.esmadrid.com/informacion-turistica/templo-de-debod",
+    "sha256": "c80fdd6a603eb140229b0495fe1fb44fc0f4d90012b586dad0d66fd8f9acef5a",
+    "text_chars": 6789
+  },
+  {
+    "id": "S55",
+    "url": "https://www.esmadrid.com/informacion-turistica/madrid-rio",
+    "checked_at": "2026-09-28T06:18:17.412579+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.esmadrid.com/informacion-turistica/madrid-rio",
+    "sha256": "56953e931379d60810afafe87864a73e274fa79387728dbeb40254b03abbf26a",
+    "text_chars": 8919
+  },
+  {
+    "id": "S56",
+    "url": "https://www.esmadrid.com/en/trips-alcala-henares",
+    "checked_at": "2026-09-28T06:18:18.084115+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.esmadrid.com/en/trips-alcala-henares",
+    "sha256": "dc3b6f11d4edf40a0bf390c5a551fcf2b8669cc7bf463b97566d933950b5c697",
+    "text_chars": 13506
+  },
+  {
+    "id": "S57",
+    "url": "https://www.esmadrid.com/en/trips-aranjuez",
+    "checked_at": "2026-09-28T06:18:19.129819+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.esmadrid.com/en/trips-aranjuez",
+    "sha256": "4310b97b81776c21a556c0c89c60f5c507819ab17fe67b93e270afefe73a54ce",
+    "text_chars": 9618
+  },
+  {
+    "id": "S58",
+    "url": "https://www.esmadrid.com/en/chinchon",
+    "checked_at": "2026-09-28T06:18:19.600090+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.esmadrid.com/en/chinchon",
+    "sha256": "8e1eadbf9e84bc93403cdadb18deed52e66e4557b9ffdf51b17c3671da0f1e33",
+    "text_chars": 8059
+  },
+  {
+    "id": "S59",
+    "url": "https://www.esmadrid.com/en/trips-el-escorial",
+    "checked_at": "2026-09-28T06:18:19.808820+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.esmadrid.com/en/trips-el-escorial",
+    "sha256": "a1a3ffb255c817785f391d7100e9918e1379aff3432af5b7b21022673bdf0c37",
+    "text_chars": 11386
+  },
+  {
+    "id": "S60",
+    "url": "https://www.esmadrid.com/top-10-madrid",
+    "checked_at": "2026-09-28T06:18:21.576557+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.esmadrid.com/top-10-madrid",
+    "sha256": "aaa95f4939d9a230ee9ee253457b1f23cb85df443dad485e8e4ae2065d89f459",
+    "text_chars": 7572
+  },
+  {
+    "id": "S61",
+    "url": "https://www.esmadrid.com/informacion-turistica/puerta-de-alcala",
+    "checked_at": "2026-09-28T06:18:22.629084+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.esmadrid.com/informacion-turistica/puerta-de-alcala",
+    "sha256": "e10330e106355876715f2a7315380609e063965b0f8ec8c262ed22ac372acf26",
+    "text_chars": 6206
+  },
+  {
+    "id": "S62",
+    "url": "https://www.esmadrid.com/informacion-turistica/puerta-del-sol",
+    "checked_at": "2026-09-28T06:18:22.723080+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.esmadrid.com/informacion-turistica/puerta-del-sol",
+    "sha256": "08d0370b21e53afb867f2e00b919440b0a05b99c59225cf31cdf6c0c3ef42a5f",
+    "text_chars": 8859
+  },
+  {
+    "id": "S63",
+    "url": "https://www.esmadrid.com/informacion-turistica/centrocentro",
+    "checked_at": "2026-09-28T06:18:26.859787+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.esmadrid.com/informacion-turistica/centrocentro",
+    "sha256": "ea7634528965b473f933ee0ee01db4e9d2a69627d12783d3afc69caffbe12162",
+    "text_chars": 13257
+  },
+  {
+    "id": "S64",
+    "url": "https://www.esmadrid.com/informacion-turistica/fuente-de-la-cibeles",
+    "checked_at": "2026-09-28T06:18:29.149965+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.esmadrid.com/informacion-turistica/fuente-de-la-cibeles",
+    "sha256": "9ca5ee2109925e59bd0ed2086593e2fa4680dfa36b9563fab97267167175f19e",
+    "text_chars": 5239
+  },
+  {
+    "id": "S65",
+    "url": "https://www.esmadrid.com/barrios-de-madrid/latina",
+    "checked_at": "2026-09-28T06:18:29.239997+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.esmadrid.com/barrios-de-madrid/latina",
+    "sha256": "bc218b05c2e09afcc84b69157977b37b6927f3ae5692f6b7a976b55bce0958cd",
+    "text_chars": 16423
+  },
+  {
+    "id": "S66",
+    "url": "https://www.esmadrid.com/barrios-de-madrid/barrio-letras",
+    "checked_at": "2026-09-28T06:18:30.321893+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.esmadrid.com/barrios-de-madrid/barrio-letras",
+    "sha256": "75bdf7d52fa42982c703dc4096652e061776cdef8447784ba02da74df85e3882",
+    "text_chars": 17485
+  },
+  {
+    "id": "S67",
+    "url": "https://www.esmadrid.com/informacion-turistica/campo-del-moro",
+    "checked_at": "2026-09-28T06:18:30.323391+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.esmadrid.com/informacion-turistica/campo-del-moro",
+    "sha256": "f05629c8e87c87a71ba10188cf3bd58f1982599ad0ed689cebf275728b4ae572",
+    "text_chars": 10101
+  },
+  {
+    "id": "S68",
+    "url": "https://www.esmadrid.com/informacion-turistica/catedral-de-la-almudena",
+    "checked_at": "2026-09-28T06:18:31.050309+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.esmadrid.com/informacion-turistica/catedral-de-la-almudena",
+    "sha256": "fa40a07cfa86a486ebf7c4841bfc8cd29afec06fe4f418d9b422ec6de963c756",
+    "text_chars": 8092
+  },
+  {
+    "id": "S69",
+    "url": "https://diario.madrid.es/blog/notas-de-prensa/madrid-ya-tiene-postre-oficial-para-el-carnaval/",
+    "checked_at": "2026-09-28T06:18:31.994678+00:00",
+    "claim_reviewed": false,
+    "http_status": 403,
+    "final_url": "https://diario.madrid.es/blog/notas-de-prensa/madrid-ya-tiene-postre-oficial-para-el-carnaval/",
+    "sha256": "a54a080d44e64d15f6bc1024fda48def9094ec4e4d2275a7d14b66cf055e8b13"
+  },
+  {
+    "id": "S70",
+    "url": "https://www.esmadrid.com/restaurantes/casa-labra",
+    "checked_at": "2026-09-28T06:18:32.189715+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.esmadrid.com/restaurantes/casa-labra",
+    "sha256": "57eb2a19582c8730c1f03fea5b3ba16fbc4679d23e180bba0a675349887f688d",
+    "text_chars": 5252
+  },
+  {
+    "id": "S71",
+    "url": "https://tickets.patrimonionacional.es/en/tickets/cocinas-palacio-real-de-madrid",
+    "checked_at": "2026-09-28T06:18:32.554935+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://tickets.patrimonionacional.es/en/tickets/cocinas-palacio-real-de-madrid",
+    "sha256": "937692211e3a88df4a359bfc735841b78a169e05fc2afc7106e423b7f23988c9",
+    "text_chars": 7870
+  },
+  {
+    "id": "S72",
+    "url": "https://www.esmadrid.com/sites/default/files/historia_culinaria_de_madrid.pdf",
+    "checked_at": "2026-09-28T06:18:32.985803+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.esmadrid.com/sites/default/files/historia_culinaria_de_madrid.pdf",
+    "sha256": "b191b172491ee1368fd3291187458365497e1d80aa4f23267fa78e2535f161aa",
+    "pdf_requires_visual_review": true
+  },
+  {
+    "id": "S73",
+    "url": "https://www.turismoalcala.es/gastronomia-restaurantes-alcala-de-henares/",
+    "checked_at": "2026-09-28T06:18:33.816611+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.turismoalcala.es/gastronomia-restaurantes-alcala-de-henares/",
+    "sha256": "822a2cf9180c00fd37e92956ccc2c049584679c4dbfb9bcf0616e13331020156",
+    "text_chars": 51
+  },
+  {
+    "id": "S74",
+    "url": "https://bake-street.com/en/costrada-de-alcala-de-henares/",
+    "checked_at": "2026-09-28T06:18:35.449187+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://bake-street.com/en/costrada-de-alcala-de-henares/",
+    "sha256": "dda001d91e90af37f9947b4bf23d29f33affc9ad56eb53625a7ca8a1d73f38eb",
+    "text_chars": 11114
+  },
+  {
+    "id": "S75",
+    "url": "https://www.alcalahoy.es/2024/11/28/primer-concurso-de-la-costrada-patrimonio-gastronomico-de-alcala/",
+    "checked_at": "2026-09-28T06:18:35.999743+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.alcalahoy.es/2024/11/28/primer-concurso-de-la-costrada-patrimonio-gastronomico-de-alcala/",
+    "sha256": "fd99977d38a301870d9075da9c93a266626a858a143d9ffe3d7ecf0e81c45393",
+    "text_chars": 3626
+  },
+  {
+    "id": "S76",
+    "url": "https://www.fresasdearanjuez.es/",
+    "checked_at": "2026-09-28T06:18:36.725780+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.fresasdearanjuez.es/",
+    "sha256": "a4c73c5641edbd2c57cca2cee0bdd58e4d51f535d5951fac30a7af27eedf1602",
+    "text_chars": 2371
+  },
+  {
+    "id": "S77",
+    "url": "https://delahuertadearanjuez.es/esparrago-de-aranjuez/",
+    "checked_at": "2026-09-28T06:18:37.148724+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://delahuertadearanjuez.es/esparrago-de-aranjuez/",
+    "sha256": "86794a7442631672ba8a2e28fe64c6522ec04d007c59dac3016e3e6122894bb6",
+    "text_chars": 1259
+  },
+  {
+    "id": "S78",
+    "url": "https://www.comunidad.madrid/noticias/2026/02/04/comunidad-madrid-incorporara-sellos-calidad-fresas-esparragos-aranjuez-ajo-fino-chinchon-miel-madrid",
+    "checked_at": "2026-09-28T06:18:38.141277+00:00",
+    "claim_reviewed": false,
+    "http_status": 404,
+    "final_url": "https://www.comunidad.madrid/noticias/2026/02/04/comunidad-madrid-incorporara-sellos-calidad-fresas-esparragos-aranjuez-ajo-fino-chinchon-miel-madrid",
+    "sha256": "8b3c5359341c7182f4c1804e890fe4a55191adb160347a5271d7237f30670322"
+  },
+  {
+    "id": "S79",
+    "url": "https://miel-antoniosimon.com/producto/miel-ecologica-de-roble/",
+    "checked_at": "2026-09-28T06:18:39.184191+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://miel-antoniosimon.com/producto/miel-ecologica-de-roble/",
+    "sha256": "67d22c76b2dcd036e5222f3462e4f0ee8fa57aac27ce84996d5442954b244114",
+    "text_chars": 4387
+  },
+  {
+    "id": "S80",
+    "url": "https://miel-antoniosimon.com/",
+    "checked_at": "2026-09-28T06:18:39.237850+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://miel-antoniosimon.com/",
+    "sha256": "a979b8a77899004b072ba1975d2d2927ce91fd63861f27d881565d28298431d9",
+    "text_chars": 3685
+  },
+  {
+    "id": "S81",
+    "url": "https://www.hogarmania.com/cocina/recetas/postres/huesos-expedito-24561.html",
+    "checked_at": "2026-09-28T06:18:39.278361+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.hogarmania.com/cocina/recetas/postres/huesos-expedito-24561.html",
+    "sha256": "5fd3a9dbec54602e17d098520df33cdc551bb5cceed9f4c33c9f7030f58ce9be",
+    "text_chars": 2441
+  },
+  {
+    "id": "S82",
+    "url": "https://www.museodelprado.es/aprende/enciclopedia/voz/bodegon-con-cacharros-zurbaran/98bc3d58-c579-4973-bb9d-4913955c005c",
+    "checked_at": "2026-09-28T06:18:39.659869+00:00",
+    "claim_reviewed": false,
+    "http_status": 403,
+    "final_url": "https://www.museodelprado.es/aprende/enciclopedia/voz/bodegon-con-cacharros-zurbaran/98bc3d58-c579-4973-bb9d-4913955c005c",
+    "sha256": "554bef3fee46e1da2ee31ef40b1f63b716a3ec00edac56ef3d6b2bd086bdc3b1"
+  },
+  {
+    "id": "S83",
+    "url": "https://www.museodelprado.es/lectura-facil/bodegon-con-cacharros-zurbaran/928d34c8-ce8d-ec63-1d92-f193cf162f40",
+    "checked_at": "2026-09-28T06:18:39.778457+00:00",
+    "claim_reviewed": false,
+    "http_status": 403,
+    "final_url": "https://www.museodelprado.es/lectura-facil/bodegon-con-cacharros-zurbaran/928d34c8-ce8d-ec63-1d92-f193cf162f40",
+    "sha256": "0f0830e26a9c3621e71572f759469923ad60ce661de96b0e4403f5d955e9cce3"
+  },
+  {
+    "id": "S84",
+    "url": "https://gallinejasenriqueta.es/san-isidro",
+    "checked_at": "2026-09-28T06:18:39.815513+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://gallinejasenriqueta.es/san-isidro",
+    "sha256": "ededbbd04d3cce95045983f8d176e928ad3854cf6eeff442a22d7c2db9a40741",
+    "text_chars": 3223
+  },
+  {
+    "id": "S85",
+    "url": "https://gallinejasenriqueta.es/nuestra-historia",
+    "checked_at": "2026-09-28T06:18:39.855016+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://gallinejasenriqueta.es/nuestra-historia",
+    "sha256": "3b17c863fa68bf2adef07e3d3c3854a55acc6b60d7c135522158212dcff4e40a",
+    "text_chars": 3843
+  },
+  {
+    "id": "S86",
+    "url": "https://www.esparragodearanjuez.es/",
+    "checked_at": "2026-09-28T06:18:40.732485+00:00",
+    "claim_reviewed": false,
+    "http_status": 200,
+    "final_url": "https://www.esparragodearanjuez.es/",
+    "sha256": "9b08b1bc5518f66a7fd6a4427888fa8c52d8795d541ddbea8322ec4b30ececc4",
+    "text_chars": 2424
+  }
+]

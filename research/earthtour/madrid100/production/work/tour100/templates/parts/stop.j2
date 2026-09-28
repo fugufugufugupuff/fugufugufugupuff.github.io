@@ -1,0 +1,47 @@
+{% from "parts/_macros.j2" import pol, postmark, TAPES %}
+<section class="stop" id="{{ s.anchor }}" style="--dc:var(--d{{ d.day }})">
+  {% if s.botanical %}<img class="dz {{ 'r' if s.no is even else 'l' }}" src="{{ s.botanical }}" alt="" aria-hidden="true" loading="lazy">{% endif %}
+  <div class="wrap">
+    <nav class="route" aria-label="DAY {{ d.day }} のルート">{% for r in d.stops %}<a class="{{ 'done' if loop.index0 < s.i else ('now' if loop.index0 == s.i else '') }}" href="#{{ r.anchor }}"><i></i><b>{{ r.time }}</b>{{ r.label }}</a>{% endfor %}</nav>
+
+    <div class="ticket">
+      <div class="stub"><time>{{ s.time }}</time><small>{{ s.slot }}</small></div>
+      <div class="main">
+        <div class="tags"><span class="chip solid">STOP {{ '%02d' % s.no }}</span><span class="chip">DAY {{ d.day }}</span><span class="chip">{{ s.area }}</span></div>
+        <h2>{{ s.title|bx }}<small>{{ s.subtitle|bx }}</small></h2>
+      </div>
+      <div class="pmw">{{ postmark("STOP " ~ ('%02d' % s.no), s.pm, meta.month) }}</div>
+    </div>
+
+    {% if s.opener %}<div class="opener">{{ pol(s.opener, "l", sizes="(min-width:1080px) 920px, 94vw") }}</div>{% endif %}
+
+    <div class="intro">
+      <div class="txt">{% for para in s.body %}<p>{{ para }}</p>{% endfor %}{% if s.source_links %}<p>名所の出典：{% for label, url in s.source_links %}<a href="{{ url }}">{{ label }}</a>{{ '・' if not loop.last else '' }}{% endfor %}</p>{% endif %}</div>
+      <aside class="spot">
+        {% if not meta.get('thematic') %}<div class="map" data-lat="{{ s.lat }}" data-lng="{{ s.lng }}" data-r="{{ s.r }}"><div class="mapfb">地図</div></div>{% endif %}
+        <p class="nm">{{ s.place_name|bx }}</p>
+        <dl>
+          <div><dt>エリア</dt><dd>{{ s.area }}</dd></div>
+          {% if s.hours %}<div><dt>時間</dt><dd>{{ s.hours }}</dd></div>{% endif %}
+          {% if s.access %}<div><dt>行き方</dt><dd>{{ s.access }}</dd></div>{% endif %}
+          {% for k, v in s.info %}<div><dt>{{ k }}</dt><dd>{{ v }}</dd></div>{% endfor %}
+        </dl>
+      </aside>
+    </div>
+
+    <div class="subh"><h3><small>ここで選びたいもの</small>{{ s.dishes|length }}品</h3>{% if meta.get('show_costs', true) %}<span>{{ s.total|money }} ≈ {{ '{:,}'.format(s.total_yen) }}円</span>{% endif %}</div>
+    {% for x in s.dishes %}{% with di = loop.index0 %}{% include "parts/dish.j2" %}{% endwith %}{% endfor %}
+
+    {% if s.scenes %}
+    <div class="subh"><h3><small>まちのようす</small>{{ s.area|bx }}</h3></div>
+    <div class="scenes">{% for p in s.scenes %}{{ pol(p, ["l", "r c3", "l c2"][loop.index0 % 3], sizes="(min-width:768px) 340px, 46vw") }}{% endfor %}</div>
+    {% endif %}
+
+    <div class="memos">
+      {% if s.phrase %}<div class="memo say"><h5>注文の一言</h5><span class="en">{{ s.phrase.en }}</span><span class="kana">{{ s.phrase.kana }}</span>{{ s.phrase.ja }}</div>{% endif %}
+      {% for t in s.tips %}<div class="memo"><h5>{{ t.h }}</h5>{{ t.t }}</div>{% endfor %}
+    </div>
+
+    {% if s.move %}<div class="move"><div class="tk"><i aria-hidden="true">{{ s.move.icon }}</i><span>{{ s.move.text|bx }}</span><em>{{ 'おしまい' if s.last else 'つぎへ →' }}</em></div></div>{% endif %}
+  </div>
+</section>

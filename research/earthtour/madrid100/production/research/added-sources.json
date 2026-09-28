@@ -1,0 +1,159 @@
+[
+ {
+  "id": "S87",
+  "title": "Madrid tourism: flavours from across Spain",
+  "url": "https://www.esmadrid.com/en/flavours-all-over-spain-madrid",
+  "scope": "各地から首都へ集まる料理の地域区分",
+  "retrieved_at": "2026-09-28",
+  "kind": "primary",
+  "claim_review": "see review/source-claims.json",
+  "http_status": 200,
+  "final_url": "https://www.esmadrid.com/en/flavours-all-over-spain-madrid"
+ },
+ {
+  "id": "S88",
+  "title": "Madrid tourism: flavours of Madrid",
+  "url": "https://www.esmadrid.com/en/the-flavours-of-madrid",
+  "scope": "マドリードの料理と菓子",
+  "retrieved_at": "2026-09-28",
+  "kind": "primary",
+  "claim_review": "see review/source-claims.json",
+  "http_status": 200,
+  "final_url": "https://www.esmadrid.com/en/the-flavours-of-madrid"
+ },
+ {
+  "id": "S89",
+  "title": "Regional tourism: traditional gastronomy",
+  "url": "https://www.visitmadrid.es/en/things-to-do-in-madrid/what-to-do/gastronomy-in-madrid/traditional-gastronomy",
+  "scope": "州の伝統料理",
+  "retrieved_at": "2026-09-28",
+  "kind": "primary",
+  "claim_review": "see review/source-claims.json",
+  "http_status": 404,
+  "final_url": "https://www.visitmadrid.es/en/things-to-do-in-madrid/what-to-do/gastronomy-in-madrid/traditional-gastronomy",
+  "error": "404 Client Error: Not Found for url: https://www.visitmadrid.es/en/things-to-do-in-madrid/what-to-do/gastronomy-in-madrid/traditional-gastronomy"
+ },
+ {
+  "id": "S90",
+  "title": "Spain tourism: Madrid regional cuisine",
+  "url": "https://www.spain.info/en/gastronomy/madrid-regional-cuisine/",
+  "scope": "伝統料理・全国の味の集積",
+  "retrieved_at": "2026-09-28",
+  "kind": "primary",
+  "claim_review": "see review/source-claims.json",
+  "http_status": 200,
+  "final_url": "https://www.spain.info/en/gastronomy/madrid-regional-cuisine/"
+ },
+ {
+  "id": "S91",
+  "title": "Comunidad: quality labels",
+  "url": "https://www.comunidad.madrid/agricultura-ganaderia-medio-rural/marcas-calidad-alimentos-madrid",
+  "scope": "品質表示と産地認証の区別",
+  "retrieved_at": "2026-09-28",
+  "kind": "primary",
+  "claim_review": "see review/source-claims.json",
+  "http_status": 404,
+  "final_url": "https://www.comunidad.madrid/agricultura-ganaderia-medio-rural/marcas-calidad-alimentos-madrid",
+  "error": "404 Client Error: Not Found for url: https://www.comunidad.madrid/agricultura-ganaderia-medio-rural/marcas-calidad-alimentos-madrid"
+ },
+ {
+  "id": "S92",
+  "title": "Comunidad: foods of Madrid",
+  "url": "https://www.comunidad.madrid/agricultura-ganaderia-medio-rural/alimentos-madrid",
+  "scope": "州内産品",
+  "retrieved_at": "2026-09-28",
+  "kind": "primary",
+  "claim_review": "see review/source-claims.json",
+  "http_status": 404,
+  "final_url": "https://www.comunidad.madrid/agricultura-ganaderia-medio-rural/alimentos-madrid",
+  "error": "404 Client Error: Not Found for url: https://www.comunidad.madrid/agricultura-ganaderia-medio-rural/alimentos-madrid"
+ },
+ {
+  "id": "S93",
+  "title": "La Canibal: our brewery",
+  "url": "https://lacanibal.com/la-fabrica-nuestras-cervezas/",
+  "scope": "2023年10月の自社醸造所稼働",
+  "retrieved_at": "2026-09-28",
+  "kind": "primary",
+  "claim_review": "see review/source-claims.json",
+  "error": "HTTPSConnectionPool(host='lacanibal.com', port=443): Max retries exceeded with url: /la-fabrica-nuestras-cervezas/ (Caused by ConnectTimeoutError(<urllib3.conne"
+ },
+ {
+  "id": "S94",
+  "title": "Madrid tourism: Casa Mingo",
+  "url": "https://www.esmadrid.com/restaurantes/casa-mingo",
+  "scope": "鶏のローストとシードル",
+  "retrieved_at": "2026-09-28",
+  "kind": "primary",
+  "claim_review": "see review/source-claims.json",
+  "http_status": 200,
+  "final_url": "https://www.esmadrid.com/restaurantes/casa-mingo"
+ },
+ {
+  "id": "S95",
+  "title": "Madrid tourism: vermouth map PDF",
+  "url": "https://www.esmadrid.com/sites/default/files/plano-vermuterias-madrid.pdf",
+  "scope": "Casa CamachoのYayoの配合",
+  "retrieved_at": "2026-09-28",
+  "kind": "primary",
+  "claim_review": "see review/source-claims.json",
+  "http_status": 200,
+  "final_url": "https://www.esmadrid.com/sites/default/files/plano-vermuterias-madrid.pdf"
+ },
+ {
+  "id": "S96",
+  "title": "Madrid tourism: vermouth map",
+  "url": "https://www.esmadrid.com/mapa-vermuterias-madrid",
+  "scope": "ベルムー文化",
+  "retrieved_at": "2026-09-28",
+  "kind": "primary",
+  "claim_review": "see review/source-claims.json",
+  "http_status": 200,
+  "final_url": "https://www.esmadrid.com/mapa-vermuterias-madrid"
+ },
+ {
+  "id": "S97",
+  "title": "Quesos Campo Real",
+  "url": "https://quesoscamporeal.com/",
+  "scope": "羊乳・混合乳の商品を区別",
+  "retrieved_at": "2026-09-28",
+  "kind": "primary",
+  "claim_review": "see review/source-claims.json",
+  "error": "HTTPSConnectionPool(host='quesoscamporeal.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection o"
+ },
+ {
+  "id": "S98",
+  "title": "Royal kitchens official tickets",
+  "url": "https://tickets.patrimonionacional.es/es/tickets/cocinas-palacio-real-de-madrid",
+  "scope": "券種とスペイン語見学",
+  "retrieved_at": "2026-09-28",
+  "kind": "primary",
+  "claim_review": "see review/source-claims.json",
+  "http_status": 200,
+  "final_url": "https://tickets.patrimonionacional.es/es/tickets/cocinas-palacio-real-de-madrid"
+ },
+ {
+  "id": "S99",
+  "title": "San Isidro route: limonada",
+  "url": "https://www.esmadrid.com/ruta-san-isidro",
+  "http_status": 200,
+  "checked_at": "2026-09-28",
+  "claim_review": "source-claims.json"
+ },
+ {
+  "id": "S100",
+  "title": "DIA: porras recipe",
+  "url": "https://www.dia.es/recetas/receta/porras",
+  "http_status": 403,
+  "checked_at": "2026-09-28",
+  "claim_review": "source-claims.json"
+ },
+ {
+  "id": "S101",
+  "title": "Vinos de Madrid regulatory council",
+  "url": "https://vinosdemadrid.es/",
+  "http_status": 403,
+  "checked_at": "2026-09-28",
+  "claim_review": "source-claims.json"
+ }
+]

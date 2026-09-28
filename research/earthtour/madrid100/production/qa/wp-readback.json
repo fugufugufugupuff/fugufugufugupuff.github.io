@@ -1,0 +1,18 @@
+{
+ "site": "https://earthtour.jp",
+ "id": 12704,
+ "status": "draft",
+ "slug": "madrid-100-dishes-tour",
+ "featured_media": 12601,
+ "expected_featured_media": 12601,
+ "body_equal": true,
+ "body_sha256": "70ee2b292639169d331fd109ba182c3cd792578e2423312c8b0c5d2bbd85ba1c",
+ "expected_sha256": "70ee2b292639169d331fd109ba182c3cd792578e2423312c8b0c5d2bbd85ba1c",
+ "dish_anchors": 100,
+ "image_urls": 111,
+ "categories": [
+  73
+ ],
+ "production_gate_passed": false,
+ "reason": "13 dish photographs unavailable; M003 partial; draft retained as explicitly requested working artifact"
+}

@@ -1,0 +1,13 @@
+{% from "parts/_macros.j2" import pol %}
+<section class="day" id="day-{{ d.day }}" style="--dc:var(--d{{ d.day }})">
+  {% if deco.day_bg %}<img class="dz" src="{{ deco.day_bg }}" alt="" aria-hidden="true" loading="lazy">{% endif %}
+  <div class="wrap">
+    <div class="no"><small>{{ '章' if meta.get('thematic') else 'DAY' }}</small>{{ d.day }}</div>
+    <div>
+      <p class="date">{{ d.date }}</p>
+      <h2>{{ d.title|bx }}</h2>
+      <p>{{ d.sub|bx }}</p>
+      {% if d.strip %}<div class="strip">{% for p in d.strip %}{{ pol(p, cap=False, sizes="(min-width:768px) 190px, 30vw") }}{% endfor %}</div>{% endif %}
+    </div>
+  </div>
+</section>

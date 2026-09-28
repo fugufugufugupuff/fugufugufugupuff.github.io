@@ -1,0 +1,8 @@
+{
+ "mode": "wordpress",
+ "target": "authenticated draft preview",
+ "widths": [],
+ "blocked": true,
+ "http_status": 404,
+ "reason": "Authenticated request did not render draft article; no publication performed"
+}

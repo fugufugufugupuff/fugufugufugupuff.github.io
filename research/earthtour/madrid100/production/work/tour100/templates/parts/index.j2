@@ -1,0 +1,9 @@
+{% from "parts/_macros.j2" import sech, img %}
+<section class="index" id="t100-index">
+  <div class="wrap">
+    {{ sech("もくじ", stats.dishes ~ "品いっきに見る", "写真を押すと、その料理へ飛べる") }}
+    <div class="grid100">
+      {% for x in all_dishes %}<a href="#dish-{{ '%03d' % x.no }}"><b>{{ '%03d' % x.no }}</b>{% if x.photo %}{{ img(x.photo, "(min-width:768px) 110px, 24vw") }}{% endif %}<span title="{{ x.name }}">{{ x.index_name or x.name }}</span></a>{% endfor %}
+    </div>
+  </div>
+</section>

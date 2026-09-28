@@ -1,0 +1,53 @@
+{
+ "site": "https://earthtour.jp",
+ "post_id": 12704,
+ "status": "draft",
+ "featured_media": 12601,
+ "production_complete": false,
+ "article_source": "article.json",
+ "article_html": "out/post.html",
+ "local_preview": "out/preview.html",
+ "wordpress_preview_verified": false,
+ "github_repo": "fugufugufugupuff/fugufugufugupuff.github.io",
+ "github_branch": "handoff/earthtour-madrid100-20260928",
+ "github_path": "research/earthtour/madrid100/production",
+ "initial_commit": "472c3117478ad5bbd3418cdddff9bd62027d8d3f",
+ "delivery_commit": "read containing git commit; remote verification recorded in delivery-verification.json outside this commit",
+ "foods": 100,
+ "sights": 30,
+ "adopted_images": 103,
+ "food_photo_complete": 86,
+ "food_photo_partial": [
+  "M003"
+ ],
+ "food_photo_missing": [
+  "M004",
+  "M013",
+  "M014",
+  "M073",
+  "M074",
+  "M081",
+  "M085",
+  "M088",
+  "M089",
+  "M090",
+  "M091",
+  "M096",
+  "M097"
+ ],
+ "local_qa_widths": [
+  360,
+  390,
+  768,
+  1024,
+  1440
+ ],
+ "resume": [
+  "Read BLOCKERS.md and source-audit.md",
+  "Acquire missing dish photos without substitutes, then archive/verify/attach; preserve M062 shared original with M061",
+  "Import only newly accepted images; update media map",
+  "Finish canonical review; retain verified selection evidence",
+  "Rebuild; update ONLY draft 12704; read back content/status/featured media",
+  "Use an authorized logged-in browser to complete WordPress visual QA at all five widths; do not publish"
+ ]
+}

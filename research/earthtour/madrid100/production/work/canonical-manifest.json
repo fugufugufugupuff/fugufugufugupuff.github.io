@@ -1,0 +1,126 @@
+{
+  "source": "C:\\Users\\81905\\Documents\\世界の行ってみたい大図鑑\\earthtour\\tour100",
+  "copied_at": "2026-09-28",
+  "files": [
+    {
+      "path": "build.py",
+      "sha256": "a3a671c00c4203c31546151dd040426b628219a813f33b91fc94903b1083df5a"
+    },
+    {
+      "path": "DESIGN.md",
+      "sha256": "a1fa02d248d9d73e098102609c57f7449c33184cdafb26e0576a0fdc04993e82"
+    },
+    {
+      "path": "editorial.py",
+      "sha256": "245e6d7b3815e7be558ab9775733440379f1cbb044f6a038df40dfa3f88a915b"
+    },
+    {
+      "path": "photos.py",
+      "sha256": "87b7935a5b65c690d03b9d12ac090e0f07ef4ec3ee62fbd6d0b029ed7150e290"
+    },
+    {
+      "path": "qa.js",
+      "sha256": "44d47803ebe8cf913a1472dbb96ad4a8c6f93bf84b25c49ff6db575c25f4b4a5"
+    },
+    {
+      "path": "README.md",
+      "sha256": "88dd6a53ab5dac6a384bc8797ded357780d990cc8684145f6c4c123d822957bd"
+    },
+    {
+      "path": "SELECTION.md",
+      "sha256": "420da15820ac320925640ee0b5cebb907d9505dcc8bebf7152d2a2f51aef964a"
+    },
+    {
+      "path": "selection.py",
+      "sha256": "005ded53a33b8e00ca72904a8e7fe7a47df94879006d7bdd8a45d38b35dd7cec"
+    },
+    {
+      "path": "test_editorial.py",
+      "sha256": "56ca86f22fb174715cdceffa8c964ac4bbbf1168e44c0b767942460fb250da6a"
+    },
+    {
+      "path": "test_localize.py",
+      "sha256": "553df6f44c901b893cd0e3ad19aa89b6d773a4db8553ec22cf64fc8107e2c9ab"
+    },
+    {
+      "path": "test_photos.py",
+      "sha256": "f843487e98b229990009397c522a796ddf86355224912b09839d3d9bc8726c4e"
+    },
+    {
+      "path": "test_selection.py",
+      "sha256": "6413eb4d3133ff2544458fc922d6ad01d9081686cc859280ccea684a5112116a"
+    },
+    {
+      "path": "themes.json",
+      "sha256": "6212f05558f2d31978124abd1c7dd4c2af59fa0ffbe2837f6322b61fb7fbe0ce"
+    },
+    {
+      "path": "assets/tour100.css",
+      "sha256": "b6e653a39c83b82228d2575583f596b67a1a85f422f8d54789062072ff66a2b5"
+    },
+    {
+      "path": "assets/tour100.js",
+      "sha256": "e94e5d5e0a4b686e2155144e4ee1a7b7bff189943737e1b5af29f19b8ac5cae3"
+    },
+    {
+      "path": "briefs/01_logistics.md",
+      "sha256": "15eb611d12e84c3bc6bb02b43d3e9ebd3bc410a394ac8cf9979042e2b9d32a46"
+    },
+    {
+      "path": "briefs/02_dishes.md",
+      "sha256": "f15afe0414543f95bb366d12db329f0a5e7e3d5dcfb8f2635c3c165c6ed048d9"
+    },
+    {
+      "path": "briefs/03_stops.md",
+      "sha256": "f019a9cf9e142297657518e16a8c33416f77816ecb2c439a92dd2cdd190fab07"
+    },
+    {
+      "path": "briefs/04_photos.md",
+      "sha256": "ce94c78604a1cd5c7ec9057289c49b0d832bdd0b180f8fc97250b6134edf087f"
+    },
+    {
+      "path": "briefs/05_review.md",
+      "sha256": "215c3cca77f017e6d0a31f28ea75179744c91bffcf9b2157144d69b958403287"
+    },
+    {
+      "path": "examples/article.template.json",
+      "sha256": "b3a57208818b4c69055bb1eb523d0da5a19b5cda28a9cef2de6a73b6d8862756"
+    },
+    {
+      "path": "templates/article.html.j2",
+      "sha256": "fdfd228219874e54d50094b8fcbf570761017f9538ab4b3e6034a4288b1105d1"
+    },
+    {
+      "path": "templates/parts/cover.j2",
+      "sha256": "afa0fc9e71e3ca4a425482a43e0e82f51a3c41fb07fbac9c71608bb3863aedbd"
+    },
+    {
+      "path": "templates/parts/day.j2",
+      "sha256": "c8d6047f59b1a2b567c66092e0fdcbd99400ad458d26ee66cfa528aeb021c470"
+    },
+    {
+      "path": "templates/parts/dish.j2",
+      "sha256": "b140fcdd97ab329f1d5cc59e588334ae551e64dfa587b8058818be7ca615e448"
+    },
+    {
+      "path": "templates/parts/end.j2",
+      "sha256": "4ecc17892afbc42980648aa8a5b7b1f041187d8d19873556818e200a622e620f"
+    },
+    {
+      "path": "templates/parts/index.j2",
+      "sha256": "f0d1a5daf242378ccfce77a0c7780c813885bab725eb2dab284addfcace89c69"
+    },
+    {
+      "path": "templates/parts/plan.j2",
+      "sha256": "0bed6a241a88bb5d30cf739ed2794133a3557d945b0e5278690bf2833de7af21"
+    },
+    {
+      "path": "templates/parts/stop.j2",
+      "sha256": "fcfe83f20aa7270293b8adb5c1629ac7325b5c517b3308cd1cac29d17e396fde"
+    },
+    {
+      "path": "templates/parts/_macros.j2",
+      "sha256": "27123ae579eae0decc66f88fae07c882f88c26f066af08115eaed0983e01be35"
+    }
+  ]
+}

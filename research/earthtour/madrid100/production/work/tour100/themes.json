@@ -1,0 +1,234 @@
+{
+ "uk": {
+  "label": "イギリス",
+  "colors": {
+   "accent": "#c8102e",
+   "accent2": "#012169",
+   "gold": "#f2b134"
+  },
+  "deco": {
+   "crest": "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_025_Caslon-Ornament-B.png",
+   "fleuron": "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_022_Fleuron-Ornament-1796.png",
+   "botanicals": [
+    "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_011_Tea-botanical-line-art.png",
+    "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_018_Tea-plant-drawing.png",
+    "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_040_Camellia-sinensis.jpg"
+   ],
+   "cover_bg": "https://earthtour.jp/wp-content/uploads/2026/09/sekai-ryori-092-old-world-map-1750.png",
+   "day_bg": "https://earthtour.jp/wp-content/uploads/2026/09/sekai-ryori-091-old-world-map-1565.jpg",
+   "end_bg": "https://earthtour.jp/wp-content/uploads/2026/09/sekai-ryori-098-menu-vintage-table-scaled.jpg"
+  }
+ },
+ "europe": {
+  "label": "ヨーロッパ",
+  "colors": {
+   "accent": "#d7263d",
+   "accent2": "#1d4e89",
+   "gold": "#f2b134"
+  },
+  "deco": {
+   "crest": "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_024_Caslon-Ornament.png",
+   "fleuron": "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_023_Fleuron-Ornament-1796-B.png",
+   "botanicals": [
+    "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_048_レモン植物図版.jpg",
+    "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_019_Pepper-botanical-study-scaled.jpg",
+    "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_001_Botanical-plate-scaled.jpg"
+   ],
+   "cover_bg": "https://earthtour.jp/wp-content/uploads/2026/09/sekai-ryori-092-old-world-map-1750.png",
+   "day_bg": "https://earthtour.jp/wp-content/uploads/2026/09/sekai-ryori-091-old-world-map-1565.jpg",
+   "end_bg": "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_085_Cafe-Restaurant-Rat-Mort-1896-scaled.jpg"
+  }
+ },
+ "east-asia": {
+  "label": "東アジア",
+  "colors": {
+   "accent": "#c0392b",
+   "accent2": "#1f3a5f",
+   "gold": "#e8b23a"
+  },
+  "deco": {
+   "crest": null,
+   "fleuron": "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_026_Gothic-Fleuron-scaled.png",
+   "botanicals": [
+    "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_041_川原慶賀_茶.jpg",
+    "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_040_Camellia-sinensis.jpg",
+    "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_018_Tea-plant-drawing.png"
+   ],
+   "cover_bg": "https://earthtour.jp/wp-content/uploads/2026/08/et-cloud-dragon-brocade.jpg",
+   "day_bg": "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_066_Floral-Cloud-band-Tile-scaled.jpg",
+   "end_bg": "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_089_日本_食券1952.jpg",
+   "stickers": [
+    "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_032_日本_屋台マッチ箱ラベル.jpg",
+    "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_033_日本_酒マッチ箱ラベル.jpg",
+    "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_034_日本_魚料理マッチ箱ラベル.jpg",
+    "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_035_日本_魚と果物マッチ箱ラベル.jpg"
+   ]
+  }
+ },
+ "southeast-asia": {
+  "label": "東南アジア",
+  "colors": {
+   "accent": "#e4572e",
+   "accent2": "#17806d",
+   "gold": "#f3a712"
+  },
+  "deco": {
+   "crest": null,
+   "fleuron": "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_022_Fleuron-Ornament-1796.png",
+   "botanicals": [
+    "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_042_ショウガ植物図版-scaled.png",
+    "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_046_唐辛子植物図版-scaled.jpg",
+    "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_045_カルダモン植物図版.jpg"
+   ],
+   "cover_bg": "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_014_Fruits-vegetables-nuts-scaled.jpg",
+   "day_bg": "https://earthtour.jp/wp-content/uploads/2026/09/sekai-ryori-096-tea-spices-market.jpg",
+   "end_bg": "https://earthtour.jp/wp-content/uploads/2026/09/sekai-ryori-097-spice-supermarket-japan.jpg"
+  }
+ },
+ "south-asia": {
+  "label": "南アジア",
+  "colors": {
+   "accent": "#d1495b",
+   "accent2": "#00798c",
+   "gold": "#edae49"
+  },
+  "deco": {
+   "crest": null,
+   "fleuron": "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_023_Fleuron-Ornament-1796-B.png",
+   "botanicals": [
+    "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_043_黒胡椒植物図版.png",
+    "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_045_カルダモン植物図版.jpg",
+    "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_047_クローブ植物図版.jpg"
+   ],
+   "cover_bg": "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_006_Kalamkari-Hanging-scaled.jpg",
+   "day_bg": "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_004_Textile-Floral-Medallion.jpg",
+   "end_bg": "https://earthtour.jp/wp-content/uploads/2026/09/sekai-ryori-096-tea-spices-market.jpg"
+  }
+ },
+ "middle-east": {
+  "label": "中東",
+  "colors": {
+   "accent": "#b5302d",
+   "accent2": "#1b5e8c",
+   "gold": "#e0a526"
+  },
+  "deco": {
+   "crest": null,
+   "fleuron": "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_026_Gothic-Fleuron-scaled.png",
+   "botanicals": [
+    "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_044_ナツメグ植物図版.jpg",
+    "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_047_クローブ植物図版.jpg",
+    "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_048_レモン植物図版.jpg"
+   ],
+   "cover_bg": "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_063_Iznik-tile-1575-scaled.jpg",
+   "day_bg": "https://earthtour.jp/wp-content/uploads/2026/08/et-kashan-tile.jpg",
+   "end_bg": "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_072_Iznik-tile-depicting-Mecca-scaled.jpg"
+  }
+ },
+ "africa": {
+  "label": "アフリカ",
+  "colors": {
+   "accent": "#d9480f",
+   "accent2": "#1d6b3a",
+   "gold": "#f2b134"
+  },
+  "deco": {
+   "crest": null,
+   "fleuron": "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_022_Fleuron-Ornament-1796.png",
+   "botanicals": [
+    "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_020_Cocoa-Drawing-1852.jpg",
+    "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_038_Coffea-arabica-diagram.jpg",
+    "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_039_Vanilla-botanical.jpg"
+   ],
+   "cover_bg": "https://earthtour.jp/wp-content/uploads/2026/08/et-afr-zellige-morocco.jpg",
+   "day_bg": "https://earthtour.jp/wp-content/uploads/2026/08/et-afr-kente-ghana.jpg",
+   "end_bg": "https://earthtour.jp/wp-content/uploads/2026/08/et-afr-ankara-nigeria.jpg"
+  }
+ },
+ "latin-america": {
+  "label": "中南米",
+  "colors": {
+   "accent": "#e63946",
+   "accent2": "#2a9d8f",
+   "gold": "#f4a261"
+  },
+  "deco": {
+   "crest": null,
+   "fleuron": "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_023_Fleuron-Ornament-1796-B.png",
+   "botanicals": [
+    "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_020_Cocoa-Drawing-1852.jpg",
+    "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_046_唐辛子植物図版-scaled.jpg",
+    "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_039_Vanilla-botanical.jpg"
+   ],
+   "cover_bg": "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_070_Sarape-pattern.jpg",
+   "day_bg": "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_069_Mexico-Textile-19th-century-scaled.jpg",
+   "end_bg": "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_071_Talavera-Bowl-scaled.jpg"
+  }
+ },
+ "north-america": {
+  "label": "北米",
+  "colors": {
+   "accent": "#c1121f",
+   "accent2": "#003049",
+   "gold": "#fcbf49"
+  },
+  "deco": {
+   "crest": "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_024_Caslon-Ornament.png",
+   "fleuron": "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_022_Fleuron-Ornament-1796.png",
+   "botanicals": [
+    "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_020_Cocoa-Drawing-1852.jpg",
+    "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_038_Coffea-arabica-diagram.jpg",
+    "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_048_レモン植物図版.jpg"
+   ],
+   "cover_bg": "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_049_Pure-Food-Cafes-Menu-1900-scaled.jpg",
+   "day_bg": "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_029_Hamblens-Restaurant-Menu-1900-scaled.jpg",
+   "end_bg": "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_081_Moodys-Menu-1930.png"
+  }
+ },
+ "oceania": {
+  "label": "オセアニア",
+  "colors": {
+   "accent": "#e76f51",
+   "accent2": "#264653",
+   "gold": "#e9c46a"
+  },
+  "deco": {
+   "crest": null,
+   "fleuron": "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_023_Fleuron-Ornament-1796-B.png",
+   "botanicals": [
+    "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_039_Vanilla-botanical.jpg",
+    "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_048_レモン植物図版.jpg",
+    "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_038_Coffea-arabica-diagram.jpg"
+   ],
+   "cover_bg": "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_067_Tapa-Cloth-19th-century-scaled.jpg",
+   "day_bg": "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_068_Tapa-Cloth-19th-century-B-scaled.jpg",
+   "end_bg": "https://earthtour.jp/wp-content/uploads/2026/09/sekai-ryori-098-menu-vintage-table-scaled.jpg"
+  }
+ },
+ "japan": {
+  "label": "日本",
+  "colors": {
+   "accent": "#bc002d",
+   "accent2": "#1f3a5f",
+   "gold": "#e8b23a"
+  },
+  "deco": {
+   "crest": null,
+   "fleuron": "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_026_Gothic-Fleuron-scaled.png",
+   "botanicals": [
+    "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_041_川原慶賀_茶.jpg",
+    "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_040_Camellia-sinensis.jpg",
+    "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_042_ショウガ植物図版-scaled.png"
+   ],
+   "cover_bg": "https://earthtour.jp/wp-content/uploads/2026/08/et-cloud-dragon-brocade.jpg",
+   "day_bg": "https://earthtour.jp/wp-content/uploads/2026/08/et-flora-japonica.jpg",
+   "end_bg": "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_089_日本_食券1952.jpg",
+   "stickers": [
+    "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_058_日本_富士山マッチ箱ラベル.jpg",
+    "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_059_日本_バー広告マッチ箱ラベル.jpg",
+    "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_060_日本_伝統ロゴマッチ箱ラベル.jpg",
+    "https://earthtour.jp/wp-content/uploads/2026/09/世界料理図鑑_010_日本食品マッチ箱ラベル.jpg"
+   ]
+  }
+ }
+}

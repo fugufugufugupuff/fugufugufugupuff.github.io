@@ -1,0 +1,20 @@
+{% from "parts/_macros.j2" import sech %}
+<section class="plan" id="t100-plan">
+  <div class="wrap">
+    {{ sech("旅のしおり", stats.days ~ ("章・" if meta.get('thematic') else "日間・") ~ stats.stops ~ ("の食の場面" if meta.get('thematic') else "の食事"), meta.plan_sub, deco.fleuron) }}
+    <div class="days">
+      {% for d in days %}
+      <div class="dayc" style="--dc:var(--d{{ d.day }})">
+        <header><b>{{ '第' ~ d.day ~ '章' if meta.get('thematic') else 'DAY ' ~ d.day }}</b><span>{{ d.date }}</span></header>
+        <h3>{{ d.title|bx }}</h3>
+        <ul>{% for s in d.stops %}<li><time>{{ s.time }}</time><a href="#{{ s.anchor }}">{{ s.label|bx }}</a><em>{{ s.dishes|length }}品</em></li>{% endfor %}</ul>
+      </div>
+      {% endfor %}
+    </div>
+    {% if not meta.get('thematic') %}<div class="mapall" id="t100-map-all"><div class="mapfb">地図を読み込んでいます…</div></div>{% endif %}
+    <div class="legend">{% for d in days %}<span><i style="background:var(--d{{ d.day }})"></i>DAY {{ d.day }}　{{ d.date }}</span>{% endfor %}</div>
+    {% if basics %}
+    <div class="basics">{% for k, v in basics %}<div><small>{{ k }}</small><p>{{ v }}</p></div>{% endfor %}</div>
+    {% endif %}
+  </div>
+</section>
